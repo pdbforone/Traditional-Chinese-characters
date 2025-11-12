@@ -2298,31 +2298,31 @@ Character	Pinyin	Tone	Meaning	Story
 紗	shā	1	yarn	Yarn thread few sings "Shah!" cheerfully - gauze fabric weave!
 綽	chuò	4	ample	Ample thread convex commands sharply "Chwoh!" - spacious nickname!
 紹	shào	4	acquaint	Acquaint thread call sings "Shao!" cheerfully - introduce present!
-絮	xù	4	long-winded	Long-winded thread commands sharply "Shoo!" - rambling tediously!
-繞	rào	4	go around	Go around thread commands sharply "Rao!" - detour circle!
-紮	zā	1	bind	Bind thread sings "Dzah!" cheerfully - tie securely solid!
-綿	mián	2	continuous	Continuous thread white towel questions "Myen?" curiously - unbroken cotton!
-繪	huì	4	paint	Paint thread commands sharply "Hway!" - draw illustrate!
-絡	luò	4	web	Web thread commands sharply "Lwoh!" - network connect!
-綢	chóu	2	silk fabric	Silk fabric thread questions "Choh?" curiously - satin cloth!
-絨	róng	2	down	Down thread fiesta needle questions "Rung?" curiously - velvet fluffy!
-締	dì	4	conclude	Conclude thread commands sharply "Dee!" - contract bind!
-紫	zǐ	3	purple	Purple bends down drooping "Dzih" - violet color!
-繁	fán	2	numerous	Numerous questions "Fan?" curiously - abundant many!
-紡	fǎng	3	spin	Spin thread bends down drooping "Fahng" - whirl weave!
-繭	jiǎn	3	cocoon	Cocoon insect flowers thread hood walking stick bends down drooping "Jyen" - silkworm shell!
-纏	chán	2	wind around	Wind around thread questions "Chan?" curiously - wrap coil!
-緻	zhì	4	delicate	Delicate thread bring about commands sharply "Jih!" - refined exquisite!
-繫	jì	4	fasten	Fasten thread commands sharply "Jee!" - connect link!
-納	nà	4	let in	Let in commands sharply "Nah!" - accept receive!
-紛	fēn	1	disorderly	Disorderly thread part sings "Fen!" cheerfully - confused chaotic!
-縮	suō	1	shrink	Shrink thread sings "Swoh!" cheerfully - contract pupils!
-綜	zōng	4	sum up	Sum up thread commands sharply "Dzung!" - synthesize overall!
-紳	shēn	1	gentry	Gentry thread monkey sings "Shen!" cheerfully - scholar gentleman!
-緣	yuán	2	reason	Reason thread questions "Ywen?" curiously - cause fate connection!
-緒	xù	4	inception	Inception thread commands sharply "Shoo!" - clue beginning thread!
-絞	jiǎo	3	wring	Wring thread bends down drooping "Jyao" - squeeze twist brain!
-緩	huǎn	3	unhurried	Unhurried thread bends down drooping "Hwan" - slow gradual lax!
+絮	xù	4	long-winded	"SHOO!" the old man commands sharply, rambling on with long-winded stories about threads - tediously!
+繞	rào	4	go around	"RAO!" the thread commands sharply, winding to go around the spool in circles - detour complete!
+紮	zā	1	bind	"DZAH!" the needle and thread sing cheerfully as she binds the package - tying it securely and solid!
+綿	mián	2	continuous	"MYEN?" the white towel and thread question curiously - is this continuous, unbroken cotton fabric?
+繪	huì	4	paint	"HWAY!" the artist commands sharply, using thread-thin brushes to paint and draw illustrations!
+絡	luò	4	web	"LWOH!" the spider's thread commands sharply, creating a web to network and connect!
+綢	chóu	2	silk fabric	"CHOH?" she questions curiously, feeling the thread - is this silk fabric or satin cloth?
+絨	róng	2	down	"RUNG?" the soft thread questions curiously like velvet - is this fluffy down filling?
+締	dì	4	conclude	"DEE!" he commands sharply, using the red thread to conclude the contract and bind the agreement!
+紫	zǐ	3	purple	The child bends down drooping to pick up her purple crayon that rolled away - violet color!
+繁	fán	2	numerous	"FAN?" the pattern questions curiously - why are there numerous threads, so abundant and many?
+紡	fǎng	3	spin	The thread bends down drooping as the grandmother spins yarn on the wheel - whirling to weave!
+繭	jiǎn	3	cocoon	The silkworm bends down drooping inside the cocoon, surrounded by threads - waiting to emerge!
+纏	chán	2	wind around	"CHAN?" the thread questions curiously as it winds around the bobbin - wrapping and coiling?
+緻	zhì	4	delicate	"JIH!" she commands sharply, examining the delicate thread work - so refined and exquisite!
+繫	jì	4	fasten	"JEE!" he commands sharply, using thread to fasten the sail - connecting and linking it tight!
+納	nà	4	let in	"NAH!" the tailor commands sharply, letting in the seam allowance with careful thread work - accepting and receiving!
+紛	fēn	1	disorderly	"FEN!" the tangled threads sing cheerfully in disorderly fashion - confused and chaotic!
+縮	suō	1	shrink	"SWOH!" the thread sings cheerfully as the fabric shrinks in hot water - contracting like pupils!
+綜	zōng	4	sum up	"DZUNG!" the manager commands sharply, using threads on the board to sum up and synthesize the overall plan!
+紳	shēn	1	gentry	"SHEN!" the thread and monkey sing cheerfully - the gentry scholar gentleman in fine silk!
+緣	yuán	2	reason	"YWEN?" the thread questions curiously about their reason for meeting - is it cause, fate, or connection?
+緒	xù	4	inception	"SHOO!" the thread commands sharply at the inception of the project - following the clue and beginning!
+絞	jiǎo	3	wring	The thread bends down drooping as she wrings the wet cloth - squeezing and twisting her brain!
+緩	huǎn	3	unhurried	The thread bends down drooping at an unhurried pace - slow, gradual, and lax!
 暖	nuǎn	3	warm	The tired sun bends down drooping at noon, but still warms the migrating ducks.
 援	yuán	2	provide assistance	"You want help?" she questions curiously, providing assistance to those in need.
 索	suǒ	3	large rope	He bends low, searching with the large rope made of chapel threads.
@@ -2720,207 +2720,207 @@ Character	Pinyin	Tone	Meaning	Story
 偏	piān	1	partial	"PYEN!" the person and book cover sing cheerfully - partial, biased and simplified!
 淪	lún	2	sink	"LWUN?" the water and library question curiously - will it sink, fall and descend?
 倫	lún	2	human relationships	"LWUN?" the person and library question curiously - human relationships, ethics and family bonds?
-哺	bǔ	3	breastfeed	Breastfeed mouth dog tag bends down drooping "Boo" - nurse suckle!
-鋪	pù	4	shop	Shop metal commands sharply "Poo!" - store spread!
-輔	fǔ	3	supplement	Supplement car bends down drooping "Foo" - assist support!
-捕	bǔ	3	capture	Capture fingers bends down drooping "Boo" - catch seize!
-敷	fū	1	apply	Apply dog tag release sings "Foo!" cheerfully - spread ointment!
-浦	pǔ	3	river mouth	River mouth water dog tag bends down drooping "Poo" - estuary harbor!
-蒲	pú	2	cattail	Cattail flower river mouth questions "Poo?" curiously - reed plant!
-薄	bó	2	slight	Slight flowers questions "Bwoh?" curiously - thin weak!
-簿	bù	4	register	Register bamboo commands sharply "Boo!" - ledger notebook!
-傅	fù	4	mentor	Mentor person gummed label commands sharply "Foo!" - master craftsman driver!
-縛	fù	2	bind fast	Bind fast thread questions "Foo?" curiously - tie net immortal!
-郭	guō	1	outer walls	Outer walls enjoy city walls sings "Gwoh!" cheerfully - name city!
-廓	kuò	4	limitless	Limitless cave outer walls commands sharply "Kwoh!" - vast boundless!
-鄙	bǐ	3	despicable	Despicable city walls bends down drooping "Bee" - contemptible vulgar!
-耶	yē	1	Jerusalem	Jerusalem sings "Yeh!" cheerfully - holy city!
-爺	yé	2	grandfather	Grandfather questions "Yeh?" curiously - grandpa old man!
-郊	jiāo	1	outskirts	Outskirts city walls sings "Jyao!" cheerfully - suburbs boxing training!
-邦	bāng	1	nation	Nation city walls sings "Bahng!" cheerfully - country state!
-綁	bǎng	3	truss	Truss thread bends down drooping "Bahng" - bind tie kidnap!
-郵	yóu	2	post	Post city walls questions "Yoh?" curiously - mail deliver!
-鄧	dèng	4	Deng	Deng stepladder city walls commands sharply "Dung!" - surname xiaoping!
-擲	zhì	4	hurl	Hurl fingers commands sharply "Jih!" - throw cast!
-廊	láng	2	hallway	Hallway cave questions "Lahng?" curiously - corridor passage!
-擁	yōng	1	hug	Hug fingers sings "Yung!" cheerfully - embrace hold!
-緞	duàn	4	satin	Satin thread commands sharply "Dwan!" - silk ribbon hair!
-刁	diāo	1	wily	Wily clothes hanger drop of sings "Dyao!" cheerfully - cunning difficult!
-叼	diāo	1	hold in the mouth	Hold in mouth mouth wily sings "Dyao!" cheerfully - grip bite!
-殷	yīn	1	ardent	Ardent drag sun clothes hangar missile sings "Yin!" cheerfully - earnest fervent!
-壽	shòu	4	longevity	Longevity soldier flattened clothes hanger I-beam one inch long gray beard commands sharply "Shoh!" - lifespan cigarettes!
-濤	tāo	2	large waves	Large waves water long grey beard questions "Tao?" curiously - surging ocean!
-鑄	zhù	4	cast	Cast metal commands sharply "Joo!" - forge mold!
-禱	dǎo	3	pray	Pray altar long grey beard bends down drooping "Dao" - worship petition!
-籌	chóu	2	make arrangements	Make arrangements bamboo long grey beard questions "Choh?" curiously - plan coordinate!
-伺	cì	4	attend to	Attend to person take charge of commands sharply "Tsih!" - serve server!
-飼	sì	4	rear	Rear food commands sharply "Sih!" - raise feed animals!
-舶	bó	2	liner	Liner boat questions "Bwoh?" curiously - ocean ship moor!
-航	háng	2	navigate	Navigate boat questions "Hahng?" curiously - sail aviation!
-艇	tǐng	3	light boat	Light boat boat bends down drooping "Ting" - craft vessel!
-艦	jiàn	4	warship	Warship boat supervise commands sharply "Jyen!" - battleship!
-艙	cāng	1	ship's cabin	Ship cabin boat storehouse sings "Tsahng!" cheerfully - business class!
-沿	yán	2	along	Along water questions "Yen?" curiously - beside following!
-鉛	qiān	1	lead	Lead metal belch sings "Chyen!" cheerfully - element pencil!
-狐	hú	2	fox	Fox pack wild dogs questions "Hoo?" curiously - cunning animal!
-瓣	bàn	4	petal	Petal two chili peppers melon commands sharply "Ban!" - flower part bean sauce!
-溢	yì	4	brim over	Brim over water commands sharply "Yee!" - overflow yin iron resentment!
-暇	xiá	2	spare time	Spare time sun questions "Shyah?" curiously - leisure gods can't carry!
-霞	xiá	2	red sky	Red sky weather braces questions "Shyah?" curiously - sunset clouds!
-氧	yǎng	3	oxygen	Oxygen gas sheep bends down drooping "Yahng" - element breathe!
-氛	fēn	1	atmosphere	Atmosphere gas sings "Fen!" cheerfully - ambiance air!
-氯	lǜ	4	chlorine	Chlorine gas snowman commands sharply "Lyoo!" - element disinfect!
-氫	qīng	1	hydrogen	Hydrogen gas sings "Ching!" cheerfully - element lightest!
-鞏	gǒng	3	strengthen	Strengthen I beam ordinary leather bends down drooping "Gung" - consolidate fortify!
-霸	bà	4	tyrant	Tyrant weather commands sharply "Bah!" - despot dominate!
-壩	bà	4	dam	Dam soil tyrant commands sharply "Bah!" - embankment barrier!
-勒	lè	4	tighten	Tighten muscle commands sharply "Luh!" - strangle constrict!
-鞠	jū	1	bow respectfully	Bow respectfully leather bind up rice sings "Jyoo!" cheerfully - kowtow salute!
-靴	xuē	1	boots	Boots leather transform sings "Shweh!" cheerfully - shoes footwear!
-鞭	biān	1	whip	Whip leather convenient sings "Byen!" cheerfully - lash strike!
-芽	yá	2	sprout	Sprout flowers questions "Yah?" curiously - seedling bean shoots!
-訝	yà	4	surprised	Surprised words tusk commands sharply "Yah!" - stunned astonished!
-撐	chēng	1	prop up	Prop up fingers sings "Chung!" cheerfully - support hold!
-雅	yǎ	3	polished	Polished tusk turkey bends down drooping "Yah" - elegant refined room goodbye!
-邪	xié	2	wicked	Wicked tusk city walls questions "Shyeh?" curiously - evil sinister laugh!
-奧	ào	4	of great depth	Of great depth drop helmet droppings St. Bernard dog commands sharply "Ao!" - profound mysterious!
-澳	ào	4	deep inlet	Deep inlet water commands sharply "Ao!" - bay harbor!
-懊	ào	4	remorseful	Remorseful state mind of great depth commands sharply "Ao!" - regretful ashamed!
-悉	xī	1	be informed	Be informed heart sings "Shee!" cheerfully - know learn!
-竊	qiè	4	pilfer	Pilfer hole droppings magic wand prisoner glass cover elbow commands sharply "Chyeh!" - steal thief!
-審	shěn	3	painstaking	Painstaking house bends down drooping "Shun" - examine aesthetics!
-嬸	shěn	3	auntie	Auntie woman painstaking bends down drooping "Shun" - aunt uncle's wife!
-毯	tǎn	3	blanket	Blanket bends down drooping "Tan" - rug throw!
-毫	háo	2	milli	Milli questions "Hao?" curiously - tiny fraction!
-耗	hào	4	consume	Consume commands sharply "Hao!" - waste deplete chicken!
-耕	gēng	1	till	Till Christmas tree well sings "Gung!" cheerfully - plow cultivate!
-籍	jí	2	records	Records bamboo Christmas tree times past questions "Jee?" curiously - documents clan archives!
-藉	jiè	4	excuse	Excuse flowers commands sharply "Jyeh!" - pretext forget!
-托	tuō	1	hold up	Hold up hand sings "Twoh!" cheerfully - support motorcycle cocky!
-畏	wèi	4	be afraid of	Be afraid of field commands sharply "Way!" - fear dread!
-喂	wèi	4	Hello	Hello mouth be afraid of commands sharply "Way!" - hey greet!
-脹	zhàng	4	bloated	Bloated flesh long commands sharply "Jahng!" - swollen puffy!
-帳	zhàng	4	tent	Tent cloth commands sharply "Jahng!" - canopy shelter!
-肆	sì	4	IV	IV four commands sharply "Sih!" - fraud-proof numeral wanton tolerance!
-鬍	hú	2	beard	Beard hair recklessly questions "Hoo?" curiously - whiskers difficult uncle!
-鬆	sōng	1	loose	Loose sings "Sung!" cheerfully - relaxed slack!
-鵬	péng	2	roc	Roc companion bird questions "Pung?" curiously - giant mythical!
-鳴	míng	2	twitter	Twitter bird questions "Ming?" curiously - chirp naruto!
-鴻	hóng	2	swan	Swan yangtse bird questions "Hung?" curiously - elegant waterfowl!
-鴿	gē	1	pigeon	Pigeon bird sings "Guh!" cheerfully - dove messenger!
-鶴	hè	4	crane	Crane bird commands sharply "Huh!" - stork tall!
-鶯	yīng	1	oriole	Oriole firehouse bird sings "Ying!" cheerfully - singing yellow!
-鵲	què	4	magpie	Magpie times past bird commands sharply "Chweh!" - chattering black white!
-鷗	ōu	1	gull	Gull region bird sings "Oh!" cheerfully - seabird coastal!
-鴉	yā	1	raven	Raven tusk bird sings "Yah!" cheerfully - crow literary!
-鵝	é	2	goose	Goose bird questions "Uh?" curiously - waterfowl velvet room!
-烏	wū	1	crow	Crow bird minus top stroke sings "Woo!" cheerfully - black raven!
-嗚	wū	1	zoom-zoom	Zoom-zoom mouth crow sings "Woo!" cheerfully - sound onomatopoeia!
-搗	dǎo	3	pound with a pestle	Pound with pestle fingers bends down drooping "Dao" - crush trouble hooligans!
-寓	yù	4	residence	Residence house commands sharply "Yoo!" - dwelling abode!
-愚	yú	2	pea-brained	Pea-brained heart questions "Yoo?" curiously - foolish stupid!
-偶	ǒu	3	by chance	By chance person bends down drooping "Oh" - coincidental accidental!
-厲	lì	4	stern	Stern commands sharply "Lee!" - severe strict!
-勵	lì	4	encourage	Encourage stern power commands sharply "Lee!" - inspire motivate!
-鋼	gāng	1	steel	Steel metal sings "Gahng!" cheerfully - iron alloy!
-崗	gāng	3	hillock	Hillock mountain ridge of hill bends down drooping "Gahng" - mound burial yiling!
-綱	gāng	1	guidelines	Guidelines thread ridge of hill sings "Gahng!" cheerfully - outline principles!
-逆	nì	4	go against	Go against road commands sharply "Nee!" - oppose reverse turning!
-溯	sù	4	go upstream	Go upstream water mountain goat long tail moon commands sharply "Soo!" - trace back!
-塑	sù	4	plastic	Plastic soil commands sharply "Soo!" - synthetic mold!
-缸	gāng	1	vat	Vat sings "Gahng!" cheerfully - vessel container!
-罐	guàn	4	jar	Jar tin can stork commands sharply "Gwan!" - pot bottle!
-鬱	yù	4	depressed	Depressed tin can woods sitting ground rooster tail crown epsom salts commands sharply "Yoo!" - gloomy melancholy!
-鹽	yán	2	salt	Salt supervise salt shaker questions "Yen?" curiously - mineral seasoning necessities!
-鹹	xián	2	salty	Salty salt shaker everybody questions "Shyen?" curiously - savory briny!
-掏	tāo	1	draw out	Draw out fingers canteen sings "Tao!" cheerfully - dig extract money!
-淘	táo	2	wash in a container	Wash in container water canteen questions "Tao?" curiously - eliminate humans!
-陶	táo	2	pottery	Pottery pinnacle canteen questions "Tao?" curiously - ceramic clay!
-謠	yáo	2	rumor	Rumor words questions "Yao?" curiously - gossip fabricated!
-冤	yuān	1	injustice	Injustice crown rabbit sings "Ywen!" cheerfully - wronged accuse!
-饞	chán	2	gluttonous	Gluttonous food bound up mouth compare bunny rabbit questions "Chan?" curiously - greedy hungry!
-挽	wǎn	3	tow	Tow fingers hare bends down drooping "Wan" - pull drag!
-勉	miǎn	3	strive	Strive muscle bends down drooping "Myen" - endeavor persevere!
-橡	xiàng	4	rubber tree	Rubber tree tree elephant commands sharply "Shyahng!" - latex oak!
-豫	yù	4	pleased	Pleased bestow elephant commands sharply "Yoo!" - happy hesitate!
-騰	téng	2	take flight	Take flight horse questions "Tung?" curiously - soar rise!
-碼	mǎ	3	numeral	Numeral stone bends down drooping "Mah" - number digit!
-馴	xún	2	tame	Tame horse stream questions "Shyoon?" curiously - domesticate train!
-瑪	mǎ	3	Mary	Mary jewel horse bends down drooping "Mah" - name gemstone!
-駐	zhù	4	be stationed	Be stationed horse commands sharply "Joo!" - deploy guard post!
-驕	jiāo	1	arrogant	Arrogant horse angel sings "Jyao!" cheerfully - proud haughty!
-馳	chí	2	gallop	Gallop horse questions "Chih?" curiously - race famous!
-螞	mǎ	4	leech-hopper	Leech-hopper insect horse commands sharply "Mah!" - ant grasshopper black!
-憑	píng	2	proof	Proof heart questions "Ping?" curiously - evidence basis arrest!
-駛	shǐ	3	maneuver	Maneuver horse bends down drooping "Shih" - navigate broken brain!
-騷	sāo	1	disturb	Disturb horse sings "Sao!" cheerfully - harass trouble!
-駕	jià	4	drive	Drive horse commands sharply "Jyah!" - pilot control!
-騾	luó	2	mule	Mule horse tired questions "Lwoh?" curiously - hybrid donkey!
-駁	bó	2	refute	Refute horse two sheaves questions "Bwoh?" curiously - dispute contradict!
-闖	chuǎng	3	rush	Rush gate bends down drooping "Chwahng" - burst intrude house!
-驅	qū	1	drive away	Drive away horse sings "Chyoo!" cheerfully - expel chase!
-騙	piàn	4	cheat	Cheat horse commands sharply "Pyen!" - deceive swindle!
-驟	zhòu	4	trot	Trot horse commands sharply "Joh!" - gallop sudden!
-遞	dì	4	hand over	Hand over drag tiger road commands sharply "Dee!" - deliver pass smoke drink!
-虜	lǔ	3	take captive	Take captive tiger male brains hanging out sides bends down drooping "Loo" - capture prisoner!
-虐	nüè	4	despotic	Despotic tiger backward broom commands sharply "Nyueh!" - cruel mistreat!
-膚	fū	1	skin	Skin flesh sings "Foo!" cheerfully - epidermis surface!
-盧	lú	2	Louvre	Louvre questions "Loo?" curiously - museum!
-爐	lú	2	stove	Stove fire louvre questions "Loo?" curiously - furnace pebble hot!
-蘆	lú	2	reeds	Reeds flowers louvre questions "Loo?" curiously - marsh plants!
-驢	lǘ	2	donkey	Donkey horse louvre questions "Lyoo?" curiously - stubborn ass!
-虧	kuī	1	loss	Loss sings "Kway!" cheerfully - deficit damage!
-污	wū	1	filthy	Filthy water sings "Woo!" cheerfully - dirty pollute!
-愕	è	4	stunned	Stunned state mind chatterbox snake hook commands sharply "Uh!" - shocked!
-誇	kuā	1	brag	Brag words sings "Kwah!" cheerfully - boast exaggerate rumor!
-垮	kuǎ	3	collapse	Collapse soil blowhard bends down drooping "Kwah" - crumble fail!
-跨	kuà	4	straddle	Straddle wooden leg blowhard commands sharply "Kwah!" - span cross!
-獻	xiàn	4	donate	Donate dog commands sharply "Shyen!" - offer contribute school!
-融	róng	2	melt	Melt questions "Rung?" curiously - dissolve gene fusion!
-隔	gé	2	separate	Separate pinnacle questions "Guh?" curiously - isolate hospital!
-濾	lǜ	4	filter	Filter water ponder commands sharply "Lyoo!" - strain sieve!
-慶	qìng	4	celebrate	Celebrate deer flattened clothes hanger heart walking legs commands sharply "Ching!" - rejoice festival!
-薦	jiàn	4	recommend	Recommend flowers commands sharply "Jyen!" - endorse suggest!
-傑	jié	2	outstanding	Outstanding person questions "Jyeh?" curiously - excellent exceptional!
-瞬	shùn	4	instant	Instant eyes commands sharply "Shwun!" - moment flash!
-麟	lín	2	Chinese unicorn	Chinese unicorn deer jack o' lantern questions "Lin?" curiously - mythical carp tower!
-憐	lián	2	pity	Pity state mind questions "Lyen?" curiously - sympathize compassion!
-鄰	lín	2	neighbor	Neighbor city walls questions "Lin?" curiously - adjacent nearby!
-曬	shài	4	bask	Bask sun commands sharply "Shai!" - dry hang clothes!
-灑	sǎ	3	spill	Spill water bends down drooping "Sah" - splash voluminous flowing!
-罷	bà	0	cease	Cease says "Bah" neutrally - stop quit!
-擺	bǎi	3	put in order	Put in order fingers bends down drooping "Bai" - arrange display!
-唇	chún	2	lips	Lips sign dragon mouth questions "Chwun?" curiously - thirsty ruptured!
-辱	rǔ	4	disgrace	Disgrace commands sharply "Roo!" - shame insult scold!
-震	zhèn	4	quake	Quake commands sharply "Jun!" - tremble earthquake!
-振	zhèn	4	vibrate	Vibrate commands sharply "Jun!" - shake calm down rest!
-魄	pò	4	vigor	Vigor commands sharply "Pwoh!" - spirit soul sucked!
-槐	huái	2	scholar tree	Scholar tree tree ghost questions "Hwai?" curiously - locust wood!
-魅	mèi	4	enchant	Enchant ghost not yet commands sharply "May!" - charm allure special!
-瑰	guī	1	marvelous	Marvelous jewel ghost sings "Gway!" cheerfully - magnificent splendid!
-魂	hún	2	soul	Soul ghost questions "Hwun?" curiously - spirit essence!
-愧	kuì	4	ashamed	Ashamed heart commands sharply "Kway!" - guilty embarrassed!
-魁	kuí	2	leader	Leader ghost big dipper questions "Kway?" curiously - chief champion!
-醜	chǒu	3	ugly	Ugly bends down drooping "Choh" - unattractive hideous!
-壟	lǒng	3	raised path between fields	Raised path between fields dragon land bends down drooping "Lung" - ridge mound!
-寵	chǒng	3	dote on	Dote on house bends down drooping "Chung" - pamper spoil!
-龐	páng	2	huge	Huge cave dragon questions "Pahng?" curiously - enormous vast!
-攏	lǒng	3	draw near	Draw near fingers bends down drooping "Lung" - gather spirit soil!
-聾	lóng	2	deaf	Deaf ear questions "Lung?" curiously - hearing impaired fengxia!
-籠	lóng	2	cage	Cage bamboo questions "Lung?" curiously - basket chicken coop!
-插	chā	1	insert	Insert sings "Chah!" cheerfully - stick interfere battle!
-毀	huǐ	3	ruin	Ruin bends down drooping "Hway" - destroy wreck!
-舅	jiù	4	mother's brother	Mother's brother commands sharply "Jyoh!" - maternal uncle!
-樁	zhuāng	1	stake	Stake tree sings "Jwahng!" cheerfully - post pile!
-鑿	záo	2	bore a hole	Bore hole side by side upside down needle mortar missile metal questions "Dzao?" curiously - drill chisel!
-鼠	shǔ	3	mouse	Mouse bends down drooping "Shoo" - rat rodent!
-竄	cuàn	4	scurry	Scurry hole commands sharply "Tswan!" - flee push chest!
-臘	là	4	dried meat	Dried meat flesh mouse hairs commands sharply "Lah!" - cured preserved!
-蠟	là	4	wax	Wax insect commands sharply "Lah!" - beeswax candle!
-獵	liè	4	hunt	Hunt dog commands sharply "Lyeh!" - chase game!
-艘	sōu	1	vessels	Vessels boat sings "Soh!" cheerfully - ships measure!
-嫂	sǎo	3	elder brother's wife	Elder brother's wife woman bends down drooping "Sao" - sister-in-law!
-瘦	shòu	4	emaciated	Emaciated commands sharply "Shoh!" - thin skinny!
+哺	bǔ	3	breastfeed	The mother bends down drooping with her mouth near the dog tag necklace, as she breastfeeds and nurses her baby to suckle.
+鋪	pù	4	shop	"POO!" the metal sign commands sharply outside the shop - a store spreading goods for sale!
+輔	fǔ	3	supplement	The car bends down drooping, needing parts to supplement, assist, and support its failing engine.
+捕	bǔ	3	capture	The detective's fingers bend down drooping as he captures the thief - trying to catch and seize him!
+敷	fū	1	apply	"FOO!" the nurse sings cheerfully as she applies ointment to the wound after releasing the dog tag bandage - spreading medicine!
+浦	pǔ	3	river mouth	The water bends down drooping at the river mouth, where the estuary meets the harbor with the dog tag floating.
+蒲	pú	2	cattail	"POO?" the flower at the river mouth questions curiously - is this a cattail, a reed plant growing in marshes?
+薄	bó	2	slight	"BWOH?" the flowers question curiously - is the fabric slight, thin, and weak?
+簿	bù	4	register	"BOO!" the bamboo commands sharply - write in the register, the ledger and notebook for records!
+傅	fù	4	mentor	"FOO!" the master craftsman commands sharply - a mentor with the gummed label teaching his driver!
+縛	fù	2	bind fast	"FOO?" the thread questions curiously - should we bind fast with the net, tying up the immortals?
+郭	guō	1	outer walls	"GWOH!" the city walls sing cheerfully outside - the outer walls surrounding the city, for the surname Guo!
+廓	kuò	4	limitless	"KWOH!" the cave and outer walls command sharply - limitless, vast, and boundless space!
+鄙	bǐ	3	despicable	The city walls bend down drooping - despicable, contemptible, and vulgar behavior in the town.
+耶	yē	1	Jerusalem	"YEH!" he sings cheerfully about Jerusalem - the holy city!
+爺	yé	2	grandfather	"YEH?" he questions curiously - is that grandfather, grandpa, or an old man?
+郊	jiāo	1	outskirts	"JYAO!" the city walls sing cheerfully - the outskirts, the suburbs where we do boxing training!
+邦	bāng	1	nation	"BAHNG!" the city walls sing cheerfully - a nation, a country, a state!
+綁	bǎng	3	truss	The thread bends down drooping to truss and bind, tying up the kidnap victim.
+郵	yóu	2	post	"YOH?" the city walls question curiously - where's the post office to mail and deliver letters?
+鄧	dèng	4	Deng	"DUNG!" the stepladder by the city walls commands sharply - the surname Deng, like Deng Xiaoping!
+擲	zhì	4	hurl	"JIH!" the fingers command sharply as they hurl the ball - throwing and casting it far!
+廊	láng	2	hallway	"LAHNG?" the cave questions curiously - is this a hallway, a corridor, a passage?
+擁	yōng	1	hug	"YUNG!" the fingers sing cheerfully to hug, embrace, and hold tight!
+緞	duàn	4	satin	"DWAN!" the thread commands sharply - satin, silk ribbon for her hair!
+刁	diāo	1	wily	"DYAO!" the clothes hanger drops and sings cheerfully - wily, cunning, and difficult!
+叼	diāo	1	hold in the mouth	"DYAO!" the wily mouth sings cheerfully, holding something in the mouth - gripping and biting!
+殷	yīn	1	ardent	"YIN!" the sun sings cheerfully with ardent passion - earnest and fervent enthusiasm!
+壽	shòu	4	longevity	"SHOH!" the long grey beard commands sharply - longevity, lifespan, and cigarettes for the elderly!
+濤	tāo	2	large waves	"TAO?" the water and long grey beard question curiously - are those large waves surging in the ocean?
+鑄	zhù	4	cast	"JOO!" the metal commands sharply - to cast, forge, and mold into shape!
+禱	dǎo	3	pray	The altar and long grey beard bend down drooping to pray, worship, and petition the gods.
+籌	chóu	2	make arrangements	"CHOH?" the bamboo and long grey beard question curiously - how to make arrangements, plan, and coordinate?
+伺	cì	4	attend to	"TSIH!" the person takes charge and commands sharply - to attend to and serve, like a server!
+飼	sì	4	rear	"SIH!" the food commands sharply - to rear, raise, and feed the animals!
+舶	bó	2	liner	"BWOH?" the boat questions curiously - is that a liner, an ocean ship that moors?
+航	háng	2	navigate	"HAHNG?" the boat questions curiously - how to navigate, sail by aviation?
+艇	tǐng	3	light boat	The boat bends down drooping - a light boat, a small craft and vessel.
+艦	jiàn	4	warship	"JYEN!" the supervising boat commands sharply - a warship, a battleship for the navy!
+艙	cāng	1	ship's cabin	"TSAHNG!" the boat and storehouse sing cheerfully - the ship's cabin, business class seating!
+沿	yán	2	along	"YEN?" the water questions curiously - flowing along, beside, and following the shore?
+鉛	qiān	1	lead	"CHYEN!" the metal belch sings cheerfully - lead, the element for pencils!
+狐	hú	2	fox	"HOO?" the pack of wild dogs questions curiously - is that a fox, a cunning animal?
+瓣	bàn	4	petal	"BAN!" the two chili peppers and melon command sharply - a petal, flower part used in bean sauce!
+溢	yì	4	brim over	"YEE!" the water commands sharply - to brim over, overflow with yin iron resentment!
+暇	xiá	2	spare time	"SHYAH?" the sun questions curiously - is there spare time? The gods have leisure but can't carry themselves.
+霞	xiá	2	red sky	"SHYAH?" the weather questions curiously - is that a red sky with sunset clouds and braces?
+氧	yǎng	3	oxygen	The gas and sheep bend down drooping - oxygen, the element we breathe.
+氛	fēn	1	atmosphere	"FEN!" the gas sings cheerfully - the atmosphere, ambiance, and air around us!
+氯	lǜ	4	chlorine	"LYOO!" the gas and snowman command sharply - chlorine, the element to disinfect water!
+氫	qīng	1	hydrogen	"CHING!" the gas sings cheerfully - hydrogen, the lightest element floating up!
+鞏	gǒng	3	strengthen	The I-beam and ordinary leather bend down drooping to strengthen, consolidate, and fortify the structure.
+霸	bà	4	tyrant	"BAH!" the weather commands sharply - a tyrant, a despot who dominates!
+壩	bà	4	dam	"BAH!" the soil and tyrant command sharply - building a dam, embankment, and barrier!
+勒	lè	4	tighten	"LUH!" the muscle commands sharply - to tighten, strangle, and constrict!
+鞠	jū	1	bow respectfully	"JYOO!" the leather and rice sing cheerfully as he bows respectfully, kowtowing and saluting!
+靴	xuē	1	boots	"SHWEH!" the leather transforms and sings cheerfully - boots, shoes, and footwear!
+鞭	biān	1	whip	"BYEN!" the leather sings cheerfully when convenient - a whip to lash and strike!
+芽	yá	2	sprout	"YAH?" the flowers question curiously - is this a sprout, a seedling, or bean shoots?
+訝	yà	4	surprised	"YAH!" the words and tusk command sharply - surprised, stunned, and astonished!
+撐	chēng	1	prop up	"CHUNG!" the fingers sing cheerfully as they prop up, support, and hold the tent!
+雅	yǎ	3	polished	The tusk and turkey bend down drooping - polished, elegant, and refined in the room before goodbye.
+邪	xié	2	wicked	"SHYEH?" the tusk and city walls question curiously - is that wicked, evil with a sinister laugh?
+奧	ào	4	of great depth	"AO!" the drop, helmet, and droppings command sharply - of great depth, profound, and mysterious!
+澳	ào	4	deep inlet	"AO!" the water commands sharply - a deep inlet, a bay, and harbor!
+懊	ào	4	remorseful	"AO!" the state of mind commands sharply about the depth - remorseful, regretful, and ashamed!
+悉	xī	1	be informed	"SHEE!" the heart sings cheerfully - to be informed, to know, and to learn!
+竊	qiè	4	pilfer	"CHYEH!" the hole, droppings, magic wand, prisoner, and glass cover command sharply - to pilfer and steal like a thief!
+審	shěn	3	painstaking	The house bends down drooping with painstaking care - to examine with aesthetics.
+嬸	shěn	3	auntie	The woman bends down drooping after painstaking work - auntie, uncle's wife!
+毯	tǎn	3	blanket	The fabric bends down drooping - a blanket, a rug, and throw.
+毫	háo	2	milli	"HAO?" he questions curiously - milli, a tiny fraction?
+耗	hào	4	consume	"HAO!" he commands sharply - to consume, waste, and deplete the chicken!
+耕	gēng	1	till	"GUNG!" the Christmas tree and well sing cheerfully - to till, plow, and cultivate the land!
+籍	jí	2	records	"JEE?" the bamboo, Christmas tree, and times past question curiously - records, documents, and clan archives?
+藉	jiè	4	excuse	"JYEH!" the flowers command sharply - an excuse, a pretext to forget!
+托	tuō	1	hold up	"TWOH!" the hand sings cheerfully - to hold up and support like a motorcycle, so cocky!
+畏	wèi	4	be afraid of	"WAY!" the field commands sharply - to be afraid of, fear, and dread!
+喂	wèi	4	Hello	"WAY!" the mouth commands sharply when afraid - Hello, hey to greet!
+脹	zhàng	4	bloated	"JAHNG!" the flesh and long command sharply - bloated, swollen, and puffy!
+帳	zhàng	4	tent	"JAHNG!" the cloth commands sharply - a tent, canopy, and shelter!
+肆	sì	4	IV	"SIH!" the four commands sharply - IV, fraud-proof numeral, and wanton tolerance!
+鬍	hú	2	beard	"HOO?" the hair questions curiously about recklessness - a beard, whiskers for the difficult uncle?
+鬆	sōng	1	loose	"SUNG!" he sings cheerfully - loose, relaxed, and slack!
+鵬	péng	2	roc	"PUNG?" the companion bird questions curiously - a roc, giant and mythical?
+鳴	míng	2	twitter	"MING?" the bird questions curiously - to twitter and chirp like Naruto?
+鴻	hóng	2	swan	"HUNG?" the Yangtze bird questions curiously - a swan, elegant waterfowl?
+鴿	gē	1	pigeon	"GUH!" the bird sings cheerfully - a pigeon, dove, and messenger!
+鶴	hè	4	crane	"HUH!" the bird commands sharply - a crane, stork standing tall!
+鶯	yīng	1	oriole	"YING!" the firehouse bird sings cheerfully - an oriole, singing and yellow!
+鵲	què	4	magpie	"CHWEH!" the times past bird commands sharply - a magpie, chattering and black and white!
+鷗	ōu	1	gull	"OH!" the region bird sings cheerfully - a gull, seabird on the coast!
+鴉	yā	1	raven	"YAH!" the tusk bird sings cheerfully - a raven, crow in literary form!
+鵝	é	2	goose	"UH?" the bird questions curiously - a goose, waterfowl in the velvet room?
+烏	wū	1	crow	"WOO!" the bird sings cheerfully though the top stroke is missing - a crow, black raven!
+嗚	wū	1	zoom-zoom	"WOO!" the mouth and crow sing cheerfully - zoom-zoom, sound onomatopoeia!
+搗	dǎo	3	pound with a pestle	The fingers bend down drooping to pound with a pestle and crush - those hooligans cause trouble!
+寓	yù	4	residence	"YOO!" the house commands sharply - a residence, dwelling, and abode!
+愚	yú	2	pea-brained	"YOO?" the heart questions curiously - is he pea-brained, foolish, and stupid?
+偶	ǒu	3	by chance	The person bends down drooping - by chance, coincidental, and accidental.
+厲	lì	4	stern	"LEE!" he commands sharply - stern, severe, and strict!
+勵	lì	4	encourage	"LEE!" the stern power commands sharply - to encourage, inspire, and motivate!
+鋼	gāng	1	steel	"GAHNG!" the metal sings cheerfully - steel, iron alloy!
+崗	gāng	3	hillock	The mountain ridge of hill bends down drooping - a hillock, mound for burial in Yiling.
+綱	gāng	1	guidelines	"GAHNG!" the thread and ridge sing cheerfully - guidelines, outline, and principles!
+逆	nì	4	go against	"NEE!" the road commands sharply - to go against, oppose, and reverse the turning!
+溯	sù	4	go upstream	"SOO!" the water, mountain goat, and moon command sharply - to go upstream and trace back!
+塑	sù	4	plastic	"SOO!" the soil commands sharply - plastic, synthetic to mold!
+缸	gāng	1	vat	"GAHNG!" it sings cheerfully - a vat, vessel, and container!
+罐	guàn	4	jar	"GWAN!" the tin can and stork command sharply - a jar, pot, and bottle!
+鬱	yù	4	depressed	"YOO!" the tin can, woods, sitting, rooster tail, crown, and Epsom salts command sharply - depressed, gloomy, and melancholy!
+鹽	yán	2	salt	"YEN?" the supervise and salt shaker question curiously - salt, mineral for seasoning and necessities?
+鹹	xián	2	salty	"SHYEN?" the salt shaker and everybody question curiously - salty, savory, and briny?
+掏	tāo	1	draw out	"TAO!" the fingers and canteen sing cheerfully - to draw out, dig, and extract money!
+淘	táo	2	wash in a container	"TAO?" the water and canteen question curiously - to wash in a container, eliminate the humans?
+陶	táo	2	pottery	"TAO?" the pinnacle and canteen question curiously - pottery, ceramic, and clay?
+謠	yáo	2	rumor	"YAO?" the words question curiously - a rumor, gossip that's fabricated?
+冤	yuān	1	injustice	"YWEN!" the crown and rabbit sing cheerfully despite injustice - wronged and accused!
+饞	chán	2	gluttonous	"CHAN?" the food, bound up, mouth, and bunny rabbit question curiously - gluttonous, greedy, and hungry?
+挽	wǎn	3	tow	The fingers and hare bend down drooping - to tow, pull, and drag.
+勉	miǎn	3	strive	The muscle bends down drooping - to strive, endeavor, and persevere.
+橡	xiàng	4	rubber tree	"SHYAHNG!" the tree and elephant command sharply - rubber tree, latex, and oak!
+豫	yù	4	pleased	"YOO!" bestow and elephant command sharply - pleased, happy but hesitate!
+騰	téng	2	take flight	"TUNG?" the horse questions curiously - to take flight, soar, and rise?
+碼	mǎ	3	numeral	The stone bends down drooping - a numeral, number, and digit.
+馴	xún	2	tame	"SHYOON?" the horse and stream question curiously - tame, to domesticate and train?
+瑪	mǎ	3	Mary	The jewel and horse bend down drooping - Mary, name, and gemstone.
+駐	zhù	4	be stationed	"JOO!" the horse commands sharply - to be stationed, deploy, and guard the post!
+驕	jiāo	1	arrogant	"JYAO!" the horse and angel sing cheerfully - arrogant, proud, and haughty!
+馳	chí	2	gallop	"CHIH?" the horse questions curiously - to gallop, race, and become famous?
+螞	mǎ	4	leech-hopper	"MAH!" the insect and horse command sharply - leech-hopper, ant, and grasshopper - black!
+憑	píng	2	proof	"PING?" the heart questions curiously - proof, evidence, and basis for arrest?
+駛	shǐ	3	maneuver	The horse bends down drooping - to maneuver, navigate with broken brain.
+騷	sāo	1	disturb	"SAO!" the horse sings cheerfully - to disturb, harass, and trouble!
+駕	jià	4	drive	"JYAH!" the horse commands sharply - to drive, pilot, and control!
+騾	luó	2	mule	"LWOH?" the horse and tired question curiously - a mule, hybrid donkey?
+駁	bó	2	refute	"BWOH?" the horse and two sheaves question curiously - to refute, dispute, and contradict?
+闖	chuǎng	3	rush	The gate bends down drooping - to rush, burst, and intrude into the house!
+驅	qū	1	drive away	"CHYOO!" the horse sings cheerfully - to drive away, expel, and chase!
+騙	piàn	4	cheat	"PYEN!" the horse commands sharply - to cheat, deceive, and swindle!
+驟	zhòu	4	trot	"JOH!" the horse commands sharply - to trot, gallop suddenly!
+遞	dì	4	hand over	"DEE!" the tiger and road command sharply - to hand over, deliver, and pass the smoke and drink!
+虜	lǔ	3	take captive	The tiger and male with brains hanging out bend down drooping - to take captive, capture as prisoner.
+虐	nüè	4	despotic	"NYUEH!" the tiger and backward broom command sharply - despotic, cruel to mistreat!
+膚	fū	1	skin	"FOO!" the flesh sings cheerfully - skin, epidermis, and surface!
+盧	lú	2	Louvre	"LOO?" he questions curiously - the Louvre, museum?
+爐	lú	2	stove	"LOO?" the fire and Louvre question curiously - a stove, furnace with hot pebbles!
+蘆	lú	2	reeds	"LOO?" the flowers and Louvre question curiously - reeds, marsh plants?
+驢	lǘ	2	donkey	"LYOO?" the horse and Louvre question curiously - a donkey, stubborn ass?
+虧	kuī	1	loss	"KWAY!" it sings cheerfully despite loss, deficit, and damage!
+污	wū	1	filthy	"WOO!" the water sings cheerfully - filthy, dirty to pollute!
+愕	è	4	stunned	"UH!" the state of mind, chatterbox, and snake hook command sharply - stunned and shocked!
+誇	kuā	1	brag	"KWAH!" the words sing cheerfully - to brag, boast, and exaggerate the rumor!
+垮	kuǎ	3	collapse	The soil and blowhard bend down drooping - to collapse, crumble, and fail.
+跨	kuà	4	straddle	"KWAH!" the wooden leg and blowhard command sharply - to straddle, span, and cross!
+獻	xiàn	4	donate	"SHYEN!" the dog commands sharply - to donate, offer, and contribute to school!
+融	róng	2	melt	"RUNG?" he questions curiously - to melt, dissolve in gene fusion?
+隔	gé	2	separate	"GUH?" the pinnacle questions curiously - to separate, isolate the hospital?
+濾	lǜ	4	filter	"LYOO!" the water and ponder command sharply - to filter, strain, and sieve!
+慶	qìng	4	celebrate	"CHING!" the deer, flattened clothes hanger, heart, and walking legs command sharply - to celebrate, rejoice at festivals!
+薦	jiàn	4	recommend	"JYEN!" the flowers command sharply - to recommend, endorse, and suggest!
+傑	jié	2	outstanding	"JYEH?" the person questions curiously - outstanding, excellent, and exceptional?
+瞬	shùn	4	instant	"SHWUN!" the eyes command sharply - an instant, moment, and flash!
+麟	lín	2	Chinese unicorn	"LIN?" the deer and jack o' lantern question curiously - Chinese unicorn, mythical at carp tower?
+憐	lián	2	pity	"LYEN?" the state of mind questions curiously - to pity, sympathize with compassion?
+鄰	lín	2	neighbor	"LIN?" the city walls question curiously - a neighbor, adjacent, and nearby?
+曬	shài	4	bask	"SHAI!" the sun commands sharply - to bask, dry, and hang clothes!
+灑	sǎ	3	spill	The water bends down drooping - to spill, splash voluminously, and flow.
+罷	bà	0	cease	"BAH," he says neutrally - to cease, stop, and quit.
+擺	bǎi	3	put in order	The fingers bend down drooping - to put in order, arrange, and display.
+唇	chún	2	lips	"CHWUN?" the sign of dragon and mouth question curiously - lips, thirsty, and ruptured?
+辱	rǔ	4	disgrace	"ROO!" he commands sharply - disgrace, shame, insult, and scold!
+震	zhèn	4	quake	"JUN!" it commands sharply - to quake, tremble in an earthquake!
+振	zhèn	4	vibrate	"JUN!" he commands sharply - to vibrate, shake - calm down and rest!
+魄	pò	4	vigor	"PWOH!" it commands sharply - vigor, spirit, and soul that's sucked!
+槐	huái	2	scholar tree	"HWAI?" the tree and ghost question curiously - scholar tree, locust wood?
+魅	mèi	4	enchant	"MAY!" the ghost commands sharply though not yet - to enchant, charm with special allure!
+瑰	guī	1	marvelous	"GWAY!" the jewel and ghost sing cheerfully - marvelous, magnificent, and splendid!
+魂	hún	2	soul	"HWUN?" the ghost questions curiously - the soul, spirit, and essence?
+愧	kuì	4	ashamed	"KWAY!" the heart commands sharply - ashamed, guilty, and embarrassed!
+魁	kuí	2	leader	"KWAY?" the ghost and big dipper question curiously - a leader, chief, and champion?
+醜	chǒu	3	ugly	The ghost bends down drooping - ugly, unattractive, and hideous.
+壟	lǒng	3	raised path between fields	The dragon and land bend down drooping - raised path between fields, ridge, and mound.
+寵	chǒng	3	dote on	The house bends down drooping - to dote on, pamper, and spoil.
+龐	páng	2	huge	"PAHNG?" the cave and dragon question curiously - huge, enormous, and vast?
+攏	lǒng	3	draw near	The fingers bend down drooping - to draw near, gather the spirit in soil.
+聾	lóng	2	deaf	"LUNG?" the ear questions curiously - deaf, hearing impaired like Fengxia?
+籠	lóng	2	cage	"LUNG?" the bamboo questions curiously - a cage, basket for chicken coop?
+插	chā	1	insert	"CHAH!" the fingers sing cheerfully - to insert, stick, and interfere in battle!
+毀	huǐ	3	ruin	The stone bends down drooping - to ruin, destroy, and wreck.
+舅	jiù	4	mother's brother	"JYOH!" he commands sharply - mother's brother, maternal uncle!
+樁	zhuāng	1	stake	"JWAHNG!" the tree sings cheerfully - a stake, post, and pile!
+鑿	záo	2	bore a hole	"DZAO?" the side by side, needle, mortar, missile, and metal question curiously - to bore a hole, drill, and chisel?
+鼠	shǔ	3	mouse	The rodent bends down drooping - a mouse, rat, and rodent.
+竄	cuàn	4	scurry	"TSWAN!" the hole commands sharply - to scurry, flee, and push the chest!
+臘	là	4	dried meat	"LAH!" the flesh, mouse, and hairs command sharply - dried meat, cured and preserved!
+蠟	là	4	wax	"LAH!" the insect commands sharply - wax, beeswax, and candle!
+獵	liè	4	hunt	"LYEH!" the dog commands sharply - to hunt, chase game!
+艘	sōu	1	vessels	"SOH!" the boat sings cheerfully - vessels, ships to measure!
+嫂	sǎo	3	elder brother's wife	The woman bends down drooping - elder brother's wife, sister-in-law!
+瘦	shòu	4	emaciated	"SHOH!" it commands sharply - emaciated, thin, and skinny!
 搜	sōu	1	search	"SOH!" the detective's fingers sing cheerfully while searching through the drawers for clues!
 稻	dào	4	unhulled rice	"DAO!" the farmer commands sharply, scooping up wild unhulled rice from the paddy!
 蹈	dǎo	3	tread	The wooden leg bends down drooping as he treads carefully across the muddy path.
