@@ -1,0 +1,2931 @@
+Character	Pinyin	Tone	Meaning	Story
+一	yī	1	one	A single happy line sings "Yeeee!" at number one!
+二	èr	4	two	Two angry lines yell "ERR!" when you make a mistake!
+三	sān	1	three	Three cheerful lines sing "Saaaan-shine" together!
+四	sì	4	four	Inside the box, your four items command "See this!" sharply!
+五	wǔ	3	five	Five fingers bend down drooping as you say "Woo" sadly!
+六	liù	4	six	A lid over eight yells "Leo!" for six sharp reasons!
+七	qī	1	seven	Seven slashes happily high in the sky, singing "Chee!"
+八	bā	1	eight	Eight paths split cheerfully as you sing "Baaaa!"
+九	jiǔ	3	nine	Nine hooks bend and dip down, curving like "Jiu" bends!
+十	shí	2	ten	A cross at ten keeps asking "Shi? Why ten?" curiously!
+口	kǒu	3	Mouth	Your mouth bends down drooping when you say "Ko" with a frown!
+日	rì	4	Day	The sun yells "REE!" sharply to wake you each day!
+月	yuè	4	Month	The moon commands "Yue!" sharply each month it appears!
+田	tián	2	Rice Field	In the rice field, farmers ask "Tian? Why so muddy?" curiously!
+目	mù	4	Eye	Your eye angrily yells "MOO!" when dust gets in it!
+古	gǔ	3	ancient	Ancient stone tablets bend and droop, curved with age like "Gu"!
+胡	hú	2	recklessly	A reckless fool with wild whiskers asks "Who? Hu?" questioning everything!
+吾	wú	2	I (literary)	"I," says the mouth, questioning "Wu? Am I important?" with a sigh!
+朋	péng	2	Companion	Two moons ask "Peng? Why are we companions?" questioning their friendship!
+明	míng	2	bright	The sun and moon together question "Ming? Why so bright?" curiously!
+唱	chàng	4	to sing	With your mouth, you command the sun to sing "Chang!" sharply!
+晶	jīng	1	sparkling	Three suns sparkle cheerfully, singing "Jing!" high and happy!
+品	pǐn	3	Goods	Three mouths bend down, drooping as they inspect goods saying "Pin"!
+昌	chāng	1	prosperous	Two suns rise high, singing "Chang!" to celebrate prosperity!
+早	zǎo	3	early	Early morning sun bends down drooping low, still saying "Zao"!
+旭	xù	4	Rising Sun	The rising sun commands sharply "Shu!" to wake everyone!
+世	shì	4	Generation	Three tens stack up, yelling "Shi!" for each generation sharply!
+胃	wèi	4	Stomach	Your stomach with a field inside yells "Way!" angrily when hungry!
+旦	dàn	4	Daybreak	At daybreak, the sun commands "Dan!" sharply above the horizon!
+凹	āo	1	concave	A concave pit sings "Aaooo!" happily echoing high inside!
+凸	tū	1	convex	Convex bumps rise high, cheerfully singing "Too!" as they stick out!
+自	zì	4	oneself	A nose points to oneself, yelling "Zi!" sharply with pride!
+白	bái	2	white	The white sun asks "Bai? Why so bright?" questioning curiously!
+百	bǎi	3	hundred	A hundred bends down drooping under one white sun saying "Bai"!
+皂	zào	4	Soap	Soap commands "Zao!" sharply to clean everything white!
+中	zhōng	1	Middle	An arrow happily sings "Zhong!" straight through the middle target!
+千	qiān	1	thousand	A thousand people sing "Chian!" cheerfully marching together!
+舌	shé	2	Tongue	Your tongue in your mouth asks "She? Why taste this?" questioning!
+升	shēng	1	Liter	A liter rises up cheerfully singing "Sheng!" to the top!
+昇	shēng	1	to rise up	The sun rises high, happily singing "Sheng!" at dawn!
+丸	wán	2	Pill	A round pill asks "Wan? Why swallow me?" questioning curiously!
+卜	bǔ	3	Divination	The divination stick bends down drooping as it says "Bu"!
+占	zhàn	4	to tell fortunes	Your mouth commands the divination sharply "Zhan! Tell my fortune!"
+上	shàng	4	above	Above the line, an arrow yells "Shang!" pointing up sharply!
+下	xià	4	below	Below the line, an arrow commands "Xia!" pointing down sharply!
+卡	kǎ	3	Card	A card bends and dips between above and below saying "Ka"!
+卓	zhuó	2	eminent	An eminent person stands above, questioning "Zhuo? Am I tall enough?" curiously!
+朝	cháo	2	Dynasty	The dynasty sun and moon question "Chao? Why our reign?" curiously!
+嘲	cháo	2	to ridicule	The mouth ridicules, questioning "Chao? You call that a dynasty?" mockingly!
+只	zhǐ	3	only	Only one mouth bends down drooping saying "Zhi" alone!
+貝	bèi	4	Shellfish	The shellfish commands sharply "Bay!" inside its shell!
+貼	tiē	1	to paste	Paste shellfish happily singing "Tieh!" as they stick!
+貞	zhēn	1	chaste	A chaste shellfish sings "Zhen!" cheerfully and purely!
+員	yuán	2	Employee	Your employee shellfish asks "Yuan? Where's my paycheck?" questioning!
+見	jiàn	4	to see	Eyes on legs command "Jian! See this!" sharply!
+元	yuán	2	Beginning	At the beginning, two legs question "Yuan? Why start here?" curiously!
+頁	yè	4	Page	The page head yells "Yeh!" sharply when turned!
+頑	wán	2	stubborn	A stubborn head questions "Wan? Why should I?" refusing to budge!
+凡	fán	2	ordinary	An ordinary table sighs "Fan? Why so plain?" questioning its fate!
+肌	jī	1	Muscle	Muscles sing "Jee!" cheerfully when flexing happily!
+負	fù	4	defeated	Defeated with a shell burden, you yell "Fu!" angrily!
+勻	yún	2	uniform	Uniform division asks "Yun? Why equal?" questioning the balance!
+句	jù	4	Sentence	A sentence in your mouth commands "Ju!" sharply at the end!
+旬	xún	2	Decameron	Ten days question "Shun? Already a decameron?" asking where time went!
+勺	sháo	2	Ladle	The ladle asks "Shao? Why scoop this?" questioning curiously!
+的	de	5	Bull's Eye	The white ladle hits the bull's eye, saying "duh" neutrally!
+首	shǒu	3	Heads	The head bends down drooping on the neck saying "Sho"!
+直	zhí	2	straight	A straight eye questions "Zhi? Why so direct?" curiously!
+置	zhì	4	to set up	Set up the net straight, commanding "Zhi!" sharply in place!
+具	jù	4	Tool	The tool with eyes commands "Ju!" sharply to be used!
+真	zhēn	1	true	Ten eyes sing "Zhen!" happily seeing the truth!
+工	gōng	1	the Work	The work sings "Gong!" cheerfully as beams hold high!
+左	zuǒ	3	Left	Left hand with work bends down drooping saying "Zuo"!
+右	yòu	4	Right	Right hand with mouth yells "Yo!" sharply pointing right!
+有	yǒu	3	to possess	To possess the moon with your right hand, it bends drooping saying "Yo"!
+賄	huì	4	bribe	A bribe of shellfish yells "Hway!" sharply with each corrupt hand!
+貢	gòng	4	Tribute	Tribute of work and shellfish commands "Gong!" sharply to the emperor!
+項	xiàng	4	Item	The item page of your head yells "Shyang!" sharply!
+刀	dāo	1	Sword	The sword sings "Dao!" cheerfully and high when drawn!
+刃	rèn	4	Blade	A dot on the blade yells "Ren!" sharply at the edge!
+切	qiè	4	to cut	Cut with one sword, commanding "Chieh!" sharply!
+召	zhào	4	to summon	Summon with your mouth and sword, yelling "Zhao!" sharply!
+昭	zhāo	1	evident	The evident sun sings "Zhao!" cheerfully making everything clear!
+則	zé	2	Rule	The rule with shellfish and sword questions "Zeh? Why obey?" curiously!
+副	fù	4	vice-	The vice stands beside with a sword, commanding "Fu!" sharply!
+丁	dīng	1	fourth	The fourth nail sings "Ding!" cheerfully and high when hammered!
+叮	dīng	1	to sting	A mouth sting like a nail sings "Ding!" happily biting!
+可	kě	3	can	You can use your mouth bent down drooping saying "Kuh"!
+哥	gē	1	Older Brother	Older brother with two mouths sings "Guh!" cheerfully and high!
+頂	dǐng	3	crest	The crest of the head bends down drooping at the top saying "Ding"!
+乙	yǐ	3	second	Second place bends down drooping like a hook saying "Yee"!
+子	zǐ	3	child	The child bends down drooping saying "Zi" with bent posture!
+孔	kǒng	3	cavity	A cavity child bends down drooping in the hole saying "Kong"!
+吼	hǒu	3	to roar	To roar from your mouth bends down drooping saying "Ho!"
+了	le	5	-ed	Completed action of child says "luh" neutrally when done!
+女	nǚ	3	Woman	A woman bends down drooping gracefully saying "Nyu"!
+好	hǎo	3	good	A woman and child bend down drooping together, good and saying "Hao"!
+如	rú	2	to be like	A woman's mouth asks "Ru? Are we alike?" questioning similarity!
+母	mǔ	3	Mother	Mother bends down drooping with two dots for breasts saying "Mu"!
+貫	guàn	4	to pierce	Pierce through the shell sharply commanding "Guan!" with mother above!
+兄	xiōng	1	Elder Brother	Elder brother stands tall, cheerfully singing "Shyong!" high and proud!
+克	kè	4	to overcome	To overcome with ten mouths yelling "Kuh!" sharply!
+小	xiǎo	3	small	Small person bends down drooping low saying "Shyao"!
+少	shǎo	3	few	Few strokes bend down drooping small saying "Shao"!
+吵	chǎo	3	noisy	A noisy mouth bends down drooping, shouting "Chao" with few words!
+大	dà	4	large	Large person spreads arms, yelling "Da!" sharply and wide!
+尖	jiān	1	tip	The tip where small meets large sings "Jian!" cheerfully and sharp!
+夕	xī	1	Evening	Evening moon sings "Shee!" happily and high in the sky!
+多	duō	2	many	Many evenings ask "Duo? Why so many nights?" questioning curiously!
+夠	gòu	4	enough	Evening sentence commands "Go!" sharply when it's enough!
+外	wài	4	outside	Outside the evening divination yells "Why!" sharply beyond!
+名	míng	2	a Name	A name in the evening mouth questions "Ming? Who am I?" curiously!
+厚	hòu	4	thick	Thick cliff of day and child commands "Ho!" sharply and solid!
+石	shí	2	stone	A stone at the cliff asks "Shi? How hard?" questioning curiously!
+砂	shā	1	Gravel	Gravel stones sing "Sha!" cheerfully scattered few and small!
+妙	miào	4	wonderful	A wonderful woman commands "Miao!" sharply with small joy!
+肖	xiào	4	to resemble	To resemble small flesh yells "Shyao!" sharply alike!
+削	xiāo	1	to peel	To peel with knife singing "Shyao!" happily removing small bits!
+光	guāng	1	ray	A ray of fire on legs sings "Gwang!" cheerfully bright!
+太	tài	4	overly	Overly large with a dot yells "Tai!" sharply too much!
+省	shěng	3	to economize	To economize, the eye bends down drooping, saying "Sheng" to save!
+奇	qí	2	strange	A strange large person questions "Chi? Why so odd?" curiously!
+川	chuān	1	Stream	A stream flows cheerfully singing "Chuan!" in three happy channels!
+州	zhōu	1	a state	A state with stream and dots sings "Joe!" cheerfully united!
+順	shùn	4	to obey	To obey, the stream flows by the page, commanding "Shun!" sharply!
+水	shuǐ	3	Water	Water bends down drooping in streams saying "Shway"!
+永	yǒng	3	Eternity	Eternity of water bends down drooping forever saying "Yong"!
+求	qiú	2	to request	To request with water drop asks "Chyo? May I have some?" questioning!
+泉	quán	2	a Spring	A spring of white water questions "Chuan? Where does it come from?" curiously!
+原	yuán	2	flatlands	Flatlands with cliff spring and white question "Yuan? Why so flat?" curiously!
+願	yuàn	4	a wish	A wish from flatlands page commands "Yuan! Grant it!" sharply!
+沖	chōng	1	to wash away	To wash away, water sings "Chong!" cheerfully rinsing middle!
+泳	yǒng	3	to swim	To swim in eternal water bends down drooping saying "Yong"!
+洲	zhōu	1	Continent	A continent with water and state sings "Joe!" cheerfully and large!
+沼	zhǎo	3	Marsh	A marsh where water bends down drooping in summoned pools saying "Zhao"!
+沙	shā	1	Sand	Sand in water sings "Sha!" cheerfully and few like gravel!
+江	jiāng	1	Yangtze	The Yangtze water flows cheerfully singing "Jiang!" through the work!
+汁	zhī	1	Juice	Juice from water ten sings "Zhi!" happily extracted!
+潮	cháo	2	Tide	The tide of dynasty water questions "Chao? Why rise and fall?" curiously!
+源	yuán	2	source	The source of water flatlands questions "Yuan? Where does it begin?" curiously!
+活	huó	2	lively	Lively water tongue asks "Huo? Why so active?" questioning vibrantly!
+消	xiāo	1	to extinguish	To extinguish water moon sings "Shyao!" cheerfully fading away!
+況	kuàng	4	Situation	The situation of water mouth yells "Kwang!" sharply describing!
+河	hé	2	river	The river water questions "Huh? Why flow here?" curiously with mouth!
+湖	hú	2	lake	A lake of water questions "Who? Hu?" curiously like reckless whiskers!
+測	cè	4	to fathom	To fathom water rules, commanding "Tsuh!" sharply measuring!
+土	tǔ	3	Soil	Soil bends down drooping in the ground saying "Too"!
+均	jūn	1	to equal	To equal, soil sings "June!" cheerfully divided evenly!
+肚	dù	5	belly	A belly of flesh and soil says "doo" neutrally round!
+填	tián	2	to fill in	To fill in real fields of soil questions "Tian? Why complete?" curiously!
+吐	tǔ	3	to spit	To spit from mouth and soil bends down drooping saying "Too"!
+哇	wā	1	Waaah!	"Waaah!" cries the mouth happily singing "Wa!" high and loud!
+寸	cùn	4	Chinese Inch	A Chinese inch hand measures, commanding "Tsun!" sharply and small!
+封	fēng	1	to seal	To seal with earth and inch sings "Fung!" cheerfully shut!
+寺	sì	4	Buddhist Temple	Buddhist temple with earth and inch commands "Sih!" sharply in prayer!
+時	shí	2	Time	Time at temple with sun questions "Shi? What hour?" curiously!
+火	huǒ	3	Fire	Fire bends down drooping and flickering saying "Huo"!
+灰	huī	1	ashes	Ashes under fire sing "Hway!" cheerfully scattered!
+煩	fán	2	vexed	Vexed with page fire questions "Fan? Why so troubled?" sighing!
+炎	yán	2	Inflammation	Inflammation of two fires questions "Yan? Why so hot?" burning curiously!
+淡	dàn	4	thin (watery/bland)	Thin water flames yell "Dan!" sharply weakened!
+災	zāi	1	Disaster	Disaster with river under fire sings "Zai!" sadly but high!
+照	zhào	4	to illuminate	To illuminate, summon fire commands "Zhao!" sharply shining!
+魚	yú	2	a Fish	A fish with fire tail questions "Yu? Why swim?" curiously!
+漁	yú	2	Fishing	Fishing for water fish questions "Yu? Where are they?" asking curiously!
+堯	yáo	2	Yáo	Emperor Yao on high earth questions "Yao? How lofty?" curiously!
+燒	shāo	1	Fever	Fever fire burns Yao high, singing "Shao!" cheerfully hot!
+曉	xiǎo	3	Dawn	Dawn sun bends down drooping like Yao saying "Shyao"!
+里	lǐ	3	a Li	A li of field and soil bends down drooping saying "Lee"!
+量	liàng	4	quantity	Quantity of sun under li yells "Lyang!" sharply measuring!
+埋	mái	2	to bury	To bury soil in li questions "Mai? Why underground?" curiously!
+黑	hēi	1	black	Black fire and soil sing "Hay!" darkly but high!
+點	diǎn	3	Spot	A spot of black divination bends down drooping saying "Dian"!
+墨	mò	4	Black Ink	Black ink soil commands "Mwoh!" sharply and dark!
+冒	mào	4	to risk	To risk with sun eye covered yells "Mao!" sharply daring!
+同	tóng	2	same	The same mouth inside questions "Tong? Are we alike?" curiously!
+洞	dòng	4	cave	A cave of water same commands "Dong!" sharply echoing!
+向	xiàng	4	orientation	Orientation of mouth in house yells "Shyang!" sharply pointing!
+尚	shàng	4	to esteem	To esteem small mouth house commands "Shang!" sharply valuing!
+字	zì	4	character	A character child in house yells "Zi!" sharply written!
+守	shǒu	3	to guard	To guard house with inch bends down drooping saying "Sho"!
+完	wán	2	to finish	To finish beginning in house questions "Wan? Is it done?" curiously!
+實	shí	2	reality	Reality pierces through house roof, questioning "Shi? Is it real?" curiously!
+宣	xuān	1	to proclaim	To proclaim in house sings "Shuan!" cheerfully announcing!
+宵	xiāo	1	Nighttime	Nighttime house evening sings "Shyao!" happily dark!
+安	ān	1	peaceful	A peaceful woman in house sings "An!" cheerfully and calm!
+宴	yàn	4	Banquet	A banquet house with sun women yells "Yan!" sharply feasting!
+寄	jì	4	to mail	To mail peculiar things from house commands "Ji!" sharply sending!
+富	fù	4	wealthy	A wealthy house with field above commands "Fu!" sharply abundant!
+貯	zhù	4	to store up	To store up master shellfish in house yells "Zhu!" sharply saving!
+木	mù	4	Tree	A tree stands tall, commanding "Moo!" sharply with branches!
+林	lín	2	Woods	Woods of two trees question "Lin? Why so many?" curiously!
+森	sēn	1	Forest	A forest of three trees sings "Sen!" cheerfully dense!
+植	zhí	2	to plant	To plant trees straight questions "Zhi? Where to grow?" curiously!
+杏	xìng	4	Apricot	An apricot tree mouth commands "Shing!" sharply ripening!
+呆	dāi	1	dim-witted	A dim-witted person with wood mouth sings "Dai!" stupidly happy!
+枯	kū	1	withered	A withered tree with ancient wood sings "Koo!" sadly high!
+村	cūn	1	Village	A village of trees and inches sings "Tsun!" cheerfully together!
+相	xiāng	1	one another	One another with tree and eye sings "Shyang!" happily seeing each other!
+本	běn	3	notebook	A notebook tree root bends down drooping saying "Ben"!
+案	àn	4	legal case	A legal case at the tree table commands "An!" sharply in judgment!
+未	wèi	4	not yet	Not yet finished tree yells "Way!" sharply incomplete!
+末	mò	4	Last	Last branch of tree commands "Mwoh!" sharply at the end!
+沫	mò	4	Foam	Foam water at last yells "Mwoh!" sharply bubbling!
+味	wèi	4	Flavor	Flavor of mouth not yet commands "Way!" sharply tasting!
+妹	mèi	4	younger sister	Younger sister woman not yet yells "May!" sharply young!
+查	chá	2	to investigate	To investigate tree at dawn questions "Cha? What happened?" curiously!
+渣	zhā	1	sediment	Sediment water investigated sings "Zha!" cheerfully settling!
+染	rǎn	3	to dye	To dye water with nine trees bends down drooping saying "Ran"!
+李	lǐ	3	Plum	A plum tree child bends down drooping saying "Lee"!
+桌	zhuō	1	Table	A table tree卓 sings "Zhuo!" cheerfully high and eminent!
+若	ruò	4	as if	As if grass with right hand commands "Ruo!" sharply comparing!
+草	cǎo	3	grass	Grass with early heads bends down drooping saying "Tsao"!
+苦	kǔ	3	Suffering	Suffering grass and ancient bend down drooping saying "Koo"!
+寬	kuān	1	wide	Wide grass house sings "Kuan!" cheerfully spacious!
+葉	yè	4	Leaf	A leaf of grass and tree page commands "Yeh!" sharply falling!
+莫	mò	4	nobody	Nobody in grass sunset commands "Mwoh!" sharply absent!
+模	mó	2	to imitate	To imitate nobody with tree questions "Mwo? How to copy?" curiously!
+漠	mò	4	Desert	A desert of water and nobody yells "Mwoh!" sharply empty!
+墓	mù	4	a Grave	A grave with soil and nobody commands "Moo!" sharply buried!
+苗	miáo	2	Seedling	A seedling grass field questions "Miao? Will it grow?" curiously!
+瞄	miáo	2	to aim	To aim eye at seedling questions "Miao? Is that the target?" curiously!
+兆	zhào	4	Portent	A portent divination commands "Zhao!" sharply foretelling!
+桃	táo	2	peach	A peach tree portent questions "Tao? When ripe?" curiously!
+犬	quǎn	3	Pooch	A pooch dog bends down drooping saying "Chuan"!
+尤	yóu	2	remarkable	Remarkable outstanding person questions "Yo? Really?" curiously!
+默	mò	4	silence	Silence of black dog commands "Mwoh!" sharply quiet!
+然	rán	2	sort of thing	Sort of thing with flesh fire questions "Ran? Is it so?" curiously!
+哭	kū	1	to cry	To cry with two dogs mouth sings "Koo!" sadly high!
+器	qì	4	Utensil	A utensil of four dogs and one mouth yells "Chi!" sharply used!
+臭	chòu	4	stinking	Stinking nose and dog command "Cho!" sharply smelly!
+狗	gǒu	3	Dog	A dog pooch bends down drooping saying "Go"!
+厭	yàn	4	to detest	To detest detested dog cliff yells "Yan!" sharply hating!
+壓	yā	1	pressure	Pressure of cliff dog singing "Ya!" happily squashing!
+牛	niú	2	Cow	A cow with horns questions "Nyo? Moo?" curiously!
+特	tè	4	special	A special cow at temple commands "Tuh!" sharply unique!
+告	gào	4	to declare	To declare with cow mouth yells "Gao!" sharply announcing!
+浩	hào	4	vast	Vast water told commands "Hao!" sharply expanding!
+先	xiān	1	before	Before legs sing "Shian!" cheerfully ahead!
+洗	xǐ	3	to wash	To wash before water bends down drooping saying "Shee"!
+介	jiè	4	to introduce	To introduce person commands "Jieh!" sharply between!
+界	jiè	4	World	The world field introduced yells "Jieh!" sharply bounded!
+茶	chá	2	Tea	Tea grass people introduced question "Cha? Want some?" curiously!
+會	huì	4	Meeting	A meeting with people and cloud commands "Hway!" sharply gathering!
+合	hé	2	to fit	To fit person mouth together questions "Huh? Does it match?" curiously!
+哈	hā	1	Ha!	"Ha!" laughs the mouth happily singing "Ha!" high and loud!
+塔	tǎ	3	Pagoda	A pagoda soil fit tall bends down drooping saying "Ta"!
+王	wáng	2	King	A king with three levels questions "Wang? Why rule?" curiously!
+玉	yù	4	Jade	Jade king with a dot yells "Yu!" sharply precious!
+球	qiú	2	Balls	Balls of jade request questions "Chyo? Play ball?" curiously!
+現	xiàn	4	present	Present jade sees commands "Shian!" sharply now!
+玩	wán	2	to play	To play with jade beginning questions "Wan? How fun?" curiously!
+狂	kuáng	2	crazy	Crazy dog king questions "Kwang? Why mad?" curiously wild!
+皇	huáng	2	Emperor	The emperor white king questions "Hwang? Why reign?" curiously!
+煌	huáng	2	resplendent	Resplendent fire emperor questions "Hwang? Why shine?" curiously!
+呈	chéng	2	to submit	To submit mouth king questions "Cheng? Is it ready?" curiously!
+全	quán	2	whole	The whole jade roof questions "Chuan? Is it complete?" curiously!
+理	lǐ	3	Logic	Logic jade in li bends down drooping saying "Lee"!
+主	zhǔ	3	Lord	A lord king dot above bends down drooping saying "Zhu"!
+注	zhù	4	to pour	To pour water lord commands "Zhu!" sharply flowing!
+金	jīn	1	the Gold	The gold sings "Jeen!" cheerfully shining!
+銅	tóng	2	Copper	Copper gold same questions "Tong? Bronze?" curiously!
+釣	diào	4	to go fishin'	To go fishin' with gold hook commands "Diao!" sharply catching!
+針	zhēn	1	Needle	A needle gold ten sings "Zhen!" cheerfully sharp!
+釘	dīng	1	Nail	A nail gold fourth sings "Ding!" cheerfully hammering!
+銘	míng	2	Inscription	An inscription gold name questions "Ming? What says?" curiously!
+鎮	zhèn	4	at ease	At ease gold real commands "Zhen!" sharply calming!
+道	dào	4	Way	The way of head foot commands "Dao!" sharply leading!
+導	dǎo	3	to guide	To guide way inch bends down drooping saying "Dao"!
+迅	xùn	4	speedy	Speedy ten walking commands "Shun!" sharply fast!
+造	zào	4	to create	To create tell walk yells "Zao!" sharply making!
+巡	xún	2	to patrol	To patrol walk around questions "Shun? All clear?" curiously!
+逛	guàng	4	to stroll	To stroll wide walk commands "Gwang!" sharply wandering!
+車	chē	1	Car	A car with wheels sings "Chuh!" cheerfully rolling!
+連	lián	2	one after another	One after another car questions "Lian? Where next?" curiously!
+蓮	lián	2	Lotus	A lotus grass connected questions "Lian? Why float?" curiously!
+前	qián	2	in front	In front walking boat questions "Chian? Ahead?" curiously!
+剪	jiǎn	3	Shears	Shears cut front bends down drooping saying "Jian"!
+輸	shū	1	to transport	To transport car sing "Shoo!" cheerfully moving!
+逾	yú	2	to exceed	To exceed walking beyond questions "Yu? Too far?" curiously!
+各	gè	4	each	Each mouth coming down yells "Guh!" sharply separate!
+格	gé	2	Pattern	A pattern tree each questions "Guh? What style?" curiously!
+客	kè	4	Guest	A guest each in house commands "Kuh!" sharply visiting!
+額	é	2	Forehead	Forehead page of guest questions "Uh? Why so big?" curiously!
+夏	xià	4	Summer	Summer head under big feet yells "Shya!" sharply hot!
+洛	luò	4	L.A.	L.A. water fall commands "Luo!" sharply in California!
+落	luò	4	to fall	To fall grass water L.A. yells "Luo!" sharply dropping!
+冗	rǒng	3	superfluous	Superfluous roof power bends down drooping saying "Rong"!
+沉	chén	2	profound	Profound water seven questions "Chen? How deep?" curiously!
+軍	jūn	1	Army	An army car sings "June!" cheerfully marching!
+輝	huī	1	Radiance	Radiance car sings "Hway!" cheerfully glowing!
+運	yùn	4	to carry	To carry army walk commands "Yun!" sharply moving!
+冠	guān	1	Crown	A crown roof beginning king sings "Gwan!" cheerfully royal!
+夢	mèng	4	a Dream	A dream grass crown evening yells "Mung!" sharply at night!
+坑	kēng	1	Pit	A pit soil hollow sings "Kung!" echoing happy!
+高	gāo	1	tall	Tall mouth building sings "Gao!" cheerfully high!
+享	xiǎng	3	to enjoy	To enjoy tall child bends down drooping saying "Shyang"!
+熟	shú	2	ripe	Ripe fire enjoy questions "Shoo? Is it done?" curiously!
+亭	tíng	2	Pavilion	A pavilion tall nail questions "Ting? Rest here?" curiously!
+亮	liàng	4	shining	Shining tall cap commands "Lyang!" sharply bright!
+京	jīng	1	Capital	A capital tall mouth sings "Jing!" cheerfully grand!
+涼	liáng	2	cool	Cool water capital questions "Lyang? Refreshing?" curiously!
+景	jǐng	3	Scenery	Scenery sun capital bends down drooping saying "Jing"!
+就	jiù	4	at once	At once capital dog commands "Jyo!" sharply immediately!
+周	zhōu	1	Circumference	Circumference mouth inside sings "Joe!" cheerfully around!
+週	zhōu	1	Week	A week walk circumference sings "Joe!" cheerfully cycling!
+士	shì	4	Soldier	A soldier one ten commands "Shi!" sharply standing!
+吉	jí	2	lucky	Lucky soldier mouth questions "Ji? Good fortune?" curiously!
+買	mǎi	3	to buy	To buy net four bends down drooping saying "Mai"!
+賣	mài	4	to sell	To sell buy shellfish commands "Mai!" sharply trading!
+書	shū	1	Book	A book hand speaks cheerfully singing "Shoo!" high!
+畫	huà	4	a Drawing	A drawing field commands "Hwa!" sharply with lines!
+劃	huá	2	to scratch	To scratch drawing power questions "Hwa? Where cut?" curiously!
+攻	gōng	1	to attack	To attack work strike sings "Gong!" cheerfully hitting!
+敗	bài	4	to fail	To fail shellfish struck yells "Bai!" sharply defeated!
+故	gù	4	deliberately	Deliberately ancient strike commands "Goo!" sharply on purpose!
+救	jiù	4	to rescue	To rescue demand strike yells "Jyo!" sharply saving!
+敬	jìng	4	to revere	To revere strike alarm commands "Jing!" sharply respecting!
+敞	chǎng	3	spacious	Spacious high strike bends down drooping saying "Chang"!
+言	yán	2	to say	To say words question "Yan? What speak?" curiously!
+警	jǐng	3	Police	Police revere words bend down drooping saying "Jing"!
+計	jì	4	a Plan	A plan words ten commands "Ji!" sharply plotting!
+獄	yù	4	Prison	Prison dog words言 dog命令 yells "Yu!" sharply locked!
+討	tǎo	3	to condemn	To condemn words with inch bends down drooping saying "Tao"!
+訓	xùn	4	Instruction	Instruction words in river commands "Shun!" sharply teaching!
+話	huà	4	the talk	The talk words tongue commands "Hwa!" sharply speaking!
+詩	shī	1	Poem	A poem words at temple sings "Shi!" cheerfully rhyming!
+語	yǔ	3	Language	Language words I bend down drooping saying "Yu"!
+讀	dú	2	to read	To read words sell questions "Doo? What says?" curiously!
+調	diào	4	Tune	A tune words week commands "Diao!" sharply singing!
+談	tán	2	to discuss	To discuss words flame questions "Tan? What topic?" curiously!
+這	zhè	4	this	This walk words commands "Zhuh!" sharply pointing!
+式	shì	4	Style	A style work arrow commands "Shi!" sharply fashioned!
+試	shì	4	Test	A test words style yells "Shi!" sharply examining!
+戈	gē	1	Halberd	A halberd spear sings "Guh!" cheerfully sharp!
+或	huò	4	or	Or one mouth halberd commands "Huo!" sharply choosing!
+賊	zéi	2	Burglar	A burglar shellfish ten halberds questions "Zay? Stealing what?" curiously!
+載	zài	4	laden	Laden car halberds commands "Zai!" sharply carrying!
+鐵	tiě	3	Iron	Iron gold lost bends down drooping saying "Tieh"!
+茂	mào	4	lush	Lush grass halberds command "Mao!" sharply overgrown!
+成	chéng	2	to turn into	To turn into halberds question "Cheng? What become?" curiously!
+城	chéng	2	City	A city earth turn into questions "Cheng? How big?" curiously!
+誠	chéng	2	sincere	Sincere words turn into questions "Cheng? Really true?" curiously!
+威	wēi	1	Might	Might woman halberds sing "Way!" cheerfully powerful!
+滅	miè	4	to destroy	To destroy fire halberds command "Mieh!" sharply extinguishing!
+咸	xián	2	everybody	Everybody halberds mouth questions "Shian? All here?" curiously!
+減	jiǎn	3	to reduce	To reduce water everybody bends down drooping saying "Jian"!
+單	dān	1	a List	A list two halberds sing "Dan!" cheerfully simple!
+戰	zhàn	4	War	War list halberds command "Zhan!" sharply fighting!
+錢	qián	2	Coin	Coin gold list questions "Chian? How much?" curiously!
+淺	qiǎn	3	shallow	Shallow water list bends down drooping saying "Chian"!
+賤	jiàn	4	cheap	Cheap shellfish war yells "Jian!" sharply worthless!
+止	zhǐ	3	to stop	To stop foot bends down drooping saying "Zhi"!
+步	bù	4	Footstep	Footsteps stop little commands "Boo!" sharply walking!
+涉	shè	4	to ford	To ford water steps commands "Shuh!" sharply crossing!
+頻	pín	2	repeatedly	Repeatedly steps page questions "Pin? Again?" curiously!
+肯	kěn	3	to agree	To agree stop flesh bends down drooping saying "Ken"!
+企	qǐ	3	to look forward to	To look forward to person stop bends down drooping saying "Chi"!
+歲	suì	4	Years of Age	Years of age stop halberds small commands "Sway!" sharply aging!
+武	wǔ	3	military	Military stop halberds bend down drooping saying "Woo"!
+賦	fù	4	Levy	A levy martial shellfish commands "Foo!" sharply taxing!
+正	zhèng	4	correct	Correct stop one commands "Zheng!" sharply right!
+政	zhèng	4	Politics	Politics correct strike yells "Zheng!" sharply governing!
+定	dìng	4	to settle on	To settle on house correct commands "Ding!" sharply deciding!
+走	zǒu	3	to walk	To walk earth stop bends down drooping saying "Zo"!
+超	chāo	1	to transcend	To transcend walk summon sings "Chao!" cheerfully exceeding!
+越	yuè	4	to surpass	To surpass walk halberds commands "Yueh!" sharply beyond!
+是	shì	4	to be	To be sun correct yells "Shi!" sharply existing!
+題	tí	2	Topic	A topic yes page questions "Ti? What about?" curiously!
+建	jiàn	4	to build	To build brush walk commands "Jian!" sharply constructing!
+延	yán	2	to prolong	To prolong walk correct questions "Yan? How long?" curiously!
+誕	dàn	4	Nativity	Nativity words prolong commands "Dan!" sharply birth!
+楚	chǔ	3	clear	Clear tree define bends down drooping saying "Choo"!
+礎	chǔ	3	Foundation	Foundation stone clear bends down drooping saying "Choo"!
+衣	yī	1	Clothing	Clothing covers cheerfully singing "Yee!" high!
+裡	lǐ	3	inside	Inside clothing li bends down drooping saying "Lee"!
+哀	āi	1	Grief	Grief mouth clothes sings "Eye!" sadly high!
+袁	yuán	2	Yuan	Yuan clothes begin questions "Yuan? Who's that?" curiously!
+遠	yuǎn	3	distant	Distant walk Yuan bends down drooping saying "Yuan"!
+壞	huài	4	bad	Bad earth Yuan commands "Hwai!" sharply broken!
+初	chū	1	elementary	Elementary clothes knife sings "Choo!" cheerfully starting!
+巾	jīn	1	Towel	A towel hangs cheerfully singing "Jeen!" high!
+布	bù	4	Cloth	Cloth hangs down commanding "Boo!" sharply spread!
+帽	mào	4	Hat	A hat towel eye commands "Mao!" sharply on head!
+幕	mù	4	Curtain	A curtain towel nobody yells "Moo!" sharply hanging!
+棉	mián	2	Cotton	Cotton tree towel questions "Mian? Is it soft?" curiously!
+幫	bāng	1	to help	To help towel city sings "Bang!" cheerfully assisting!
+市	shì	4	Market	A market towel above commands "Shi!" sharply trading!
+肺	fèi	4	Lungs	Lungs flesh market yell "Fay!" sharply breathing!
+帶	dài	4	Sash	A sash towel world commands "Dai!" sharply wrapping!
+滯	zhì	4	stagnant	Stagnant water sash yells "Zhi!" sharply stuck!
+刺	cì	4	Thorn	A thorn tree bundle commands "Tsih!" sharply piercing!
+制	zhì	4	System	A system cow knife commands "Zhi!" sharply regulating!
+製	zhì	4	to manufacture	To manufacture clothes system yells "Zhi!" sharply making!
+云	yún	2	to utter	To utter two clouds question "Yun? What say?" curiously!
+雨	yǔ	3	the Rain	The rain drops bend down drooping saying "Yu"!
+雲	yún	2	Cloud	A cloud rain uttering questions "Yun? Why float?" curiously!
+雷	léi	2	Thunder	Thunder rain field questions "Lay? Why boom?" curiously!
+電	diàn	4	Electricity	Electricity rain utter commands "Dian!" sharply shocking!
+霜	shuāng	1	Frost	Frost rain tree sings "Shwang!" cheerfully freezing!
+冰	bīng	1	Ice	Ice water sings "Bing!" cheerfully freezing!
+冬	dōng	1	Winter	Winter ice sings "Dong!" cheerfully cold!
+天	tiān	1	Heavens	Heaven big person sings "Tian!" happily high!
+夭	yāo	1	to die young	To die young with bent big sings "Yao!" sadly high!
+喬	qiáo	2	to pretend	To pretend tall heaven questions "Chiao? Is it high?" curiously!
+橋	qiáo	2	Bridge	A bridge tree pretend questions "Chiao? Can it cross?" curiously!
+嬌	jiāo	1	attractive	An attractive woman pretending sings "Jiao!" cheerfully charming!
+立	lì	4	standing up	Standing up straight commands "Lee!" sharply erect!
+泣	qì	4	to weep	To weep water standing yells "Chi!" sharply crying!
+站	zhàn	4	Station	A station standing firm commands "Zhan!" sharply stopping!
+章	zhāng	1	Chapter	A chapter standing ten days sings "Zhang!" cheerfully written!
+競	jìng	4	to compete	To compete stand brothers command "Jing!" sharply racing!
+帝	dì	4	Sovereign	A sovereign standing towel commands "Dee!" sharply ruling!
+童	tóng	2	Juvenile	A juvenile standing heavy questions "Tong? Still young?" curiously!
+鐘	zhōng	1	Bell	A bell gold juvenile sings "Zhong!" cheerfully ringing!
+商	shāng	1	Salesman	A salesman stands high mouth sings "Shang!" cheerfully selling!
+適	shì	4	suitable	Suitable walk salesman commands "Shi!" sharply fitting!
+敵	dí	2	Enemy	An enemy salesman struck questions "Di? Fight?" curiously!
+匕	bǐ	3	Ancient Spoon	An ancient spoon bends down drooping saying "Bee"!
+北	běi	3	North	North spoons bend down drooping saying "Bay"!
+背	bèi	4	Back	Back north flesh commands "Bay!" sharply behind!
+比	bǐ	3	to compare	To compare two spoons bend down drooping saying "Bee"!
+昆	kūn	1	Descendants	Descendants sun compare sing "Koon!" cheerfully many!
+混	hùn	4	to mix	To mix water descendants yells "Hoon!" sharply blending!
+皆	jiē	1	all	All compare white sings "Jieh!" cheerfully everyone!
+此	cǐ	3	this	This stop spoon bends down drooping saying "Tsih"!
+些	xiē	1	somewhat	Somewhat this two sings "Shieh!" cheerfully some!
+它	tuō	1	it	It roof spoon sings "Twoh!" cheerfully neutral!
+旨	zhǐ	3	Purpose	Purpose sun spoon bends down drooping saying "Zhi"!
+脂	zhī	1	Grease	Grease flesh purpose sings "Zhi!" cheerfully fatty!
+每	měi	3	every	Every mother top bends down drooping saying "May"!
+梅	méi	2	Small Plum	Small plum tree every questions "May? Ripe?" curiously!
+海	hǎi	3	Sea	Sea water every bends down drooping saying "Hai"!
+乞	qǐ	3	to beg	To beg bent person bends down drooping saying "Chi"!
+吃	chī	1	to eat	To eat mouth beg sings "Chi!" cheerfully consuming!
+乾	gān	1	dry	Dry sunrise sings "Gan!" cheerfully arid!
+複	fù	4	to duplicate	To duplicate clothes dry commands "Foo!" sharply repeating!
+腹	fù	4	Abdomen	Abdomen flesh duplicate yells "Foo!" sharply belly!
+欠	qiàn	4	to lack	To lack person commands "Chian!" sharply missing!
+吹	chuī	1	to blow	To blow mouth lack sings "Chway!" cheerfully puffing!
+歌	gē	1	Song	A song lack big mouth sings "Guh!" cheerfully loud!
+軟	ruǎn	3	soft	Soft car lack bends down drooping saying "Ruan"!
+次	cì	4	next	Next ice commands "Tsih!" sharply second!
+資	zī	1	Assets	Assets next shellfish sing "Zi!" cheerfully wealthy!
+姿	zī	1	Looks	Looks woman next sing "Zi!" cheerfully pretty!
+諮	zī	1	to consult with	To consult words next sing "Zi!" cheerfully asking!
+賠	péi	2	to compensate	To compensate shellfish stand questions "Pay? How much?" curiously!
+培	péi	2	to cultivate	To cultivate soil stand questions "Pay? How grow?" curiously!
+音	yīn	1	Sound	Sound standing sun sings "Yin!" cheerfully audible!
+暗	àn	4	dark	Dark sun sound commands "An!" sharply hidden!
+韻	yùn	4	Rhyme	A rhyme sound commands "Yun!" sharply poetic!
+識	shì	4	Knowledge	Knowledge words sound yells "Shi!" sharply knowing!
+幟	zhì	4	Streamer	A streamer towel sound commands "Zhi!" sharply waving!
+竟	jìng	4	unexpectedly	Unexpectedly sound child yells "Jing!" sharply surprising!
+鏡	jìng	4	Mirror	A mirror gold unexpectedly commands "Jing!" sharply reflecting!
+境	jìng	4	Boundary	A boundary earth unexpectedly yells "Jing!" sharply bordering!
+亡	wáng	2	deceased	Deceased person gone questions "Wang? Where died?" curiously!
+盲	máng	2	blind	Blind eye deceased questions "Mang? Can't see?" curiously!
+妄	wàng	4	absurd	Absurd woman deceased commands "Wang!" sharply crazy!
+望	wàng	4	to expect	To expect absurd moon yells "Wang!" sharply hoping!
+方	fāng	1	Direction	Direction square sings "Fang!" cheerfully pointing!
+妨	fáng	2	to hinder	To hinder woman direction questions "Fang? Block?" curiously!
+放	fàng	4	to release	To release direction strike commands "Fang!" sharply freeing!
+激	jī	1	to excite	To excite white direction water sings "Ji!" cheerfully energized!
+於	yú	2	[all-purpose preposition]	At place with direction questions "Yu? Where?" curiously!
+旁	páng	2	Side	Side stand direction questions "Pang? Which side?" curiously!
+兌	duì	4	to convert	To convert person mouth commands "Dway!" sharply exchanging!
+脫	tuō	1	to undress	To undress flesh convert sings "Twoh!" cheerfully removing!
+說	shuō	1	to speak	To speak words convert sings "Shwoh!" cheerfully talking!
+曾	céng	2	formerly	Formerly day bend questions "Tseng? Long ago?" curiously!
+增	zēng	1	to increase	To increase earth formerly sings "Zeng!" cheerfully growing!
+贈	zèng	4	to make a present of	To make a present of shellfish increase commands "Zeng!" sharply gifting!
+東	dōng	1	East	East tree bag sings "Dong!" cheerfully rising!
+棟	dòng	4	Building	Building tree east commands "Dong!" sharply constructed!
+凍	dòng	4	to freeze	To freeze ice east yells "Dong!" sharply frozen!
+也	yě	3	also	Also curved bends down drooping saying "Yeh"!
+她	tā	1	she	She woman also sings "Ta!" cheerfully feminine!
+地	dì	4	Ground	Ground earth also commands "Dee!" sharply below!
+池	chí	2	Pond	A pond water also questions "Chi? Deep?" curiously!
+蟲	chóng	2	Insects	Insects crawling question "Chong? Where going?" curiously!
+蛇	shé	2	Serpent	A serpent insect also questions "Shuh? Slithering?" curiously!
+蛋	dàn	4	Egg	An egg insect finished commands "Dan!" sharply hatching!
+風	fēng	1	the Wind	The wind insect sings "Fung!" cheerfully blowing!
+諷	fěng	3	to mock	To mock words wind bend down drooping saying "Fung"!
+己	jǐ	3	self	Self bent bends down drooping saying "Ji"!
+改	gǎi	3	to alter	To alter self strike bends down drooping saying "Gai"!
+記	jì	4	to remember	To remember words self yells "Ji!" sharply noting!
+已	yǐ	3	already	Already self bent bends down drooping saying "Yi"!
+包	bāo	1	to wrap	To wrap self kneeling sings "Bao!" cheerfully enclosing!
+泡	pào	4	Bubbles	Bubbles water wrap command "Pao!" sharply foaming!
+起	qǐ	3	to begin	To begin walk self bends down drooping saying "Chi"!
+家	jiā	1	House	A house roof pig sings "Jia!" cheerfully dwelling!
+場	chǎng	3	Site	A site earth house bends down drooping saying "Chang"!
+湯	tāng	1	Soup	Soup water site sings "Tang!" cheerfully hot!
+羊	yáng	2	Sheep	A sheep with horns questions "Yang? Baaa?" curiously!
+美	měi	3	beautiful	Beautiful big sheep bends down drooping saying "May"!
+洋	yáng	2	Ocean	Ocean water sheep questions "Yang? How vast?" curiously!
+鮮	xiān	1	fresh	Fresh fish sheep sings "Shian!" cheerfully new!
+達	dá	2	to reach	To reach sheep walk questions "Da? There yet?" curiously!
+樣	yàng	4	Appearance	Appearance tree sheep commands "Yang!" sharply looking!
+差	chà	4	to fall short of	To fall short sheep work yells "Cha!" sharply lacking!
+集	jí	2	to gather	To gather tree birds questions "Ji? All here?" curiously!
+進	jìn	4	to advance	To advance walk birds commands "Jin!" sharply forward!
+準	zhǔn	3	Standard	Standard water birds bend down drooping saying "Zhun"!
+誰	shui2	2	who?	Who speaks birds questions "Shway? Who is it?" curiously!
+售	shòu	4	to vend	To vend bird mouth commands "Show!" sharply selling!
+雖	suī	1	although	Although insect birds sings "Sway!" cheerfully conceding!
+確	què	4	reliable	Reliable stone birds commands "Chueh!" sharply certain!
+午	wǔ	3	Noon	Noon at midday bends down drooping saying "Woo"!
+許	xǔ	3	to permit	To permit words noon bend down drooping saying "Shu"!
+羽	yǔ	3	Feathers	Feathers bend down drooping saying "Yu"!
+習	xí	2	to learn	To learn feathers white questions "Shi? How practice?" curiously!
+翔	xiáng	2	to soar	To soar feathers sheep questions "Shyang? Flying?" curiously!
+困	kùn	4	trapped	Trapped tree in box commands "Koon!" sharply stuck!
+固	gù	4	solid	Solid trap ancient yells "Goo!" sharply firm!
+國	guó	2	Country	A country enclosure solid questions "Gwoh? Which nation?" curiously!
+圓	yuán	2	round	Round enclosure employee questions "Yuan? Is it circular?" curiously!
+因	yīn	1	a Cause	A cause big enclosure sings "Yin!" cheerfully reason!
+園	yuán	2	Park	A park enclosure soil questions "Yuan? Nice garden?" curiously!
+回	huí	2	to return	To return enclosure questions "Hway? Back?" curiously!
+迴	huí	2	to revolve	To revolve walk return questions "Hway? Spinning?" curiously!
+圖	tú	2	Picture	A picture enclosure winter questions "Too? What image?" curiously!
+店	diàn	4	a Store	A store building divination commands "Dian!" sharply shopping!
+庫	kù	4	Warehouse	A warehouse building vehicle yells "Koo!" sharply storing!
+褲	kù	4	Trousers	Trousers clothes warehouse command "Koo!" sharply pants!
+廠	chǎng	3	Factory	A factory cliff wide bends down drooping saying "Chang"!
+床	chuáng	2	Bed	A bed cliff tree questions "Chwang? Sleep here?" curiously!
+麻	má	2	Hemp	Hemp plant under roof questions "Ma? Rough?" curiously!
+心	xīn	1	Heart	A heart beats cheerfully singing "Shin!" high!
+忘	wàng	4	to forget	To forget deceased heart commands "Wang!" sharply forgotten!
+忍	rěn	3	to endure	To endure blade heart bends down drooping saying "Ren"!
+認	rèn	4	to recognize	To recognize words endure yells "Ren!" sharply knowing!
+志	zhì	4	Aspiration	Aspiration samurai heart commands "Zhi!" sharply determined!
+誌	zhì	4	Annals	Annals words aspiration yell "Zhi!" sharply recording!
+思	sī	1	to consider	To consider field heart sings "Si!" cheerfully thinking!
+意	yì	4	Idea	An idea sound heart commands "Yi!" sharply conceiving!
+想	xiǎng	3	to think	To think tree idea bends down drooping saying "Shyang"!
+息	xí	2	Breath	Breath self heart questions "Shi? Breathing?" curiously!
+恐	kǒng	3	to fear	To fear work inch heart bends down drooping saying "Kong"!
+感	gǎn	3	to feel	To feel everybody heart bends down drooping saying "Gan"!
+憾	hàn	4	a Regret	A regret heart feel commands "Han!" sharply regretting!
+憂	yōu	1	worried	Worried head heart sings "Yo!" sadly high!
+怕	pà	4	to dread	To dread heart white commands "Pa!" sharply scared!
+忙	máng	2	busy	Busy heart deceased questions "Mang? Too much?" curiously!
+慣	guàn	4	accustomed to	Accustomed to heart pierce yells "Gwan!" sharply used to!
+懷	huái	2	to cherish	To cherish heart bad questions "Hwai? Care for?" curiously!
+必	bì	4	certainly	Certainly heart pierced commands "Bee!" sharply must!
+手	shǒu	3	Hand	A hand with fingers bends down drooping saying "Show"!
+看	kàn	4	to look at	To look at hand eye commands "Kan!" sharply viewing!
+拿	ná	2	to hold	To hold hand fit questions "Na? Holding?" curiously!
+我	wǒ	3	I	I hand halberd bend down drooping saying "Woh"!
+義	yì	4	Righteousness	Righteousness sheep I commands "Yi!" sharply just!
+議	yì	4	to deliberate	To deliberate words righteous yells "Yi!" sharply discussing!
+蟻	yǐ	3	Ant	An ant insect righteous bends down drooping saying "Yi"!
+抱	bào	4	to embrace	To embrace hand wrap commands "Bao!" sharply hugging!
+抗	kàng	4	to combat	To combat hand tall yells "Kang!" sharply resisting!
+批	pī	1	to criticize	To criticize hand compare sings "Pi!" cheerfully judging!
+招	zhāo	1	to beckon	To beckon hand summon sings "Zhao!" cheerfully calling!
+打	dǎ	3	to strike	To strike hand nail bends down drooping saying "Da"!
+指	zhǐ	3	Finger	Finger hand purpose bends down drooping saying "Zhi"!
+持	chí	2	to support	To support hand temple questions "Chi? Holding?" curiously!
+括	kuò	4	to include	To include hand tongue commands "Kwoh!" sharply enclosing!
+提	tí	2	to bring up	To bring up hand right questions "Ti? Lift?" curiously!
+揮	huī	1	to brandish	To brandish hand army sings "Hway!" cheerfully waving!
+推	tuī	1	to push	To push hand bird sings "Tway!" cheerfully shoving!
+接	jiē	1	to welcome	To welcome hand woman sings "Jieh!" cheerfully receiving!
+掛	guà	4	to hang	Hang hand earth divination commands "Gwa!" sharply suspended!
+按	àn	4	to press down on	To press down on hand case yells "An!" sharply pushing!
+掉	diào	4	to drop	To drop hand luck commands "Diao!" sharply falling!
+拉	lā	1	to pull	To pull hand stand sings "La!" cheerfully dragging!
+啦	la	5	!!	"La!" mouth pull says "la" neutrally exclaiming!
+找	zhǎo	3	to look for	To look for hand dagger bends down drooping saying "Zhao"!
+研	yán	2	to grind away	To grind away stone open questions "Yan? Polishing?" curiously!
+弄	nòng	4	to play with	To play with king jewel commands "Nong!" sharply tinkering!
+鼻	bí	2	Nose	A nose self field questions "Bee? Smelling?" curiously!
+刑	xíng	2	Punishment	Punishment knife open questions "Shing? Penalty?" curiously!
+型	xíng	2	mold	Mold punishment earth questions "Shing? Shape?" curiously!
+才	cái	2	Genius	Genius young sprout questions "Tsai? Talented?" curiously!
+財	cái	2	Riches	Riches shellfish genius question "Tsai? How much?" curiously!
+存	cún	2	to deposit	To deposit genius child questions "Tsun? Saving?" curiously!
+在	zài	4	at	At genius earth commands "Zai!" sharply located!
+乃	nǎi	3	only then	Only then bent bends down drooping saying "Nai"!
+奶	nǎi	3	Milk	Milk woman only then bends down drooping saying "Nai"!
+及	jí	2	to catch up with	To catch up with person reach questions "Ji? Fast enough?" curiously!
+吸	xī	1	to inhale	To inhale mouth reach sings "Shi!" cheerfully breathing!
+史	shǐ	3	History	History hand mouth bends down drooping saying "Shi"!
+更	gèng	4	even more	Even more sun history commands "Geng!" sharply further!
+硬	yìng	4	hard (like material)	Hard stone more yells "Ying!" sharply firm!
+又	yòu	4	again	Again hand commands "Yo!" sharply repeating!
+友	yǒu	3	Friend	A friend again hand bends down drooping saying "Yo"!
+雙	shuāng	1	Pair	A pair two birds sing "Shwang!" cheerfully matching!
+隻	zhī	1	One of a Pair	One of a pair bird sings "Zhi!" cheerfully single!
+護	hù	4	to protect	To protect words pair commands "Hoo!" sharply guarding!
+獲	huò	4	to seize	To seize dog grass bird yells "Hwoh!" sharply catching!
+觀	guān	1	to observe	To observe again see sings "Gwan!" cheerfully watching!
+歡	huān	1	joyous	Joyous again lack sings "Hwan!" cheerfully happy!
+投	tóu	2	to throw	To throw hand reach questions "Toe? Tossing?" curiously!
+沒	méi	2	to not have	To not have water reach questions "May? None?" curiously!
+設	shè	4	to establish	To establish words reach yells "Shuh!" sharply founding!
+股	gǔ	3	Thigh	A thigh flesh ancient bends down drooping saying "Goo"!
+支	zhī	1	Offshoot	An offshoot branch sings "Zhi!" cheerfully dividing!
+技	jì	4	Skill	Skill hand branch commands "Ji!" sharply able!
+枝	zhī	1	Branch	Branch tree offshoot sings "Zhi!" cheerfully extending!
+叔	shú	2	(Paternal Older) Uncle	Uncle small hand questions "Shoo? Uncle?" curiously!
+督	dū	1	Superintend	Superintend uncle eye sings "Doo!" cheerfully supervising!
+寂	jí	2	lonely	Lonely house uncle questions "Ji? Alone?" curiously!
+反	fǎn	3	against	Against cliff hand bends down drooping saying "Fan"!
+板	bǎn	3	Plank	A plank tree against bends down drooping saying "Ban"!
+返	fǎn	3	to go back	To go back walk against bends down drooping saying "Fan"!
+派	pài	4	Faction	A faction water against commands "Pai!" sharply grouping!
+脈	mài	4	Blood Vessels	Blood vessels flesh against yell "Mai!" sharply flowing!
+爪	zhǎo	3	a Claw	A claw bends down drooping saying "Zhao"!
+抓	zhuā	1	to grab	To grab hand claw sings "Zhwa!" cheerfully catching!
+采	cǎi	3	to pluck	To pluck claw tree bends down drooping saying "Tsai"!
+採	cǎi	3	to pick	To pick hand pluck bends down drooping saying "Tsai"!
+菜	cài	4	Vegetable	Vegetable grass pick commands "Tsai!" sharply growing!
+受	shòu	4	to accept	To accept claw hand commands "Show!" sharply receiving!
+授	shòu	4	to confer	To confer hand accept yells "Show!" sharply granting!
+愛	ài	4	Love	Love claw heart foot commands "Eye!" sharply caring!
+雄	xióng	2	grand	A grand bird questions "Shyong? Majestic?" curiously!
+台	tái	2	Platform	A platform mouth sings "Tai?" cheerfully questioning!
+治	zhì	4	to govern	To govern water platform commands "Zhi!" sharply ruling!
+始	shǐ	3	to commence	To commence woman platform bends down drooping saying "Shi"!
+去	qù	4	to go	To go private earth commands "Chu!" sharply leaving!
+法	fǎ	3	Method	Method water go bends down drooping saying "Fa"!
+至	zhì	4	until	Until arrow earth commands "Zhi!" sharply arriving!
+室	shì	4	Room	A room house until yells "Shi!" sharply enclosed!
+到	dào	4	to arrive	To arrive until knife commands "Dao!" sharply reaching!
+互	hù	4	mutual	Mutual together commands "Hoo!" sharply reciprocal!
+充	chōng	1	sufficient	Sufficient child sings "Chong!" cheerfully full!
+育	yù	4	Education	Education roof moon flesh yells "Yu!" sharply teaching!
+流	liú	2	to flow	To flow water education questions "Lyo? Flowing?" curiously!
+梳	shū	1	Comb	A comb tree flow sings "Shoo!" cheerfully grooming!
+山	shān	1	Mountain	Mountains rise cheerfully singing "Shan!" high and proud!
+出	chū	1	to exit	To exit mountain sings "Choo!" cheerfully emerging!
+擊	jī	2	to beat	To beat hand car questions "Ji? Strike?" curiously!
+密	mì	4	secret	Secret mountain needle commands "Mee!" sharply hidden!
+入	rù	4	to enter	To enter down commands "Roo!" sharply going in!
+內	nèi	4	internal	Internal person enter yells "Nay!" sharply inside!
+吶	nà	5	to holler	To holler mouth internal says "na" neutrally shouting!
+分	fēn	1	Part	A part divides cheerfully singing "Fen!" high!
+貧	pín	2	impoverished	Impoverished part shellfish questions "Pin? So poor?" curiously!
+公	gōng	1	public	Public person divide sings "Gong!" cheerfully shared!
+松	sōng	1	Pine Tree	Pine tree public sings "Song!" cheerfully evergreen!
+谷	gǔ	3	Valley	Valley mouth bends down drooping saying "Goo"!
+浴	yù	4	to bathe	To bathe water valley commands "Yu!" sharply washing!
+欲	yù	4	to desire	To desire valley lack yells "Yu!" sharply wanting!
+慾	yù	4	the Lust	The lust heart desire commands "Yu!" sharply craving!
+容	róng	2	to contain	To contain roof valley questions "Rong? Fit inside?" curiously!
+溶	róng	2	to dissolve	To dissolve water contain questions "Rong? Melting?" curiously!
+當	dāng	1	to work as	To work as field small sings "Dang!" cheerfully employed!
+檔	dàng	3	Files	Files tree work as bend down drooping saying "Dang"!
+黨	dǎng	3	Political Party	Political party black work as bend down drooping saying "Dang"!
+常	cháng	2	often	Often towel work as questions "Chang? Frequently?" curiously!
+堂	táng	2	Main Room	Main room earth often questions "Tang? Central hall?" curiously!
+皮	pí	2	Covering	Covering hand claw questions "Pi? Skin?" curiously!
+波	bō	1	Waves	Waves water skin sings "Bwo!" cheerfully rippling!
+婆	pó	2	Old Woman	Old woman skin questions "Pwo? Grandmother?" curiously!
+破	pò	4	to break	To break stone skin commands "Pwoh!" sharply shattered!
+被	bèi	4	a Quilt	A quilt clothes skin yells "Bay!" sharply covering!
+歹	dǎi	3	malicious	Malicious death bends down drooping saying "Dai"!
+列	liè	4	to line up	To line up dagger commands "Lieh!" sharply arrayed!
+烈	liè	4	intense	Intense fire line up yells "Lieh!" sharply fierce!
+死	sǐ	3	Death	Death dagger bends down drooping saying "Si"!
+葬	zàng	4	to inter	To inter grass death commands "Zang!" sharply burying!
+耳	ěr	3	Ear	An ear bends down drooping saying "Er"!
+取	qǔ	3	to take	To take ear hand bends down drooping saying "Chu"!
+趣	qù	4	an Interest	An interest take walk commands "Chu!" sharply engaging!
+最	zuì	4	most	Most ear take sun yells "Zway!" sharply utmost!
+職	zhí	2	Job	A job ear sound questions "Zhi? Working?" curiously!
+聖	shèng	4	holy	Holy ear king commands "Sheng!" sharply divine!
+敢	gǎn	3	brave	Brave ear strike bends down drooping saying "Gan"!
+嚴	yán	2	strict	Strict brave mouth questions "Yan? Severe?" curiously!
+曼	màn	4	drawn out	Drawn out sun eye commands "Man!" sharply extended!
+慢	màn	4	slow	Slow heart drawn out yells "Man!" sharply gradual!
+漫	màn	4	to overflow	To overflow water slow commands "Man!" sharply flooding!
+環	huán	2	a Ring	A ring jade surround questions "Hwan? Circular?" curiously!
+還	huán	2	to give back	To give back walk ring questions "Hwan? Return?" curiously!
+夫	fū	2	Husband	Husband big questions "Foo? My man?" curiously!
+規	guī	1	Regulations	Regulations see husband sings "Gway!" cheerfully rules!
+替	tì	4	to replace	To replace two husband day commands "Ti!" sharply substituting!
+失	shī	1	to lose	To lose husband hand sings "Shi!" sadly high!
+臣	chén	2	Feudal Official	Feudal official bound questions "Chen? Serving?" curiously!
+臨	lín	2	to be about to	To be about to official goods questions "Lin? Soon?" curiously!
+賢	xián	2	worthy	Worthy official shellfish questions "Shian? Virtuous?" curiously!
+堅	jiān	1	firm	Firm earth official sings "Jian!" cheerfully solid!
+力	lì	4	Power	Power commands "Lee!" sharply strong!
+另	lìng	4	another	Another power commands "Ling!" sharply different!
+別	bié	2	don't	Don't another sword questions "Bieh? Please not?" curiously!
+拐	guǎi	3	to turn	To turn hand separate bends down drooping saying "Gwai"!
+男	nán	2	Male	Male field power questions "Nan? Man?" curiously!
+功	gōng	1	Achievement	Achievement work power sings "Gong!" cheerfully accomplished!
+奴	nú	2	Slave	A slave woman power questions "Noo? Serve?" curiously!
+努	nǔ	3	to toil	To toil slave power bends down drooping saying "Noo"!
+加	jiā	1	to add	To add power mouth sings "Jia!" cheerfully increasing!
+賀	hè	4	to congratulate	To congratulate add shellfish commands "Huh!" sharply celebrating!
+架	jià	4	Shelf	A shelf add tree yells "Jia!" sharply supporting!
+協	xié	2	to cooperate	To cooperate ten power questions "Shieh? Together?" curiously!
+行	háng	2	Line Of Business	Line of business step questions "Hang? What trade?" curiously!
+律	lǜ	4	Law	Law walk step commands "Lyu!" sharply ruling!
+復	fù	4	to recover	To recover walk clothes day commands "Foo!" sharply restoring!
+得	dé	2	must	Must step hand questions "Duh? Have to?" curiously!
+待	dài	4	to treat	To treat step temple commands "Dai!" sharply serving!
+往	wǎng	3	toward	Going toward step king bends down drooping saying "Wang"!
+德	dé	2	Morality	Morality step go straight questions "Duh? Virtuous?" curiously!
+聽	tīng	1	to listen	To listen ear ten eye sings "Ting!" cheerfully hearing!
+廳	tīng	1	Hall	Hall cliff listen sings "Ting!" cheerfully grand!
+微	wēi	2	tiny	Tiny step mountain questions "Way? So small?" curiously!
+街	jiē	1	Street	Street step earth sings "Jieh!" cheerfully paved!
+禾	hé	2	Standing Grain	Standing grain questions "Huh? Harvest?" curiously!
+程	chéng	2	Journey	Journey grain king questions "Cheng? How far?" curiously!
+和	hé	2	Harmony	Harmony grain mouth questions "Huh? Peace?" curiously!
+移	yí	2	to shift	To shift grain many questions "Yi? Moving?" curiously!
+秋	qiū	1	Autumn	Autumn grain fire sings "Chyo!" cheerfully harvest!
+愁	chóu	2	gloomy	Gloomy heart autumn questions "Cho? Sad?" curiously!
+利	lì	4	a Profit	A profit grain knife commands "Lee!" sharply earning!
+香	xiāng	1	Perfume	Perfume grain sun sings "Shyang!" cheerfully fragrant!
+季	jì	4	Seasons	Seasons grain child commands "Ji!" sharply quarterly!
+委	wěi	3	Committee	Committee grain woman bends down drooping saying "Way"!
+秀	xiù	4	elegant	Elegant grain private commands "Shyo!" sharply refined!
+透	tòu	4	to penetrate	To penetrate walk elegant yells "Toe!" sharply piercing!
+誘	yòu	4	to entice	To entice words penetrate commands "Yo!" sharply tempting!
+歷	lì	4	Experience	Experience cliff rice commands "Lee!" sharply undergone!
+米	mǐ	3	Rice	Rice bends down drooping saying "Mee"!
+迷	mí	2	lost	Lost walk rice questions "Mee? Where am I?" curiously!
+謎	mí	2	Riddle	Riddle words lost questions "Mee? What answer?" curiously!
+類	lèi	4	the Kind	The kind rice head dog commands "Lay!" sharply categorized!
+竹	zhú	2	Bamboo	Bamboo questions "Zhoo? Growing?" curiously!
+笑	xiào	4	to laugh	To laugh bamboo young commands "Shyao!" sharply giggling!
+箱	xiāng	1	Box	A box bamboo fragrance sings "Shyang!" cheerfully stored!
+筆	bǐ	3	Pen	A pen bamboo hand bends down drooping saying "Bee"!
+等	děng	3	etc.	Etc. bamboo temple bends down drooping saying "Dung"!
+算	suàn	4	to calculate	To calculate bamboo eyes commands "Swan!" sharply computing!
+答	dá	2	to answer	To answer bamboo fit questions "Da? Reply?" curiously!
+策	cè	4	Strategy	Strategy bamboo tree commands "Tsuh!" sharply planning!
+人	rén	2	Person	A person questions "Ren? Who?" curiously!
+囚	qiú	2	Prisoner	A prisoner person trapped questions "Chyo? Release?" curiously!
+份	fèn	4	Portion	Portion person part commands "Fen!" sharply shared!
+佔	zhàn	4	to occupy	To occupy person divine yells "Zhan!" sharply possessing!
+傢	jiā	1	Furniture	Furniture person house sings "Jia!" cheerfully furnished!
+你	nǐ	3	you	You person small bends down drooping saying "Nee"!
+您	nín	2	you (respectful)	You respectful person heart questions "Nin? Sir?" curiously!
+什	shén	2	what?	What person ten questions "Shen? Which?" curiously!
+條	tiáo	2	a Strip	A strip person long questions "Tiao? Thin piece?" curiously!
+值	zhí	2	Value	Value person straight questions "Zhi? Worth?" curiously!
+做	zuò	4	to make	To make person ancient commands "Zwoh!" sharply creating!
+但	dàn	4	however	However person once yells "Dan!" sharply yet!
+住	zhù	4	to dwell	To dwell person master commands "Zhoo!" sharply residing!
+位	wèi	4	Position	Position person stand yells "Way!" sharply ranked!
+件	jiàn	4	Piece	Piece person cow commands "Jian!" sharply item!
+仍	réng	2	still	Still person dagger questions "Reng? Yet?" curiously!
+他	tā	1	he	He person also sings "Ta!" cheerfully him!
+休	xiū	1	to rest	To rest person tree sings "Shyo!" cheerfully relaxing!
+信	xìn	4	Faith	Faith person words commands "Shin!" sharply believing!
+依	yī	1	to depend on	To depend on person clothes sings "Yi!" cheerfully relying!
+例	lì	4	Example	Example person stand yells "Lee!" sharply instance!
+個	gè	4	individual	Individual person solid commands "Guh!" sharply single!
+健	jiàn	4	healthy	Healthy person build yells "Jian!" sharply strong!
+停	tíng	2	to halt	To halt person pavilion questions "Ting? Stop?" curiously!
+倒	dǎo	3	upside down	Upside down person arrive bends down drooping saying "Dao"!
+仁	rén	2	Benevolence	Benevolence person two questions "Ren? Kind?" curiously!
+優	yōu	1	excellent	Excellent person worried sings "Yo!" cheerfully superior!
+傷	shāng	1	a Wound	A wound person trade sings "Shang!" painfully high!
+保	bǎo	3	to safeguard	To safeguard person protect bends down drooping saying "Bao"!
+堡	bǎo	3	Fort	A fort earth safeguard bends down drooping saying "Bao"!
+付	fù	4	to pay	To pay person hand commands "Foo!" sharply giving!
+府	fǔ	3	Government Office	Government office building pay bends down drooping saying "Foo"!
+俯	fǔ	3	to bow one's head	To bow person office bends down drooping saying "Foo"!
+代	dài	4	to substitute for	To substitute person weapon commands "Dai!" sharply replacing!
+袋	dài	4	Bag	A bag clothes substitute yells "Dai!" sharply holding!
+化	huà	4	to transform	To transform person change commands "Hwa!" sharply morphing!
+花	huā	1	Flower	Flower grass transform sings "Hwa!" cheerfully blooming!
+貨	huò	4	Commodities	Commodities transform shellfish commands "Hwoh!" sharply trading!
+何	hé	2	what/which/who/where/why?	What person mouth questions "Huh? Who where?" curiously!
+便	biàn	4	convenient	Convenient person change commands "Bian!" sharply handy!
+丈	zhàng	4	100 Chinese Inches	100 Chinese inches commands "Zhang!" sharply measuring!
+使	shǐ	3	to use	To use person officer bends down drooping saying "Shi"!
+久	jiǔ	3	long time	Long time person bend down drooping saying "Jyo"!
+畝	mǔ	3	Chinese Acre	Chinese acre field long time bends down drooping saying "Moo"!
+丙	bǐng	3	third	Third one inside bends down drooping saying "Bing"!
+柄	bǐng	3	a Handle	A handle tree third bends down drooping saying "Bing"!
+肉	ròu	4	Meat	Meat person inside commands "Ro!" sharply meaty!
+腐	fǔ	3	rotten	Rotten meat office bends down drooping saying "Foo"!
+眾	zhòng	4	Multitude	Multitude three people yell "Zhong!" sharply many!
+坐	zuò	4	to sit	To sit two people earth commands "Zwoh!" sharply seated!
+座	zuò	4	Seat	A seat building sit yells "Zwoh!" sharply positioned!
+檢	jiǎn	3	to examine	To examine tree check bends down drooping saying "Jian"!
+臉	liǎn	3	a Face	A face flesh check bends down drooping saying "Lian"!
+來	lái	2	to come	To come wheat questions "Lai? Arriving?" curiously!
+麥	mài	4	Wheat	Wheat walking grain commands "Mai!" sharply growing!
+喝	hē	1	to drink	To drink mouth wheat sings "Huh!" cheerfully gulping!
+渴	kě	3	thirsty	Thirsty water drink bends down drooping saying "Kuh"!
+任	rèn	4	to appoint	To appoint person burden commands "Ren!" sharply assigning!
+廷	tíng	2	Royal Court	Royal court questions "Ting? Palace?" curiously!
+庭	tíng	2	Court Of Law	Court of law building royal court questions "Ting? Trial?" curiously!
+以	yǐ	3	by means of	By means of resembles bends down drooping saying "Yi"!
+似	sì	4	similar	Similar person by means commands "Sih!" sharply alike!
+併	bìng	4	to combine	To combine person piece commands "Bing!" sharply joining!
+拼	pīn	1	to piece together	To piece together hand combine sings "Pin!" cheerfully assembling!
+呂	lǚ	3	Spine	Spine two mouths bend down drooping saying "Lyu"!
+侶	lǚ	3	an Associate	An associate person spine bends down drooping saying "Lyu"!
+榮	róng	2	Glory	Glory grass fire questions "Rong? Honor?" curiously!
+勞	láo	2	Labor	Labor fire power questions "Lao? Working?" curiously!
+營	yíng	2	a Camp	A camp fire building questions "Ying? Army?" curiously!
+善	shàn	4	virtuous	Virtuous sheep mouth commands "Shan!" sharply good!
+年	nián	2	Year	Year one thousand questions "Nian? How long?" curiously!
+夜	yè	4	Night	Night person liquid commands "Yeh!" sharply dark!
+液	yè	4	Liquid	Liquid water night yells "Yeh!" sharply flowing!
+喚	huàn	4	to call out	To call out mouth exchange commands "Hwan!" sharply shouting!
+換	huàn	4	to exchange	To exchange hand call out yells "Hwan!" sharply trading!
+旅	lǚ	3	to travel	To travel flag direction bends down drooping saying "Lyu"!
+施	shī	1	to execute	To execute to travel sings "Shi!" cheerfully doing!
+游	yóu	2	to go swimming	To go swimming water move questions "Yo? Swimming?" curiously!
+遊	yóu	2	to tour	To tour walk swim questions "Yo? Wandering?" curiously!
+勿	wù	4	not	Not commands "Woo!" sharply negating!
+忽	hū	1	suddenly	Suddenly heart not sings "Hoo!" cheerfully abrupt!
+物	wù	4	Thing	Thing cow not yells "Woo!" sharply object!
+易	yì	4	easy	Easy sun moon commands "Yi!" sharply simple!
+賜	cì	4	to grant	To grant easy shellfish yells "Tsih!" sharply bestowing!
+屍	shī	1	Corpse	A corpse body sings "Shi!" sadly high!
+尼	ní	2	Nun	A nun corpse questions "Nee? Religious?" curiously!
+呢	ne	5	Woolen Cloth	Woolen cloth mouth nun says "nuh" neutrally textured!
+泥	ní	2	Mud	Mud water nun questions "Nee? Wet earth?" curiously!
+屋	wū	1	Habitation	Habitation corpse至 sings "Woo!" cheerfully sheltered!
+握	wò	4	to grip	To grip hand house commands "Woh!" sharply grasping!
+居	jū	1	to reside	To reside corpse ancient sings "Jyu!" cheerfully dwelling!
+鋸	jù	4	a Saw	A saw gold reside yells "Jyu!" sharply cutting!
+層	céng	2	Story	Story corpse question "Tseng? Which floor?" curiously!
+局	jú	2	Bureau	Bureau corpse sentence questions "Jyu? Office?" curiously!
+戶	hù	4	Door	A door commands "Hoo!" sharply entry!
+房	fáng	2	Domicile	Domicile door direction questions "Fang? House?" curiously!
+雇	gù	4	to hire	To hire bird door commands "Goo!" sharply employing!
+顧	gù	4	to look back	To look back hire page yells "Goo!" sharply reviewing!
+示	shì	4	to show	To show altar commands "Shi!" sharply displaying!
+社	shè	4	Society	Society show earth yells "Shuh!" sharply group!
+視	shì	4	to inspect	To inspect show see commands "Shi!" sharply examining!
+福	fú	2	Happiness	Happiness show one mouth questions "Foo? Blessed?" curiously!
+禁	jìn	4	to prohibit	To prohibit show forest commands "Jin!" sharply forbidding!
+襟	jīn	1	Front of a Garment	Front of garment clothes prohibit sings "Jeen!" cheerfully lapel!
+宗	zōng	1	Religion	Religion roof show sings "Zong!" cheerfully sect!
+崇	chóng	2	to worship	To worship mountain religion questions "Chong? Revere?" curiously!
+祭	jì	4	to offer sacrifice	To offer sacrifice show flesh commands "Ji!" sharply ritual!
+察	chá	2	to scrutinize	To scrutinize sacrifice roof questions "Cha? Examine?" curiously!
+擦	cā	1	to scrub	To scrub hand scrutinize sings "Tsa!" cheerfully wiping!
+由	yóu	2	Wherefore	Wherefore field questions "Yo? Why?" curiously!
+抽	chōu	1	to draw out	To draw out hand wherefore sings "Cho!" cheerfully extracting!
+油	yóu	2	Oil	Oil water wherefore questions "Yo? Lubricating?" curiously!
+甲	jiǎ	3	first	First shell bends down drooping saying "Jia"!
+押	yā	1	to pawn	To pawn hand first sings "Ya!" cheerfully depositing!
+申	shēn	1	to express	To express day middle sings "Shen!" cheerfully stating!
+伸	shēn	1	to extend	To extend person express sings "Shen!" cheerfully stretching!
+神	shén	2	Gods	Gods show express questions "Shen? Divine?" curiously!
+果	guǒ	3	Fruit	Fruit field tree bends down drooping saying "Gwoh"!
+課	kè	4	Lesson	Lesson words fruit commands "Kuh!" sharply teaching!
+顆	kē	1	Granule	Granule fruit page sings "Kuh!" cheerfully tiny!
+斤	jīn	1	a Catty	A catty ax sings "Jeen!" cheerfully weighing!
+所	suǒ	3	a Place	A place door ax bends down drooping saying "Swoh"!
+近	jìn	4	near	Near walk ax commands "Jin!" sharply close!
+斬	zhǎn	3	hew	Hew car ax bends down drooping saying "Zhan"!
+暫	zhàn	4	temporary	Temporary sun hew commands "Zhan!" sharply brief!
+漸	jiàn	4	gradually	Gradually water temporary yells "Jian!" sharply slowly!
+質	zhì	2	Quality	Quality ax shellfish questions "Zhi? Grade?" curiously!
+斥	chì	4	to reprimand	To reprimand dot ax commands "Chi!" sharply scolding!
+訴	sù	4	to accuse	To accuse words reprimand yells "Soo!" sharply charging!
+乍	zhà	4	for the first time	For the first time commands "Zha!" sharply initially!
+怎	zěn	3	how?	How for first time heart bends down drooping saying "Zen"!
+昨	zuó	2	Yesterday	Yesterday sun first time questions "Zwoh? Past?" curiously!
+作	zuò	4	to do	To do person first time commands "Zwoh!" sharply making!
+雪	xuě	3	the Snow	The snow rain broom bends down drooping saying "Shueh"!
+急	jí	2	anxious	Anxious reach heart questions "Ji? Worried?" curiously!
+尋	xún	2	to seek	To seek roof claw inch questions "Shun? Looking for?" curiously!
+婦	fù	4	Married Woman	Married woman woman broom commands "Foo!" sharply wife!
+掃	sǎo	3	to sweep	To sweep hand broom bends down drooping saying "Sao"!
+錄	lù	4	to record	To record gold broom commands "Loo!" sharply documenting!
+碌	lù	4	commonplace	Commonplace stone record yells "Loo!" sharply ordinary!
+爭	zhēng	1	to contend	To contend claw hand sings "Zheng!" cheerfully fighting!
+淨	jìng	4	clean	Clean water contend commands "Jing!" sharply purified!
+事	shì	4	Matter	Matter hand one commands "Shi!" sharply affair!
+唐	táng	2	Tang	Tang wide mouth questions "Tang? Dynasty?" curiously!
+糖	táng	2	Sugar	Sugar rice Tang questions "Tang? Sweet?" curiously!
+康	kāng	1	hale	Hale roof grain sings "Kang!" cheerfully healthy!
+尹	yǐn	3	Overseer	Overseer hand bends down drooping saying "Yin"!
+伊	yī	1	Queen Elizabeth	Queen Elizabeth person overseer sings "Yi!" cheerfully regal!
+君	jūn	1	Monarch	Monarch mouth overseer sings "June!" cheerfully ruling!
+裙	qún	2	Skirt	Skirt clothes monarch questions "Chun? Dress?" curiously!
+群	qún	2	Crowd	Crowd sheep monarch questions "Chun? Many?" curiously!
+而	ér	2	and	And beard questions "Er? Also?" curiously!
+需	xū	1	to need	To need rain and sings "Shyu!" cheerfully requiring!
+儒	rú	2	Confucian	Confucian person need questions "Roo? Scholar?" curiously!
+瑞	ruì	4	auspicious	Auspicious jade mountain commands "Rway!" sharply lucky!
+端	duān	1	upright	Upright stand mountain sings "Dwan!" cheerfully proper!
+曲	qū	1	bent	Bent sings "Chu!" cheerfully curved!
+斗	dǒu	3	Big Dipper	Big dipper ten bends down drooping saying "Doe"!
+料	liào	4	Material	Material rice dipper commands "Liao!" sharply stuff!
+科	kē	1	Academic Discipline	Academic discipline grain dipper sings "Kuh!" cheerfully field!
+用	yòng	4	to utilize	To utilize door commands "Yong!" sharply using!
+深	Shen	1	deep	deep sings "Shen!" cheerfully!
+探	Tan	4	a Spy	a Spy commands "Tan!" yells!
+丘	Qiu	1	Hill	Hill sings "Qiu!" cheerfully!
+兵	Bing	1	Troops	Troops sings "Bing!" cheerfully!
+絲	Si	1	Silk	Silk sings "Si!" cheerfully!
+線	Xian	4	Line	Line commands "Xian!" yells!
+維	Wei	2	to maintain	to maintain questions "Wei? Why?" curiously!
+羅	Luo	2	Silk Gauze	Silk Gauze questions "Luo? Why?" curiously!
+續	Xu	4	to continue	to continue commands "Xu!" yells!
+統	Tong	3	continuum	continuum bends down drooping saying "Tong"!
+給	Gei	3	to give	to give bends down drooping saying "Gei"!
+結	Jie	2	to tie	to tie questions "Jie? Why?" curiously!
+終	Zhong	1	end	end sings "Zhong!" cheerfully!
+級	Ji	2	a Rank	a Rank questions "Ji? Why?" curiously!
+紀	Ji	4	Epoch	Epoch commands "Ji!" yells!
+紅	Hong	2	red	red questions "Hong? Why?" curiously!
+約	Yue	1	to make an appointment	to make an appointment sings "Yue!" cheerfully!
+細	Xi	4	fine	fine commands "Xi!" yells!
+緊	Jin	3	tight	tight bends down drooping saying "Jin"!
+織	Zhi	1	to weave	to weave sings "Zhi!" cheerfully!
+網	Wang	3	Net	Net bends down drooping saying "Wang"!
+綠	Lu	4	green	green commands "Lu!" yells!
+彎	Wan	1	curved	curved sings "Wan!" cheerfully!
+灣	Wan	1	Bay	Bay sings "Wan!" cheerfully!
+戀	Lian	4	to be enamored of	to be enamored of commands "Lian!" yells!
+變	Bian	4	to change	to change commands "Bian!" yells!
+經	Jing	1	Scripture	Scripture sings "Jing!" cheerfully!
+輕	Qing	1	lightweight	lightweight sings "Qing!" cheerfully!
+後	Hou	4	behind	behind commands "Hou!" yells!
+幾	Ji	3	how many?	how many? bends down drooping saying "Ji"!
+機	Ji	1	Machine	Machine sings "Ji!" cheerfully!
+斷	Duan	4	to sever	to sever commands "Duan!" yells!
+繼	Ji	4	to carry on	to carry on commands "Ji!" yells!
+顯	Xian	3	obvious	obvious bends down drooping saying "Xian"!
+樂	Yue	4	Music	Music commands "Yue!" yells!
+藥	Yao	4	Medicine	Medicine commands "Yao!" yells!
+雞	Ji	1	Chicken	Chicken sings "Ji!" cheerfully!
+麼	Me	5	[interrogative suffix]; [pause marker]	[interrogative suffix]; [pause marker] says "Me" neutrally!
+系	Xi	4	Lineage	Lineage commands "Xi!" yells!
+係	Xi	4	related to	related to commands "Xi!" yells!
+孫	Sun	1	Grandchild	Grandchild sings "Sun!" cheerfully!
+卻	Que	4	to withdraw (retreat, not banks)	to withdraw (retreat, not banks) commands "Que!" yells!
+腳	Jiao	3	Foot	Foot bends down drooping saying "Jiao"!
+服	Fu	2	Apparel	Apparel questions "Fu? Why?" curiously!
+命	Ming	4	Fate	Fate commands "Ming!" yells!
+留	Liu	2	to stay	to stay questions "Liu? Why?" curiously!
+溜	Liu	1	to slide	to slide sings "Liu!" cheerfully!
+聊	Liao	2	to chat	to chat questions "Liao? Why?" curiously!
+柳	Liu	3	Willow	Willow bends down drooping saying "Liu"!
+令	Ling	4	Orders	Orders commands "Ling!" yells!
+冷	Leng	3	cold	cold bends down drooping saying "Leng"!
+零	Ling	2	zero	zero questions "Ling? Why?" curiously!
+領	Ling	3	Collar	Collar bends down drooping saying "Ling"!
+通	Tong	1	to communicate	to communicate sings "Tong!" cheerfully!
+勇	Yong	3	courageous	courageous bends down drooping saying "Yong"!
+犯	Fan	4	Criminal	Criminal commands "Fan!" yells!
+危	Wei [普], wei [國]	1	Danger	Danger sings "Wei [普], wei [國]!" cheerfully!
+脆	Cui	4	fragile	fragile commands "Cui!" yells!
+印	Yin	4	Print	Print commands "Yin!" yells!
+興	Xing	4	Excitement	Excitement commands "Xing!" yells!
+酒	Jiu	3	Liquor	Liquor bends down drooping saying "Jiu"!
+配	Pei	4	to distribute	to distribute commands "Pei!" yells!
+酋	Qiu	2	Chieftain	Chieftain questions "Qiu? Why?" curiously!
+尊	Zun	1	to venerate	to venerate sings "Zun!" cheerfully!
+遵	Zun	1	to abide by	to abide by sings "Zun!" cheerfully!
+豆	Dou	4	Beans	Beans commands "Dou!" yells!
+頭	Tou	2	Head	Head questions "Tou? Why?" curiously!
+短	Duan	3	short	short bends down drooping saying "Duan"!
+禮	Li	3	Ceremony	Ceremony bends down drooping saying "Li"!
+體	Ti	3	Body	Body bends down drooping saying "Ti"!
+鼓	Gu	3	a Drum	a Drum bends down drooping saying "Gu"!
+喜	Xi	3	joyful	joyful bends down drooping saying "Xi"!
+廚	Chu	2	Kitchen	Kitchen questions "Chu? Why?" curiously!
+樹	Shu	4	Timber	Timber commands "Shu!" yells!
+血	Xue [普], xie [國]	3	Blood	Blood bends down drooping saying "Xue [普], xie [國]"!
+盡	Jin	4	exhausted	exhausted commands "Jin!" yells!
+儘	Jin	3	to the utmost	to the utmost bends down drooping saying "Jin"!
+蓋	Gai	4	Lid	Lid commands "Gai!" yells!
+溫	Wen	1	temperature	temperature sings "Wen!" cheerfully!
+監	Jian	1	to supervise	to supervise sings "Jian!" cheerfully!
+籃	Lan	2	Basket	Basket questions "Lan? Why?" curiously!
+藍	Lan	2	blue	blue questions "Lan? Why?" curiously!
+銀	Yin	2	Silver	Silver questions "Yin? Why?" curiously!
+跟	Gen	1	Heel	Heel sings "Gen!" cheerfully!
+很	Hen	3	very	very bends down drooping saying "Hen"!
+根	Gen	1	Root	Root sings "Gen!" cheerfully!
+即	Ji	2	immediately	immediately questions "Ji? Why?" curiously!
+節	Jie	2	Holiday	Holiday questions "Jie? Why?" curiously!
+退	Tui	4	to retreat	to retreat commands "Tui!" yells!
+腿	Tui	3	Leg	Leg bends down drooping saying "Tui"!
+限	Xian	4	Limit	Limit commands "Xian!" yells!
+眼	Yan	3	Eyelet	Eyelet bends down drooping saying "Yan"!
+良	Liang	2	high-quality	high-quality questions "Liang? Why?" curiously!
+浪	Lang	4	Breakers	Breakers commands "Lang!" yells!
+娘	Niang	2	Mom	Mom questions "Niang? Why?" curiously!
+食	Shi	2	Food	Food questions "Shi? Why?" curiously!
+飯	Fan	4	Meal	Meal commands "Fan!" yells!
+餐	Can	1	to dine	to dine sings "Can!" cheerfully!
+館	Guan	3	Bldg.	Bldg. bends down drooping saying "Guan"!
+養	Yang	3	to raise	to raise bends down drooping saying "Yang"!
+既	Ji	4	since	since commands "Ji!" yells!
+概	Gai	4	approximate	approximate commands "Gai!" yells!
+平	Ping	2	even	even questions "Ping? Why?" curiously!
+評	Ping	2	to evaluate	to evaluate questions "Ping? Why?" curiously!
+坪	Ping	2	Level Ground	Level Ground questions "Ping? Why?" curiously!
+乎	Hu	1	ooh!	ooh! sings "Hu!" cheerfully!
+呼	Hu	1	to shout	to shout sings "Hu!" cheerfully!
+希	Xi	1	to hope	to hope sings "Xi!" cheerfully!
+稀	Xi	1	scarce	scarce sings "Xi!" cheerfully!
+學	Xue	2	to study	to study questions "Xue? Why?" curiously!
+覺	Jue	2	Senses	Senses questions "Jue? Why?" curiously!
+攪	Jiao	3	to stir	to stir bends down drooping saying "Jiao"!
+凶	Xiong	1	sinister	sinister sings "Xiong!" cheerfully!
+兇	Xiong	1	cruel	cruel sings "Xiong!" cheerfully!
+胸	Xiong	1	Bosom	Bosom sings "Xiong!" cheerfully!
+離	Li	2	to leave	to leave questions "Li? Why?" curiously!
+禽	Qin	2	Fowl	Fowl questions "Qin? Why?" curiously!
+辛	Xin	1	peppery	peppery sings "Xin!" cheerfully!
+辦	Ban	4	to manage	to manage commands "Ban!" yells!
+辯	Bian	4	to dispute	to dispute commands "Bian!" yells!
+壁	Bi	4	Partition	Partition commands "Bi!" yells!
+避	Bi	4	to evade	to evade commands "Bi!" yells!
+新	Xin	1	new	new sings "Xin!" cheerfully!
+薪	Xin	1	Fuel	Fuel sings "Xin!" cheerfully!
+親	Qin	1	Relatives	Relatives sings "Qin!" cheerfully!
+襯	Chen	4	Inner Garments	Inner Garments commands "Chen!" yells!
+幸	Xing	4	Good Fortune	Good Fortune commands "Xing!" yells!
+執	Zhi	2	to clench	to clench questions "Zhi? Why?" curiously!
+報	Bao	4	Newspaper	Newspaper commands "Bao!" yells!
+叫	Jiao	4	to call	to call commands "Jiao!" yells!
+收	Shou	1	to receive	to receive sings "Shou!" cheerfully!
+陸	Lu	4	Land	Land commands "Lu!" yells!
+勢	Shi	4	Force	Force commands "Shi!" yells!
+熱	Re	4	Heat	Heat commands "Re!" yells!
+藝	Yi	4	Technique	Technique commands "Yi!" yells!
+亥	Hai	4	Sign Of The Hog	Sign Of The Hog commands "Hai!" yells!
+核	He	2	Nucleus	Nucleus questions "He? Why?" curiously!
+孩	Hai	2	Tot	Tot questions "Hai? Why?" curiously!
+刻	Ke	4	to carve	to carve commands "Ke!" yells!
+該	Gai	1	should	should sings "Gai!" cheerfully!
+述	Shu	4	to narrate	to narrate commands "Shu!" yells!
+術	Shu	4	Art	Art commands "Shu!" yells!
+殺	Sha	1	to kill	to kill sings "Sha!" cheerfully!
+襄	Xiang	1	to aid	to aid sings "Xiang!" cheerfully!
+讓	Rang	4	to yield	to yield commands "Rang!" yells!
+壤	Rang	3	Territory	Territory bends down drooping saying "Rang"!
+寒	Han	2	frigid	frigid questions "Han? Why?" curiously!
+賽	Sai	4	Competition	Competition commands "Sai!" yells!
+毒	Du	2	a Poison	a Poison questions "Du? Why?" curiously!
+素	Su	4	Vegetarian Diet	Vegetarian Diet commands "Su!" yells!
+青	Qing	1	blue or green	blue or green sings "Qing!" cheerfully!
+精	Jing	1	refined	refined sings "Jing!" cheerfully!
+請	Qing	3	to invite	to invite bends down drooping saying "Qing"!
+情	Qing	2	Feelings	Feelings questions "Qing? Why?" curiously!
+睛	Jing	1	Eyeball	Eyeball sings "Jing!" cheerfully!
+清	Qing	1	pure	pure sings "Qing!" cheerfully!
+靜	Jing	4	quiet	quiet commands "Jing!" yells!
+責	Ze	2	Responsibility	Responsibility questions "Ze? Why?" curiously!
+績	Ji [普], ji [國]	1	Accomplishments	Accomplishments sings "Ji [普], ji [國]!" cheerfully!
+積	Ji	1	to accumulate	to accumulate sings "Ji!" cheerfully!
+表	Biao	3	Surface	Surface bends down drooping saying "Biao"!
+錶	Biao	3	a Watch	a Watch bends down drooping saying "Biao"!
+生	Sheng	1	Life	Life sings "Sheng!" cheerfully!
+星	Xing	1	Star	Star sings "Xing!" cheerfully!
+姓	Xing	4	Surname	Surname commands "Xing!" yells!
+性	Xing	4	Sex	Sex commands "Xing!" yells!
+害	Hai	4	Harm	Harm commands "Hai!" yells!
+割	Ge	1	to cut off	to cut off sings "Ge!" cheerfully!
+慧	Hui	4	intelligent	intelligent commands "Hui!" yells!
+豐	Feng	1	plentiful	plentiful sings "Feng!" cheerfully!
+春	Chun	1	Springtime	Springtime sings "Chun!" cheerfully!
+泰	Tai	4	tranquil	tranquil commands "Tai!" yells!
+奉	Feng	4	to proffer	to proffer commands "Feng!" yells!
+棒	Bang	4	Cudgel	Cudgel commands "Bang!" yells!
+勤	Qin	2	diligent	diligent questions "Qin? Why?" curiously!
+謹	Jin	3	careful	careful bends down drooping saying "Jin"!
+僅	Jin	3	merely	merely bends down drooping saying "Jin"!
+漢	Han	4	Han	Han commands "Han!" yells!
+難	Nan	2	difficult	difficult questions "Nan? Why?" curiously!
+攤	Tan	1	Vendor’s Stand	Vendor’s Stand sings "Tan!" cheerfully!
+華	Hua	2	Splendor	Splendor questions "Hua? Why?" curiously!
+嘩	Hua	2	Clamor	Clamor questions "Hua? Why?" curiously!
+垂	Chui	2	to droop	to droop questions "Chui? Why?" curiously!
+錘	Chui	2	Hammer	Hammer questions "Chui? Why?" curiously!
+睡	Shui	4	to sleep	to sleep commands "Shui!" yells!
+今	Jin	1	now	now sings "Jin!" cheerfully!
+含	Han	2	to harbor	to harbor questions "Han? Why?" curiously!
+念	Nian	4	to miss	to miss commands "Nian!" yells!
+陰	Yin	1	Yin	Yin sings "Yin!" cheerfully!
+蔭	Yin	4	shady	shady commands "Yin!" yells!
+西	Xi	1	West	West sings "Xi!" cheerfully!
+要	Yao	4	want	want commands "Yao!" yells!
+腰	Yao	1	Waist	Waist sings "Yao!" cheerfully!
+票	Piao	4	Ticket	Ticket commands "Piao!" yells!
+漂	Piao	4	to drift	to drift commands "Piao!" yells!
+標	Biao	1	a Mark	a Mark sings "Biao!" cheerfully!
+賈	Gu	3	Merchant	Merchant bends down drooping saying "Gu"!
+價	Jia	4	Price	Price commands "Jia!" yells!
+煙	Yan	1	the Smoke	the Smoke sings "Yan!" cheerfully!
+南	Nan	2	South	South questions "Nan? Why?" curiously!
+門	Men	2	Gate	Gate questions "Men? Why?" curiously!
+們	Men	5	[plural]	[plural] says "Men" neutrally!
+閒	Xian	2	Leisure	Leisure questions "Xian? Why?" curiously!
+問	Wen	4	to ask	to ask commands "Wen!" yells!
+間	Jian	1	Interval	Interval sings "Jian!" cheerfully!
+簡	Jian	3	simple	simple bends down drooping saying "Jian"!
+開	Kai	1	to open	to open sings "Kai!" cheerfully!
+聞	Wen	2	to hear	to hear questions "Wen? Why?" curiously!
+倉	Cang	1	Storehouse	Storehouse sings "Cang!" cheerfully!
+槍	Qiang	1	Gun	Gun sings "Qiang!" cheerfully!
+創	Chuang	4	to initiate	to initiate commands "Chuang!" yells!
+非	Fei	1	non—	non— sings "Fei!" cheerfully!
+排	Pai	2	Row	Row questions "Pai? Why?" curiously!
+罪	Zui	4	Guilt	Guilt commands "Zui!" yells!
+靠	Kao	4	to lean on	to lean on commands "Kao!" yells!
+侯	Hou	2	Marquis	Marquis questions "Hou? Why?" curiously!
+候	Hou	4	to wait	to wait commands "Hou!" yells!
+決	Jue	2	to decide	to decide questions "Jue? Why?" curiously!
+快	Kuai	4	fast	fast commands "Kuai!" yells!
+筷	Kuai	4	Chopsticks	Chopsticks commands "Kuai!" yells!
+韋	Wei	2	Tanned Hide	Tanned Hide questions "Wei? Why?" curiously!
+圍	Wei	2	to surround	to surround questions "Wei? Why?" curiously!
+偉	Wei	3	great	great bends down drooping saying "Wei"!
+衛	Wei	4	to defend	to defend commands "Wei!" yells!
+干	Gan	1	to offend	to offend sings "Gan!" cheerfully!
+岸	An	4	Shore	Shore commands "An!" yells!
+幹	Gan	4	Trunk (like a tree)	Trunk (like a tree) commands "Gan!" yells!
+旱	Han	4	Drought	Drought commands "Han!" yells!
+趕	Gan	3	to hurry	to hurry bends down drooping saying "Gan"!
+于	Yu	2	Yu	Yu questions "Yu? Why?" curiously!
+宇	Yu	3	Eaves	Eaves bends down drooping saying "Yu"!
+余	Yu	2	moi	moi questions "Yu? Why?" curiously!
+餘	Yu	2	Excess	Excess questions "Yu? Why?" curiously!
+除	Chu	2	to eliminate	to eliminate questions "Chu? Why?" curiously!
+途	Tu	2	Route	Route questions "Tu? Why?" curiously!
+束	Shu	4	to bundle up	to bundle up commands "Shu!" yells!
+速	Su	4	quick	quick commands "Su!" yells!
+辣	La	4	spicy hot	spicy hot commands "La!" yells!
+整	Zheng	3	entire	entire bends down drooping saying "Zheng"!
+練	Lian	4	to practice	to practice commands "Lian!" yells!
+揀	Jian	3	to opt for	to opt for bends down drooping saying "Jian"!
+重	Zhong	4	heavy	heavy commands "Zhong!" yells!
+懂	Dong	3	to understand	to understand bends down drooping saying "Dong"!
+動	Dong	4	to move	to move commands "Dong!" yells!
+種	Zhong	3	Species	Species bends down drooping saying "Zhong"!
+衝	Chong	1	to collide	to collide sings "Chong!" cheerfully!
+病	Bing	4	Illness	Illness commands "Bing!" yells!
+痛	Tong	4	to ache	to ache commands "Tong!" yells!
+瘋	Feng	1	insane	insane sings "Feng!" cheerfully!
+匹	Pi	1	to match	to match sings "Pi!" cheerfully!
+區	Qu	1	Region	Region sings "Qu!" cheerfully!
+樞	Shu	1	Hub	Hub sings "Shu!" cheerfully!
+歐	Ou	1	Europe	Europe sings "Ou!" cheerfully!
+醫	Yi	1	Physician	Physician sings "Yi!" cheerfully!
+仰	Yang	3	to look up to	to look up to bends down drooping saying "Yang"!
+迎	Ying	2	to greet	to greet questions "Ying? Why?" curiously!
+登	Deng	1	to ascend	to ascend sings "Deng!" cheerfully!
+燈	Deng	1	Lamp	Lamp sings "Deng!" cheerfully!
+證	Zheng	4	Evidence	Evidence commands "Zheng!" yells!
+發	Fa	1	to send out	to send out sings "Fa!" cheerfully!
+廢	Fei	4	to discard	to discard commands "Fei!" yells!
+形	Xing	2	Shape	Shape questions "Xing? Why?" curiously!
+影	Ying	3	Shadow	Shadow bends down drooping saying "Ying"!
+彩	Cai	3	Hue	Hue bends down drooping saying "Cai"!
+須	Xu	1	to have to	to have to sings "Xu!" cheerfully!
+珍	Zhen	1	rare	rare sings "Zhen!" cheerfully!
+參	Can	1	to participate	to participate sings "Can!" cheerfully!
+慘	Can	3	wretched	wretched bends down drooping saying "Can"!
+修	Xiu	1	to repair	to repair sings "Xiu!" cheerfully!
+文	Wen	2	Literature	Literature questions "Wen? Why?" curiously!
+蚊	Wen	2	Mosquito	Mosquito questions "Wen? Why?" curiously!
+彥	Yan	4	erudite	erudite commands "Yan!" yells!
+顏	Yan	2	Countenance	Countenance questions "Yan? Why?" curiously!
+產	Chan	3	Products	Products bends down drooping saying "Chan"!
+率	Shuai	4	a Rate	a Rate commands "Shuai!" yells!
+摔	Shuai	1	to tumble	to tumble sings "Shuai!" cheerfully!
+央	Yang	1	Center	Center sings "Yang!" cheerfully!
+英	Ying	1	England	England sings "Ying!" cheerfully!
+巴	Ba	1	Crust	Crust sings "Ba!" cheerfully!
+把	Ba	3	to grasp	to grasp bends down drooping saying "Ba"!
+爸	Ba	4	Papa	Papa commands "Ba!" yells!
+吧	Ba	1	Bar	Bar sings "Ba!" cheerfully!
+色	Se	4	Color	Color commands "Se!" yells!
+絕	Jue	2	to discontinue	to discontinue questions "Jue? Why?" curiously!
+甘	Gan	1	sweet	sweet sings "Gan!" cheerfully!
+某	Mou	3	such and such	such and such bends down drooping saying "Mou"!
+其	Qi	2	his-hers-its-theirs	his-hers-its-theirs questions "Qi? Why?" curiously!
+期	Qi [普], qi [國]	1	Period of Time	Period of Time sings "Qi [普], qi [國]!" cheerfully!
+基	Ji	1	Base	Base sings "Ji!" cheerfully!
+斯	Si	1	Sphinx	Sphinx sings "Si!" cheerfully!
+甚	Shen	4	tremendously	tremendously commands "Shen!" yells!
+貴	Gui	4	expensive	expensive commands "Gui!" yells!
+遺	Yi	2	to bequeath	to bequeath questions "Yi? Why?" curiously!
+舞	Wu	3	Dance	Dance bends down drooping saying "Wu"!
+無	Wu	2	nothing	nothing questions "Wu? Why?" curiously!
+撫	Fu	3	to comfort	to comfort bends down drooping saying "Fu"!
+且	Qie	3	moreover	moreover bends down drooping saying "Qie"!
+姐	Jie	3	Older Sister	Older Sister bends down drooping saying "Jie"!
+組	Zu	3	Group	Group bends down drooping saying "Zu"!
+祖	Zu	3	Ancestor	Ancestor bends down drooping saying "Zu"!
+助	Zhu	4	to assist	to assist commands "Zhu!" yells!
+並	Bing	4	side by side	side by side commands "Bing!" yells!
+普	Pu	3	universal	universal bends down drooping saying "Pu"!
+業	Ye	4	Profession	Profession commands "Ye!" yells!
+對	Dui	4	that’s right	that’s right commands "Dui!" yells!
+共	Gong	4	together	together commands "Gong!" yells!
+供	Gong	1	Supply	Supply sings "Gong!" cheerfully!
+異	Yi	4	different	different commands "Yi!" yells!
+巷	Xiang	4	Lane	Lane commands "Xiang!" yells!
+港	Gang	3	Port	Port bends down drooping saying "Gang"!
+選	Xuan	3	to choose	to choose bends down drooping saying "Xuan"!
+井	Jing	3	a Well	a Well bends down drooping saying "Jing"!
+亞	Ya [普], ya [國]	3	Asia	Asia bends down drooping saying "Ya [普], ya [國]"!
+惡	E	4	Evil	Evil commands "E!" yells!
+角	Jiao	3	Angle	Angle bends down drooping saying "Jiao"!
+解	Jie	3	to untie	to untie bends down drooping saying "Jie"!
+嘴	Zui	3	Orifice	Orifice bends down drooping saying "Zui"!
+再	Zai	4	once more	once more commands "Zai!" yells!
+稱	Cheng	1	to weigh	to weigh sings "Cheng!" cheerfully!
+講	Jiang	3	to lecture	to lecture bends down drooping saying "Jiang"!
+構	Gou	4	to frame	to frame commands "Gou!" yells!
+扁	Bian	3	flat	flat bends down drooping saying "Bian"!
+篇	Pian	1	Piece of Writing	Piece of Writing sings "Pian!" cheerfully!
+編	Bian	1	to compile	to compile sings "Bian!" cheerfully!
+論	Lun	4	Theory	Theory commands "Lun!" yells!
+輪	Lun	2	Wheel	Wheel questions "Lun? Why?" curiously!
+典	Dian	3	Canon	Canon bends down drooping saying "Dian"!
+氏	Shi	4	Family Name	Family Name commands "Shi!" yells!
+紙	Zhi	3	Paper	Paper bends down drooping saying "Zhi"!
+昏	Hun	1	Dusk	Dusk sings "Hun!" cheerfully!
+婚	Hun	1	Marriage	Marriage sings "Hun!" cheerfully!
+低	Di	1	low	low sings "Di!" cheerfully!
+底	Di	3	Bottom	Bottom bends down drooping saying "Di"!
+民	Min	2	People	People questions "Min? Why?" curiously!
+眠	Mian	2	the Slumber	the Slumber questions "Mian? Why?" curiously!
+甫	Fu	3	Fu3	Fu3 bends down drooping saying "Fu"!
+補	Bu	3	to patch	to patch bends down drooping saying "Bu"!
+博	Bo	2	knowledgeable	knowledgeable questions "Bo? Why?" curiously!
+搏	Bo	2	to wrestle	to wrestle questions "Bo? Why?" curiously!
+都	Du	1	Metropolis	Metropolis sings "Du!" cheerfully!
+部	Bu	4	Department	Department commands "Bu!" yells!
+郎	Lang	2	Young Man	Young Man questions "Lang? Why?" curiously!
+鄉	Xiang	1	Countryside	Countryside sings "Xiang!" cheerfully!
+響	Xiang	3	an Echo	an Echo bends down drooping saying "Xiang"!
+段	Duan	4	Section	Section commands "Duan!" yells!
+鍛	Duan	4	to forge	to forge commands "Duan!" yells!
+幻	Huan	4	unreal	unreal commands "Huan!" yells!
+司	Si	1	to take charge of	to take charge of sings "Si!" cheerfully!
+詞	Ci	2	Word	Word questions "Ci? Why?" curiously!
+舟	Zhou	1	Boat	Boat sings "Zhou!" cheerfully!
+船	Chuan	2	Ship	Ship questions "Chuan? Why?" curiously!
+般	Ban	1	the Sort	the Sort sings "Ban!" cheerfully!
+盤	Pan	2	Tray	Tray questions "Pan? Why?" curiously!
+搬	Ban	1	to relocate	to relocate sings "Ban!" cheerfully!
+瓜	Gua	1	Melon	Melon sings "Gua!" cheerfully!
+孤	Gu	1	Orphan	Orphan sings "Gu!" cheerfully!
+益	Yi	4	a Benefit	a Benefit commands "Yi!" yells!
+假	Jia	4	Vacation	Vacation commands "Jia!" yells!
+蝦	Xia	1	Shrimp	Shrimp sings "Xia!" cheerfully!
+氣	Qi	4	Air	Air commands "Qi!" yells!
+汽	Qi	4	Vapor	Vapor commands "Qi!" yells!
+飛	Fei	1	to fly	to fly sings "Fei!" cheerfully!
+面	Mian	4	face-to-face	face-to-face commands "Mian!" yells!
+麵	Mian	4	Noodles	Noodles commands "Mian!" yells!
+革	Ge	2	Leather	Leather questions "Ge? Why?" curiously!
+鞋	Xie	2	Shoes	Shoes questions "Xie? Why?" curiously!
+馨	Xin	1	fragrant	fragrant sings "Xin!" cheerfully!
+聲	Sheng	1	Voice	Voice sings "Sheng!" cheerfully!
+吳	Wu	2	Wu	Wu questions "Wu? Why?" curiously!
+娛	Yu	2	Amusement	Amusement questions "Yu? Why?" curiously!
+誤	Wu	4	Error	Error commands "Wu!" yells!
+承	Cheng	2	to undertake （not like a cemetery）	to undertake （not like a cemetery） questions "Cheng? Why?" curiously!
+蒸	Zheng	1	to steam	to steam sings "Zheng!" cheerfully!
+牙	Ya	2	Tooth	Tooth questions "Ya? Why?" curiously!
+穿	Chuan	1	to pass through	to pass through sings "Chuan!" cheerfully!
+呀	Ya	5	wow!	wow! says "Ya" neutrally!
+釋	Shi	4	to explain	to explain commands "Shi!" yells!
+番	Fan	1	a Try	a Try sings "Fan!" cheerfully!
+翻	Fan	1	to turn over	to turn over sings "Fan!" cheerfully!
+播	Bo [普], bo [國]	1	to broadcast	to broadcast sings "Bo [普], bo [國]!" cheerfully!
+毛	Mao	2	Fur	Fur questions "Mao? Why?" curiously!
+尾	Wei	3	Tail	Tail bends down drooping saying "Wei"!
+宅	Zhai	2	a Dwelling	a Dwelling questions "Zhai? Why?" curiously!
+託	Tuo	1	to entrust	to entrust sings "Tuo!" cheerfully!
+為	Wei	4	to act	to act commands "Wei!" yells!
+偽	Wei [普], wei [國]	3	bogus	bogus bends down drooping saying "Wei [普], wei [國]"!
+長	Chang	2	long	long questions "Chang? Why?" curiously!
+張	Zhang	1	to stretch	to stretch sings "Zhang!" cheerfully!
+漲	Zhang	4	to swell	to swell commands "Zhang!" yells!
+套	Tao	4	a Cover	a Cover commands "Tao!" yells!
+髮	Fa [普], fa [國]	3	Hair of the Head	Hair of the Head bends down drooping saying "Fa [普], fa [國]"!
+展	Zhan	3	to unfold	to unfold bends down drooping saying "Zhan"!
+喪	Sang	4	Funeral	Funeral commands "Sang!" yells!
+雁	Yan	4	Wild Goose	Wild Goose commands "Yan!" yells!
+應	Ying	1	ought to	ought to sings "Ying!" cheerfully!
+鳥	Niao	3	Bird	Bird bends down drooping saying "Niao"!
+鷹	Ying	1	Hawk	Hawk sings "Ying!" cheerfully!
+鴨	Ya	1	Duck	Duck sings "Ya!" cheerfully!
+島	Dao	3	Island	Island bends down drooping saying "Dao"!
+遇	Yu	4	to encounter	to encounter commands "Yu!" yells!
+萬	Wan	4	ten thousand	ten thousand commands "Wan!" yells!
+邁	Mai	4	to stride	to stride commands "Mai!" yells!
+岡	Gang	1	Ridge of a Hill	Ridge of a Hill sings "Gang!" cheerfully!
+剛	Gang	1	just now	just now sings "Gang!" cheerfully!
+缺	Que	1	deficient	deficient sings "Que!" cheerfully!
+寶	Bao	3	Treasure	Treasure bends down drooping saying "Bao"!
+遙	Yao	2	remote	remote questions "Yao? Why?" curiously!
+搖	Yao	2	to shake	to shake questions "Yao? Why?" curiously!
+兔	Tu	4	Rabbit	Rabbit commands "Tu!" yells!
+逸	Yi	4	to flee	to flee commands "Yi!" yells!
+免	Mian	3	to avoid	to avoid bends down drooping saying "Mian"!
+晚	Wan	3	Nightfall	Nightfall bends down drooping saying "Wan"!
+象	Xiang	4	Elephant	Elephant commands "Xiang!" yells!
+像	Xiang	4	Likeness	Likeness commands "Xiang!" yells!
+馬	Ma	3	Horse	Horse bends down drooping saying "Ma"!
+媽	Ma	1	Mama	Mama sings "Ma!" cheerfully!
+罵	Ma	4	to scold	to scold commands "Ma!" yells!
+嗎	Ma	5	yes or no	yes or no says "Ma" neutrally!
+驗	Yan	4	to check	to check commands "Yan!" yells!
+騎	Qi	2	to ride	to ride questions "Qi? Why?" curiously!
+驚	Jing	1	startled	startled sings "Jing!" cheerfully!
+虎	Hu	3	Tiger	Tiger bends down drooping saying "Hu"!
+慮	Lu	4	to ponder	to ponder commands "Lu!" yells!
+處	Chu	4	Location	Location commands "Chu!" yells!
+戲	Xi	4	to frolic	to frolic commands "Xi!" yells!
+劇	Ju	4	Drama	Drama commands "Ju!" yells!
+據	Ju	4	Certificate	Certificate commands "Ju!" yells!
+鹿	Lu	4	Deer	Deer commands "Lu!" yells!
+塵	Chen	2	Dust	Dust questions "Chen? Why?" curiously!
+麗	Li	4	lovely	lovely commands "Li!" yells!
+熊	Xiong	2	Bear	Bear questions "Xiong? Why?" curiously!
+能	Neng	2	Ability	Ability questions "Neng? Why?" curiously!
+態	Tai	4	Attitude	Attitude commands "Tai!" yells!
+寅	Yin	2	Sign Of The Tiger	Sign Of The Tiger questions "Yin? Why?" curiously!
+演	Yan	3	to perform	to perform bends down drooping saying "Yan"!
+辰	Chen	2	Sign Of The Dragon	Sign Of The Dragon questions "Chen? Why?" curiously!
+晨	Chen	2	Morning	Morning questions "Chen? Why?" curiously!
+農	Nong	2	Agriculture	Agriculture questions "Nong? Why?" curiously!
+濃	Nong	2	concentrated	concentrated questions "Nong? Why?" curiously!
+送	Song	4	to deliver	to deliver commands "Song!" yells!
+鬼	Gui	3	Ghost	Ghost bends down drooping saying "Gui"!
+魔	Mo	2	Demon	Demon questions "Mo? Why?" curiously!
+塊	Kuai	4	Lump	Lump commands "Kuai!" yells!
+龍	Long	2	Dragon	Dragon questions "Long? Why?" curiously!
+襲	Xi	2	to raid	to raid questions "Xi? Why?" curiously!
+兒	Er	2	Youngster	Youngster questions "Er? Why?" curiously!
+舊	Jiu	4	old	old commands "Jiu!" yells!
+寫	Xie	3	to write	to write bends down drooping saying "Xie"!
+瀉	Xie	4	Diarrhea	Diarrhea commands "Xie!" yells!
+兩	Liang	3	dos	dos bends down drooping saying "Liang"!
+倆	Lia	3	Duo	Duo bends down drooping saying "Lia"!
+滿	Man	3	full	full bends down drooping saying "Man"!
+爾	Er	3	you  [literary]	you  [literary] bends down drooping saying "Er"!
+彌	Mi	2	to fill	to fill questions "Mi? Why?" curiously!
+虛	Xu	1	false	false sings "Xu!" cheerfully!
+聯	Lian	2	to unite	to unite questions "Lian? Why?" curiously!
+關	Guan	1	to shut	to shut sings "Guan!" cheerfully!
+那	Na	4	that	that commands "Na!" yells!
+哪	Na	3	which?	which? bends down drooping saying "Na"!
+巫	Wu [普], wu [國]	1	Witch	Witch sings "Wu [普], wu [國]!" cheerfully!
+靈	Ling	2	Spirit	Spirit questions "Ling? Why?" curiously!
+縣	Xian	4	County	County commands "Xian!" yells!
+懸	Xuan	2	to suspend	to suspend questions "Xuan? Why?" curiously!
+與	Yu	3	to offer	to offer bends down drooping saying "Yu"!
+舉	Ju	3	to lift up	to lift up bends down drooping saying "Ju"!
+腦	Nao	3	Brain	Brain bends down drooping saying "Nao"!
+惱	Nao	3	Annoyed	Annoyed bends down drooping saying "Nao"!
+專	Zhuan	1	Specialty	Specialty sings "Zhuan!" cheerfully!
+傳	Chuan	2	to spread	to spread questions "Chuan? Why?" curiously!
+轉	Zhuan	4	to rotate	to rotate commands "Zhuan!" yells!
+團	Tuan	2	Troupe	Troupe questions "Tuan? Why?" curiously!
+黃	Huang	2	yellow	yellow questions "Huang? Why?" curiously!
+廣	Guang	3	extensive	extensive bends down drooping saying "Guang"!
+橫	Heng	2	horizontal	horizontal questions "Heng? Why?" curiously!
+窗	Chuang	1	Window	Window sings "Chuang!" cheerfully!
+總	Zong	3	general	general bends down drooping saying "Zong"!
+詹	Zhan	1	verbose	verbose sings "Zhan!" cheerfully!
+擔	Dan	4	to assume (responsibility over)	to assume (responsibility over) commands "Dan!" yells!
+數	Shu	4	Number	Number commands "Shu!" yells!
+樓	Lou	2	Multistory Building	Multistory Building questions "Lou? Why?" curiously!
+獨	Du	2	alone	alone questions "Du? Why?" curiously!
+屬	Shu	3	to belong to	to belong to bends down drooping saying "Shu"!
+爛	Lan	4	spoiled	spoiled commands "Lan!" yells!
+蘭	Lan	2	Orchid	Orchid questions "Lan? Why?" curiously!
+從	Cong	2	to follow	to follow questions "Cong? Why?" curiously!
+縱	Zong	4	vertical	vertical commands "Zong!" yells!
+齊	Qi	2	identical	identical questions "Qi? Why?" curiously!
+濟	Ji	4	to relieve (of ailments)	to relieve (of ailments) commands "Ji!" yells!
+丑	Chou	3	Clown	Clown bends down drooping saying "Chou"!
+扭	Niu	3	to twist	to twist bends down drooping saying "Niu"!
+卑	Bei	1	lowly	lowly sings "Bei!" cheerfully!
+牌	Pai	2	a Brand (Trademark)	a Brand (Trademark) questions "Pai? Why?" curiously!
+號	Hao	4	Appellation	Appellation commands "Hao!" yells!
+怪	Guai	4	peculiar	peculiar commands "Guai!" yells!
+赤	Chi	4	crimson	crimson commands "Chi!" yells!
+亦	Yi	4	likewise	likewise commands "Yi!" yells!
+極	Ji	2	Extreme	Extreme questions "Ji? Why?" curiously!
+雜	Za	2	miscellaneous	miscellaneous questions "Za? Why?" curiously!
+曰	Yue	1	sayeth	sayeth sings "Yue!" cheerfully!
+亂	Luan	4	Chaos	Chaos commands "Luan!" yells!
+叭	Ba	1	trumpet	trumpet sings "Ba!" cheerfully!
+咕	Gu	1	mutter	mutter sings "Gu!" cheerfully!
+咱	Zan	2	we (inclusive)	we (inclusive) questions "Zan? Why?" curiously!
+串	Chuan	4	string together	string together commands "Chuan!" yells!
+罩	Zhao	4	overspread	overspread commands "Zhao!" yells!
+囂	Xiao	1	hubbub	hubbub sings "Xiao!" cheerfully!
+顛	Dian	1	invert	invert sings "Dian!" cheerfully!
+叨	Dao	1	talkative	talkative sings "Dao!" cheerfully!
+刮	Gua	1	scrape	scrape sings "Gua!" cheerfully!
+盯	Ding	1	stare at	stare at sings "Ding!" cheerfully!
+呵	Ā	5	rebuke	rebuke says "Ā" neutrally!
+姦	Jian	1	adultery	adultery sings "Jian!" cheerfully!
+嬰	Ying	1	baby	baby sings "Ying!" cheerfully!
+姑	Gu	1	father's sister	father's sister sings "Gu!" cheerfully!
+姆	Mu	3	nanny	nanny bends down drooping saying "Mu"!
+兢	Jing	1	cautious	cautious sings "Jing!" cheerfully!
+碩	Shuo	4	big	big commands "Shuo!" yells!
+砌	Qi	4	lay brick	lay brick commands "Qi!" yells!
+哨	Shao	4	whistle	whistle commands "Shao!" yells!
+晃	Huang	4	sway	sway commands "Huang!" yells!
+泊	Bo	2	moor	moor questions "Bo? Why?" curiously!
+汰	Tai	4	get rid of	get rid of commands "Tai!" yells!
+沾	Zhan	1	soak	soak sings "Zhan!" cheerfully!
+渺	Miao	3	insignificant	insignificant bends down drooping saying "Miao"!
+腺	Xian	4	gland	gland commands "Xian!" yells!
+坦	Tan	3	level	level bends down drooping saying "Tan"!
+娃	Wa	2	newborn	newborn questions "Wa? Why?" curiously!
+涯	Ya	2	bank	bank questions "Ya? Why?" curiously!
+吋	Cun	4	inch	inch commands "Cun!" yells!
+肘	Zhou	3	elbow	elbow bends down drooping saying "Zhou"!
+灼	Zhuo	2	scorch	scorch questions "Zhuo? Why?" curiously!
+炒	Chao	3	stir-fry	stir-fry bends down drooping saying "Chao"!
+澆	Jiao	1	sprinkle	sprinkle sings "Jiao!" cheerfully!
+哩	Li	3	mile	mile bends down drooping saying "Li"!
+鯉	Li	3	carp	carp bends down drooping saying "Li"!
+嘿	Hei	1	Hey!	Hey! sings "Hei!" cheerfully!
+丹	Dan	1	cinnabar red	cinnabar red sings "Dan!" cheerfully!
+喧	Xuan	1	boisterous	boisterous sings "Xuan!" cheerfully!
+賓	Bin	1	visitor	visitor sings "Bin!" cheerfully!
+濱	Bin	1	water's edge	water's edge sings "Bin!" cheerfully!
+寡	Gua	3	widowed	widowed bends down drooping saying "Gua"!
+棚	Peng	2	shed	shed questions "Peng? Why?" curiously!
+柏	Bai	3	cypress	cypress bends down drooping saying "Bai"!
+槓	Gang	4	thick stick	thick stick commands "Gang!" yells!
+朵	Duo	5	flouds	flouds says "Duo" neutrally!
+杜	Du	4	prevent	prevent commands "Du!" yells!
+桂	Gui	4	cassia-bark tree	cassia-bark tree commands "Gui!" yells!
+椅	Yi	3	chair	chair bends down drooping saying "Yi"!
+杰	Jie	2	hero	hero questions "Jie? Why?" curiously!
+櫻	Ying	1	cherry	cherry sings "Ying!" cheerfully!
+梢	Shao	1	treetops	treetops sings "Shao!" cheerfully!
+桐	Tong	2	paulownia	paulownia questions "Tong? Why?" curiously!
+宋	Song	4	Song (like the dynasty)	Song (like the dynasty) commands "Song!" yells!
+淋	Lin	2	drench	drench questions "Lin? Why?" curiously!
+焚	Fen	2	burn	burn questions "Fen? Why?" curiously!
+昧	Mei	4	obscure	obscure commands "Mei!" yells!
+朱	Zhu	1	vermillion	vermillion sings "Zhu!" cheerfully!
+株	Zhu	1	tree trunk	tree trunk sings "Zhu!" cheerfully!
+樑	Liang	2	roof beam	roof beam questions "Liang? Why?" curiously!
+碟	Die	2	saucer	saucer questions "Die? Why?" curiously!
+萌	Meng	2	bud	bud questions "Meng? Why?" curiously!
+苛	Ke	1	exacting	exacting sings "Ke!" cheerfully!
+膜	Mo	2	membrane	membrane questions "Mo? Why?" curiously!
+寞	Mo	4	solitary	solitary commands "Mo!" yells!
+暮	Mu	4	sunset	sunset commands "Mu!" yells!
+燃	Ran	2	ignite	ignite questions "Ran? Why?" curiously!
+咒	Zhou	4	curse	curse commands "Zhou!" yells!
+獸	Shou	4	beast	beast commands "Shou!" yells!
+狸	Li	2	raccoon dog	raccoon dog questions "Li? Why?" curiously!
+嗅	Xiu	4	sniff	sniff commands "Xiu!" yells!
+牡	Mu	3	dude	dude bends down drooping saying "Mu"!
+牢	Lao	2	jail	jail questions "Lao? Why?" curiously!
+贊	Zan	4	succor	succor commands "Zan!" yells!
+舍	She	4	abode	abode commands "She!" yells!
+啥	Sha	2	wha?	wha? questions "Sha? Why?" curiously!
+洽	Qia	4	in agreement	in agreement commands "Qia!" yells!
+旺	Wang	4	thriving	thriving commands "Wang!" yells!
+碧	Bi	4	green jade	green jade commands "Bi!" yells!
+汪	Wang	1	tearful	tearful sings "Wang!" cheerfully!
+枉	Wang	3	crooked	crooked bends down drooping saying "Wang"!
+珠	Zhu	1	pearl	pearl sings "Zhu!" cheerfully!
+噩	È	5	shocking	shocking says "È" neutrally!
+鱷	È	5	crocodile	crocodile says "È" neutrally!
+鬥	Dou	4	fight	fight commands "Dou!" yells!
+栓	Shuan	1	plug	plug sings "Shuan!" cheerfully!
+柱	Zhu	4	pillar	pillar commands "Zhu!" yells!
+鉤	Gou	1	hook	hook sings "Gou!" cheerfully!
+鈔	Chao	1	paper money	paper money sings "Chao!" cheerfully!
+銷	Xiao	1	put up for sale	put up for sale sings "Xiao!" cheerfully!
+鎖	Suo	3	lock	lock bends down drooping saying "Suo"!
+鑽	Zuan	1	drill	drill sings "Zuan!" cheerfully!
+迫	Po	4	compel	compel commands "Po!" yells!
+逼	Bi	1	press (like coerce)	press (like coerce) sings "Bi!" cheerfully!
+逃	Tao	2	escape	escape questions "Tao? Why?" curiously!
+逞	Cheng	3	flaunt	flaunt bends down drooping saying "Cheng"!
+轟	Hong	1	rumble	rumble sings "Hong!" cheerfully!
+軌	Gui	3	rails	rails bends down drooping saying "Gui"!
+軋	Ya	4	flatten	flatten commands "Ya!" yells!
+輻	Fu	2	spokes	spokes questions "Fu? Why?" curiously!
+煎	Jian	1	sauté	sauté sings "Jian!" cheerfully!
+喻	Yu	4	figure of speech	figure of speech commands "Yu!" yells!
+榆	Yu	2	elm	elm questions "Yu? Why?" curiously!
+略	È	5	abbreviation	abbreviation says "È" neutrally!
+暈	Yun	1	dizzy	dizzy sings "Yun!" cheerfully!
+渾	Hun	2	muddled	muddled questions "Hun? Why?" curiously!
+膏	Gao	1	ointment	ointment sings "Gao!" cheerfully!
+亨	Heng	1	go smoothly	go smoothly sings "Heng!" cheerfully!
+哼	Heng	1	hum	hum sings "Heng!" cheerfully!
+淳	Chun	2	honest	honest questions "Chun? Why?" curiously!
+鯨	Jing	1	whale	whale sings "Jing!" cheerfully!
+贖	Shu	2	redeem	redeem questions "Shu? Why?" curiously!
+晝	Zhou	4	daylight	daylight commands "Zhou!" yells!
+津	Jin	1	Tianjin	Tianjin sings "Jin!" cheerfully!
+釐	Li	2	smidgen	smidgen questions "Li? Why?" curiously!
+枚	Mei	2	small objects	small objects questions "Mei? Why?" curiously!
+牧	Mu	4	herd	herd commands "Mu!" yells!
+玫	Mei	2	rose	rose questions "Mei? Why?" curiously!
+敦	Dun	1	candid	candid sings "Dun!" cheerfully!
+諾	Nuo	4	promise	promise commands "Nuo!" yells!
+謂	Wei	4	meaning	meaning commands "Wei!" yells!
+詢	Xun	2	inquire	inquire questions "Xun? Why?" curiously!
+罰	Fa	2	penalize	penalize questions "Fa? Why?" curiously!
+訂	Ding	4	place an order	place an order commands "Ding!" yells!
+詠	Yong	3	chant	chant bends down drooping saying "Yong"!
+諜	Die	2	espionage	espionage questions "Die? Why?" curiously!
+註	Zhu	4	annotate	annotate commands "Zhu!" yells!
+諒	Liang	4	forgive	forgive commands "Liang!" yells!
+讚	Zan	4	praise	praise commands "Zan!" yells!
+貳	Èr	5	II	II says "Èr" neutrally!
+膩	Ni	4	sick and tired of	sick and tired of commands "Ni!" yells!
+洩	Xie	4	discharge	discharge commands "Xie!" yells!
+划	Hua	2	paddle	paddle questions "Hua? Why?" curiously!
+嘎	Ga	2	caw	caw questions "Ga? Why?" curiously!
+域	Yu	4	domain	domain commands "Yu!" yells!
+栽	Zai	1	sow	sow sings "Zai!" cheerfully!
+戚	Qi	5	kin	kin says "Qi" neutrally!
+蔑	Mie	4	despise	despise commands "Mie!" yells!
+喊	Han	3	yell	yell bends down drooping saying "Han"!
+濺	Jian	4	splatter	splatter commands "Jian!" yells!
+址	Zhi	3	address	address bends down drooping saying "Zhi"!
+澀	Se	4	astringent	astringent commands "Se!" yells!
+蘋	Ping	2	apple	apple questions "Ping? Why?" curiously!
+赴	Fu	4	go to	go to commands "Fu!" yells!
+趟	Tang	4	trip	trip commands "Tang!" yells!
+堤	Ti2	5	dike	dike says "Ti2" neutrally!
+鍵	Jian	4	keyboard keys	keyboard keys commands "Jian!" yells!
+婿	Xu	4	son-in-law	son-in-law commands "Xu!" yells!
+裁	Cai	2	tailor	tailor questions "Cai? Why?" curiously!
+襪	Wa	4	socks	socks commands "Wa!" yells!
+滾	Gun	3	trundle	trundle bends down drooping saying "Gun"!
+衰	Shuai	1	decline	decline sings "Shuai!" cheerfully!
+衷	Zhong	1	innermost feelings	innermost feelings sings "Zhong!" cheerfully!
+禪	Dan	1	meditation	meditation sings "Dan!" cheerfully!
+猿	Yuan	2	ape	ape questions "Yuan? Why?" curiously!
+吊	Diao	4	dangle	dangle commands "Diao!" yells!
+帕	Pa	4	handkerchief	handkerchief commands "Pa!" yells!
+帖	Tie	1	note	note sings "Tie!" cheerfully!
+帆	Fan	1	sail	sail sings "Fan!" cheerfully!
+幅	Fu	2	width of cloth	width of cloth questions "Fu? Why?" curiously!
+錦	Jin	3	brocade	brocade bends down drooping saying "Jin"!
+沛	Pei	4	copious	copious commands "Pei!" yells!
+柿	Shi	4	persimmon	persimmon commands "Shi!" yells!
+鬧	Nao	4	stir up trouble	stir up trouble commands "Nao!" yells!
+棘	Ji	2	thorn bushes	thorn bushes questions "Ji? Why?" curiously!
+棗	Zao	3	jujube	jujube bends down drooping saying "Zao"!
+蕾	Lei	3	flower bud	flower bud bends down drooping saying "Lei"!
+吞	Tun	1	gulp down	gulp down sings "Tun!" cheerfully!
+妖	Yao	1	bewitching	bewitching sings "Yao!" cheerfully!
+沃	Wo	4	fertile	fertile commands "Wo!" yells!
+轎	Jiao	4	sedan chair	sedan chair commands "Jiao!" yells!
+垃	La	1	garbage	garbage sings "La!" cheerfully!
+啼	Ti	2	weep aloud	weep aloud questions "Ti? Why?" curiously!
+蒂	Di	4	fruit stem	fruit stem commands "Di!" yells!
+滴	Di	1	drip	drip sings "Di!" cheerfully!
+頃	Qing	3	100 Chinese acres	100 Chinese acres bends down drooping saying "Qing"!
+匙	Shi	5	spoon	spoon says "Shi" neutrally!
+乖	Guai	1	well-behaved	well-behaved sings "Guai!" cheerfully!
+乘	Cheng	2	hitch a ride	hitch a ride questions "Cheng? Why?" curiously!
+剩	Sheng	4	leftover	leftover commands "Sheng!" yells!
+棍	Gun	4	club	club commands "Gun!" yells!
+諧	Xie	2	in accord	in accord questions "Xie? Why?" curiously!
+柴	Chai	2	firewood	firewood questions "Chai? Why?" curiously!
+敏	Min	3	quick-witted	quick-witted bends down drooping saying "Min"!
+霉	Mei	2	mildew	mildew questions "Mei? Why?" curiously!
+迄	Qi	4	so far	so far commands "Qi!" yells!
+砍	Kan	3	chop	chop bends down drooping saying "Kan"!
+坎	Kan	3	hump	hump bends down drooping saying "Kan"!
+炊	Chui	1	cook	cook sings "Chui!" cheerfully!
+欽	Qin	1	think highly of	think highly of sings "Qin!" cheerfully!
+剖	Pou	1	cut open	cut open sings "Pou!" cheerfully!
+菩	Pu	2	bodhisattva	bodhisattva questions "Pu? Why?" curiously!
+芒	Mang	2	mango	mango questions "Mang? Why?" curiously!
+荒	Huang	1	wasteland	wasteland sings "Huang!" cheerfully!
+謊	Huang	3	lie	lie bends down drooping saying "Huang"!
+茫	Mang	2	boundless	boundless questions "Mang? Why?" curiously!
+贏	Ying	2	win	win questions "Ying? Why?" curiously!
+訊	Xun	4	interrogate	interrogate commands "Xun!" yells!
+坊	Fang	2	workshop	workshop questions "Fang? Why?" curiously!
+芳	Fang	1	aromatic	aromatic sings "Fang!" cheerfully!
+訪	Fang	3	call on	call on bends down drooping saying "Fang"!
+熬	Áo	5	stew	stew says "Áo" neutrally!
+菸	Yan	1	tobacco	tobacco sings "Yan!" cheerfully!
+榜	Bang	3	roster	roster bends down drooping saying "Bang"!
+磅	Bang	4	pound	pound commands "Bang!" yells!
+膀	Bang	3	upper arm	upper arm bends down drooping saying "Bang"!
+銳	Rui	4	sharp	sharp commands "Rui!" yells!
+虹	Hong	2	rainbow	rainbow questions "Hong? Why?" curiously!
+蝠	Fu	2	bat	bat questions "Fu? Why?" curiously!
+蛙	Wa	1	frog	frog sings "Wa!" cheerfully!
+蝗	Huang	2	locust	locust questions "Huang? Why?" curiously!
+蟬	Chan	2	cicada	cicada questions "Chan? Why?" curiously!
+楓	Feng	1	maple	maple sings "Feng!" cheerfully!
+胞	Bao	1	placenta	placenta sings "Bao!" cheerfully!
+炮	Pao	4	fireworks	fireworks commands "Pao!" yells!
+袍	Pao	2	robe	robe questions "Pao? Why?" curiously!
+雹	Bao	2	hail	hail questions "Bao? Why?" curiously!
+逐	Zhu	2	pursue	pursue questions "Zhu? Why?" curiously!
+遂	Sui	4	satisfy	satisfy commands "Sui!" yells!
+蒙	Meng	2	Mongolia	Mongolia questions "Meng? Why?" curiously!
+朦	Meng	2	dim	dim questions "Meng? Why?" curiously!
+豪	Hao	2	unrestrained	unrestrained questions "Hao? Why?" curiously!
+啄	Zhuo	2	peck	peck questions "Zhuo? Why?" curiously!
+琢	Zuo	2	chisel	chisel questions "Zuo? Why?" curiously!
+嫁	Jia	4	marry	marry commands "Jia!" yells!
+腸	Chang	2	intestines	intestines questions "Chang? Why?" curiously!
+楊	Yang	2	poplar	poplar questions "Yang? Why?" curiously!
+燙	Tang	4	scald	scald commands "Tang!" yells!
+蕩	Dang	4	licentious	licentious commands "Dang!" yells!
+詳	Xiang	2	detailed	detailed questions "Xiang? Why?" curiously!
+羨	Xian	4	envy	envy commands "Xian!" yells!
+唯	Wei	2	soley	soley questions "Wei? Why?" curiously!
+堆	Dui	1	pile	pile sings "Dui!" cheerfully!
+焦	Jiao	1	apprehensive	apprehensive sings "Jiao!" cheerfully!
+瞧	Qiao	2	lay eyes on	lay eyes on questions "Qiao? Why?" curiously!
+礁	Jiao	1	reef	reef sings "Jiao!" cheerfully!
+蕉	Jiao	1	banana	banana sings "Jiao!" cheerfully!
+雕	Diao	1	sculpture	sculpture sings "Diao!" cheerfully!
+截	Jie	2	lop off	lop off questions "Jie? Why?" curiously!
+准	Zhun	3	allow	allow bends down drooping saying "Zhun"!
+雀	Que	4	sparrow	sparrow commands "Que!" yells!
+霍	Huo	4	all at once	all at once commands "Huo!" yells!
+奮	Fen	4	exert oneself	exert oneself commands "Fen!" yells!
+奪	Duo	2	take by force	take by force questions "Duo? Why?" curiously!
+翹	Qiao	4	turn upward	turn upward commands "Qiao!" yells!
+塌	Ta	1	fall down	fall down sings "Ta!" cheerfully!
+翰	Han	4	writing brush	writing brush commands "Han!" yells!
+咽	Yan	4	throat	throat commands "Yan!" yells!
+姻	Yin	1	in-law	in-law sings "Yin!" cheerfully!
+廟	Miao	4	temple	temple commands "Miao!" yells!
+廂	Xiang	1	side room	side room sings "Xiang!" cheerfully!
+嘛	Ma	5	(pause marker)	(pause marker) says "Ma" neutrally!
+磨	Mo	2	grind	grind questions "Mo? Why?" curiously!
+廈	Sha	4	skyscraper	skyscraper commands "Sha!" yells!
+廁	Ce	4	toilet	toilet commands "Ce!" yells!
+悟	Wu	4	realize	realize commands "Wu!" yells!
+忠	Zhong	1	loyal	loyal sings "Zhong!" cheerfully!
+悼	Dao	4	mourn	mourn commands "Dao!" yells!
+慎	Shen	4	prudent	prudent commands "Shen!" yells!
+恕	Shu	4	pardon	pardon commands "Shu!" yells!
+悄	Qiao	1	noiseless	noiseless sings "Qiao!" cheerfully!
+恍	Huang	3	all of a sudden	all of a sudden bends down drooping saying "Huang"!
+惰	Duo	4	indolent	indolent commands "Duo!" yells!
+恢	Hui	1	immense	immense sings "Hui!" cheerfully!
+恆	Heng	2	permanent	permanent questions "Heng? Why?" curiously!
+慕	Mu	4	admire	admire commands "Mu!" yells!
+恰	Qia	4	just right	just right commands "Qia!" yells!
+惶	Huang	2	fearful	fearful questions "Huang? Why?" curiously!
+愉	Yu	2	overjoyed	overjoyed questions "Yu? Why?" curiously!
+愈	Yu	4	more and more	more and more commands "Yu!" yells!
+惑	Huo	4	be bewildered	be bewildered commands "Huo!" yells!
+怔	Zheng	4	terror-stricken	terror-stricken commands "Zheng!" yells!
+怖	Bu	4	be scared of	be scared of commands "Bu!" yells!
+添	Tian	1	augment	augment sings "Tian!" cheerfully!
+悔	Hui	3	be sorry about	be sorry about bends down drooping saying "Hui"!
+慌	Huang	1	nervous	nervous sings "Huang!" cheerfully!
+悅	Yue	4	delighted	delighted commands "Yue!" yells!
+憎	Zeng	1	loathe	loathe sings "Zeng!" cheerfully!
+忌	Ji	4	shun	shun commands "Ji!" yells!
+惟	Wei	2	thinking	thinking questions "Wei? Why?" curiously!
+懼	Ju	4	be frightened	be frightened commands "Ju!" yells!
+患	Huan	4	troubles	troubles commands "Huan!" yells!
+惹	Re	3	provoke	provoke bends down drooping saying "Re"!
+恩	Ēn	5	kindness	kindness says "Ēn" neutrally!
+憶	Yi	4	recall	recall commands "Yi!" yells!
+媳	Xi	2	daughter-in-law	daughter-in-law questions "Xi? Why?" curiously!
+熄	Xi	1	put out	put out sings "Xi!" cheerfully!
+瑟	Se	4	Chinese harp	Chinese harp commands "Se!" yells!
+泌	Mi	4	secrete	secrete commands "Mi!" yells!
+蜜	Mi	4	honey	honey commands "Mi!" yells!
+摩	Mo	2	rub	rub questions "Mo? Why?" curiously!
+蛾	É	5	moth	moth says "É" neutrally!
+扒	Ba	1	pick pockets	pick pockets sings "Ba!" cheerfully!
+扣	Kou	4	button	button commands "Kou!" yells!
+捐	Juan	1	contribute	contribute sings "Juan!" cheerfully!
+拍	Pai	1	racquet	racquet sings "Pai!" cheerfully!
+啪	Pa	1	clapping sound	clapping sound sings "Pa!" cheerfully!
+損	Sun	3	damage	damage bends down drooping saying "Sun"!
+扛	Kang	2	carry over the shoulder	carry over the shoulder questions "Kang? Why?" curiously!
+扎	Zha	1	prick	prick sings "Zha!" cheerfully!
+拇	Mu3	5	thumb	thumb says "Mu3" neutrally!
+拘	Ju	1	detain	detain sings "Ju!" cheerfully!
+抄	Chao	1	copy	copy sings "Chao!" cheerfully!
+拓	Ta	4	pioneer	pioneer commands "Ta!" yells!
+捏	Nie	1	pinch	pinch sings "Nie!" cheerfully!
+撓	Nao	2	chafe	chafe questions "Nao? Why?" curiously!
+抹	Mo	3	smear on	smear on bends down drooping saying "Mo"!
+描	Miao	2	describe	describe questions "Miao? Why?" curiously!
+摸	Mo	1	grope	grope sings "Mo!" cheerfully!
+挑	Tiao	1	foment	foment sings "Tiao!" cheerfully!
+拴	Shuan	1	tether	tether sings "Shuan!" cheerfully!
+拾	Shi2	5	tidy up	tidy up says "Shi2" neutrally!
+搭	Da	1	put up	put up sings "Da!" cheerfully!
+掠	Lüe	4	pillage	pillage commands "Lüe!" yells!
+捨	She	3	abandon	abandon bends down drooping saying "She"!
+拭	Shi	4	wipe away	wipe away commands "Shi!" yells!
+扯	Che	3	yank	yank bends down drooping saying "Che"!
+拖	Tuo	1	drag	drag sings "Tuo!" cheerfully!
+揚	Yang	2	publicize	publicize questions "Yang? Why?" curiously!
+搞	Gao	3	engage in	engage in bends down drooping saying "Gao"!
+撞	Zhuang	4	bump into	bump into commands "Zhuang!" yells!
+摘	Zhai	1	handpick	handpick sings "Zhai!" cheerfully!
+捆	Kun	3	lash together	lash together bends down drooping saying "Kun"!
+撼	Han	4	joggle	joggle commands "Han!" yells!
+擾	Rao	3	harass	harass bends down drooping saying "Rao"!
+擅	Shan	4	act without authority	act without authority commands "Shan!" yells!
+壇	Tan	2	altar	altar questions "Tan? Why?" curiously!
+顫	Chan	4	tremble	tremble commands "Chan!" yells!
+莽	Mang	3	rude	rude bends down drooping saying "Mang"!
+戒	Jie	4	take precautions against	take precautions against commands "Jie!" yells!
+械	Xie	4	weapon	weapon commands "Xie!" yells!
+誡	Jie	4	warn	warn commands "Jie!" yells!
+奔	Ben	1	dash	dash sings "Ben!" cheerfully!
+噴	Pen	1	spurt	spurt sings "Pen!" cheerfully!
+墳	Fen	2	tomb	tomb questions "Fen? Why?" curiously!
+憤	Fen	4	indignation	indignation commands "Fen!" yells!
+材	Cai	2	stuff	stuff questions "Cai? Why?" curiously!
+孕	Yun	4	pregnant	pregnant commands "Yun!" yells!
+扔	Reng	1	throw away	throw away sings "Reng!" cheerfully!
+圾	Ji	1	trash	trash sings "Ji!" cheerfully!
+叉	Cha	1	fork	fork sings "Cha!" cheerfully!
+桑	Sang	1	mulberry tree	mulberry tree sings "Sang!" cheerfully!
+嗓	Sang	3	voicebox	voicebox bends down drooping saying "Sang"!
+寇	Kou	4	outlaw	outlaw commands "Kou!" yells!
+敲	Qiao	1	knock	knock sings "Qiao!" cheerfully!
+灌	Guan	4	pour into	pour into commands "Guan!" yells!
+權	Quan	2	authority	authority questions "Quan? Why?" curiously!
+毅	Yi	4	resolute	resolute commands "Yi!" yells!
+肢	Zhi	1	limb	limb sings "Zhi!" cheerfully!
+妓	Ji	4	prostitute	prostitute commands "Ji!" yells!
+歧	Qi	2	fork in the road	fork in the road questions "Qi? Why?" curiously!
+翅	Chi	4	fins	fins commands "Chi!" yells!
+淑	Shu	1	graceful	graceful sings "Shu!" cheerfully!
+椒	Jiao	1	spice plant	spice plant sings "Jiao!" cheerfully!
+后	Hou	4	queen	queen commands "Hou!" yells!
+盾	Dun	4	shield	shield commands "Dun!" yells!
+販	Fan	4	peddler	peddler commands "Fan!" yells!
+扳	Ban	1	tug	tug sings "Ban!" cheerfully!
+覓	Mi	4	try to find	try to find commands "Mi!" yells!
+妥	Tuo	3	appropriate	appropriate bends down drooping saying "Tuo"!
+睬	Cai	3	notice	notice bends down drooping saying "Cai"!
+允	Yun	3	consent	consent bends down drooping saying "Yun"!
+勾	Gou	1	cross out	cross out sings "Gou!" cheerfully!
+晉	Jin	4	promote	promote commands "Jin!" yells!
+宏	Hong	2	magnificent	magnificent questions "Hong? Why?" curiously!
+胎	Tai	1	fetus	fetus sings "Tai!" cheerfully!
+冶	Ye	3	smelt	smelt bends down drooping saying "Ye"!
+颱	Tai	2	typhoon	typhoon questions "Tai? Why?" curiously!
+怠	Dai	4	negligent	negligent commands "Dai!" yells!
+抬	Tai	2	elevate	elevate questions "Tai? Why?" curiously!
+丟	Diu	1	mislay	mislay sings "Diu!" cheerfully!
+臺	Tai	2	Taiwan	Taiwan questions "Tai? Why?" curiously!
+致	Zhi	4	bring about	bring about commands "Zhi!" yells!
+撤	Che	4	remove	remove commands "Che!" yells!
+硫	Liu	2	sulfur	sulfur questions "Liu? Why?" curiously!
+琉	Liu	2	glaze	glaze questions "Liu? Why?" curiously!
+疏	Shu	1	sparse	sparse sings "Shu!" cheerfully!
+蔬	Shu	1	veggies	veggies sings "Shu!" cheerfully!
+崩	Beng	1	crumble	crumble sings "Beng!" cheerfully!
+岩	Yan	2	rock	rock questions "Yan? Why?" curiously!
+崎	Qi	2	rugged	rugged questions "Qi? Why?" curiously!
+崖	Ya	2	cliff	cliff questions "Ya? Why?" curiously!
+炭	Tan	4	charcoal	charcoal commands "Tan!" yells!
+碳	Tan	4	carbon	carbon commands "Tan!" yells!
+盼	Pan	4	await hopefully	await hopefully commands "Pan!" yells!
+頒	Ban	1	promulgate	promulgate sings "Ban!" cheerfully!
+芬	Fen	1	essence	essence sings "Fen!" cheerfully!
+岔	Cha	4	diverge	diverge commands "Cha!" yells!
+頌	Song	4	extol	extol commands "Song!" yells!
+訟	Song	4	litigate	litigate commands "Song!" yells!
+翁	Weng	1	elderly man	elderly man sings "Weng!" cheerfully!
+裕	Yu	4	abundant	abundant commands "Yu!" yells!
+榕	Rong	2	banyan	banyan questions "Rong? Why?" curiously!
+賞	Shang	3	prize	prize bends down drooping saying "Shang"!
+嘗	Chang	2	attempt	attempt questions "Chang? Why?" curiously!
+嚐	Chang	2	taste	taste questions "Chang? Why?" curiously!
+掌	Zhang	3	palm of the hand	palm of the hand bends down drooping saying "Zhang"!
+擋	Dang	3	fend off	fend off bends down drooping saying "Dang"!
+膛	Tang	2	chest	chest questions "Tang? Why?" curiously!
+頗	Po	1	quite	quite sings "Po!" cheerfully!
+坡	Po	1	slope	slope sings "Po!" cheerfully!
+披	Pi	1	drape over the shoulders	drape over the shoulders sings "Pi!" cheerfully!
+彼	Bi	3	the other	the other bends down drooping saying "Bi"!
+皺	Zhou	4	wrinkles	wrinkles commands "Zhou!" yells!
+雛	Chu	2	chick	chick questions "Chu? Why?" curiously!
+趨	Qu	1	hasten	hasten sings "Qu!" cheerfully!
+菠	Bo	1	spinach	spinach sings "Bo!" cheerfully!
+殖	Zhi	2	breed	breed questions "Zhi? Why?" curiously!
+殊	Shu	1	dissimilar	dissimilar sings "Shu!" cheerfully!
+殘	Can	2	incomplete	incomplete questions "Can? Why?" curiously!
+咧	Lie	5	grin	grin says "Lie" neutrally!
+裂	Lie	4	crack	crack commands "Lie!" yells!
+耿	Geng	3	dedicated	dedicated bends down drooping saying "Geng"!
+恥	Chi	3	shame	shame bends down drooping saying "Chi"!
+輯	Ji	5	edit	edit says "Ji" neutrally!
+攝	She	4	take a photo	take a photo commands "She!" yells!
+娶	Qu	3	take a wife	take a wife bends down drooping saying "Qu"!
+扶	Fu	2	lend a hand	lend a hand questions "Fu? Why?" curiously!
+熙	Xi	1	splendid	splendid sings "Xi!" cheerfully!
+腎	Shen	4	kidneys	kidneys commands "Shen!" yells!
+募	Mu	4	recruit	recruit commands "Mu!" yells!
+脅	Xie	2	threaten	threaten questions "Xie? Why?" curiously!
+劣	Lie	4	inferior	inferior commands "Lie!" yells!
+勳	Xun	1	merit	merit sings "Xun!" cheerfully!
+勸	Quan	4	advise	advise commands "Quan!" yells!
+劫	Jie	2	plunder	plunder questions "Jie? Why?" curiously!
+怒	Nu	4	anger	anger commands "Nu!" yells!
+茄	Jia	1	eggplant	eggplant sings "Jia!" cheerfully!
+彷	Fang	3	seemingly	seemingly bends down drooping saying "Fang"!
+征	Zheng	1	go on an expedition	go on an expedition sings "Zheng!" cheerfully!
+徒	Tu	2	follower	follower questions "Tu? Why?" curiously!
+徊	Huai	2	undecided	undecided questions "Huai? Why?" curiously!
+徵	Zheng	1	solicit	solicit sings "Zheng!" cheerfully!
+懲	Cheng	2	chasten	chasten questions "Cheng? Why?" curiously!
+循	Xun	2	comply with	comply with questions "Xun? Why?" curiously!
+徹	Che	4	thorough	thorough commands "Che!" yells!
+役	Yi	4	service	service commands "Yi!" yells!
+衍	Yan	3	develop	develop bends down drooping saying "Yan"!
+衡	Heng	2	weight	weight questions "Heng? Why?" curiously!
+銜	Xian	2	title （Like rank and title)	title （Like rank and title) questions "Xian? Why?" curiously!
+禿	Tu	1	bald	bald sings "Tu!" cheerfully!
+頹	Tui	2	decrepit	decrepit questions "Tui? Why?" curiously!
+秒	Miao	3	seconds	seconds bends down drooping saying "Miao"!
+稍	Shao	1	a little	a little sings "Shao!" cheerfully!
+穌	Su	1	rise again	rise again sings "Su!" cheerfully!
+蘇	Su	1	revive	revive sings "Su!" cheerfully!
+萎	Wei	1	wilt	wilt sings "Wei!" cheerfully!
+黏	Nian	2	sticky	sticky questions "Nian? Why?" curiously!
+黎	Li	2	host	host questions "Li? Why?" curiously!
+漆	Qi	1	wall paint	wall paint sings "Qi!" cheerfully!
+膝	Xi	1	knees	knees sings "Xi!" cheerfully!
+稠	Chou	2	dense	dense questions "Chou? Why?" curiously!
+稿	Gao	3	draft	draft bends down drooping saying "Gao"!
+穎	Ying	3	clever	clever bends down drooping saying "Ying"!
+稅	Shui	4	tax	tax commands "Shui!" yells!
+稼	Jia	5	crops	crops says "Jia" neutrally!
+菌	Jun	1	fungus	fungus sings "Jun!" cheerfully!
+稚	Zhi	4	immature	immature commands "Zhi!" yells!
+穫	Huo	4	harvest	harvest commands "Huo!" yells!
+私	Si	1	private	private sings "Si!" cheerfully!
+秩	Zhi	4	order	order commands "Zhi!" yells!
+殼	Ke	2	shell	shell questions "Ke? Why?" curiously!
+穀	Gu	3	cereal	cereal bends down drooping saying "Gu"!
+鍬	Qiao	1	shovel	shovel sings "Qiao!" cheerfully!
+揪	Jiu	1	hold tight	hold tight sings "Jiu!" cheerfully!
+梨	Li	2	pear	pear questions "Li? Why?" curiously!
+犁	Li	2	plow	plow questions "Li? Why?" curiously!
+曆	Li	4	calendar	calendar commands "Li!" yells!
+糕	Gao	1	cake	cake sings "Gao!" cheerfully!
+糊	Hu	5	batter	batter says "Hu" neutrally!
+粘	Nian	2	glue	glue questions "Nian? Why?" curiously!
+糧	Liang	2	provisions	provisions questions "Liang? Why?" curiously!
+菊	Ju	2	chrysanthemum	chrysanthemum questions "Ju? Why?" curiously!
+糙	Cao	1	rough	rough sings "Cao!" cheerfully!
+粒	Li	4	grain	grain commands "Li!" yells!
+燦	Can	4	brilliant (like light, not smart.)	brilliant (like light, not smart.) commands "Can!" yells!
+粉	Fen	3	powder	powder bends down drooping saying "Fen"!
+瞇	Mi	1	squint	squint sings "Mi!" cheerfully!
+幣	Bi	4	currency	currency commands "Bi!" yells!
+斃	Bi	4	die a violent death	die a violent death commands "Bi!" yells!
+蔽	Bi	4	shelter	shelter commands "Bi!" yells!
+撇	Pie	1	cast aside	cast aside sings "Pie!" cheerfully!
+弊	Bi	4	fraud	fraud commands "Bi!" yells!
+筍	Sun	3	bamboo shoot	bamboo shoot bends down drooping saying "Sun"!
+筒	Tong	3	tube	tube bends down drooping saying "Tong"!
+築	Zhu	2	construct	construct questions "Zhu? Why?" curiously!
+笨	Ben	4	stupid	stupid commands "Ben!" yells!
+箭	Jian	4	arrow	arrow commands "Jian!" yells!
+筋	Jin	1	tendon	tendon sings "Jin!" cheerfully!
+伍	Wu	5	V	V says "Wu" neutrally!
+仇	Chou	2	animosity	animosity questions "Chou? Why?" curiously!
+倡	Chang	4	start	start commands "Chang!" yells!
+伯	Bo	2	father's older brother	father's older brother questions "Bo? Why?" curiously!
+仲	Zhong	4	mid-	mid- commands "Zhong!" yells!
+估	Gu	1	estimate	estimate sings "Gu!" cheerfully!
+偵	Zhen	1	detect	detect sings "Zhen!" cheerfully!
+俱	Ju	4	altogether	altogether commands "Ju!" yells!
+側	Ce	4	lateral	lateral commands "Ce!" yells!
+佑	You	4	bless	bless commands "You!" yells!
+佐	Zuo	3	assistant	assistant bends down drooping saying "Zuo"!
+仔	Zi	3	meticulous	meticulous bends down drooping saying "Zi"!
+俏	Qiao	4	comely	comely commands "Qiao!" yells!
+倘	Tang	3	if	if bends down drooping saying "Tang"!
+倚	Yi	3	count on	count on bends down drooping saying "Yi"!
+佳	Jia	1	superb	superb sings "Jia!" cheerfully!
+侍	Shi	4	serve	serve commands "Shi!" yells!
+伙	Huo	3	mate	mate bends down drooping saying "Huo"!
+宿	Su	4	stay overnight	stay overnight commands "Su!" yells!
+伏	Fu	2	bend over	bend over questions "Fu? Why?" curiously!
+袱	Fu	5	wrapping cloth	wrapping cloth says "Fu" neutrally!
+偷	Tou	1	steal	steal sings "Tou!" cheerfully!
+伐	Fa	2	fell	fell questions "Fa? Why?" curiously!
+佩	Pei	4	wear at the waist	wear at the waist commands "Pei!" yells!
+佈	Bu	4	announce	announce commands "Bu!" yells!
+僑	Qiao	2	live abroad	live abroad questions "Qiao? Why?" curiously!
+億	Yi	4	one hundred million	one hundred million commands "Yi!" yells!
+傾	Qing	1	incline	incline sings "Qing!" cheerfully!
+侮	Wu	3	insult	insult bends down drooping saying "Wu"!
+倍	Bei	4	times-multiplier	times-multiplier commands "Bei!" yells!
+仿	Fang	3	mimic	mimic bends down drooping saying "Fang"!
+傲	Ào	5	haughty	haughty says "Ào" neutrally!
+僧	Seng	1	Buddhist monk	Buddhist monk sings "Seng!" cheerfully!
+悠	You	1	without haste	without haste sings "You!" cheerfully!
+俄	É	5	Russia	Russia says "É" neutrally!
+儀	Yi	2	rite	rite questions "Yi? Why?" curiously!
+侄	Zhi	2	nephew	nephew questions "Zhi? Why?" curiously!
+仙	Xian	1	immortal	immortal sings "Xian!" cheerfully!
+俗	Su	2	custom	custom questions "Su? Why?" curiously!
+償	Chang	2	repay	repay questions "Chang? Why?" curiously!
+臥	Wo	4	for sleeping	for sleeping commands "Wo!" yells!
+傍	Bang	4	close to	close to commands "Bang!" yells!
+俺	Ǎn	5	we (exclusive)	we (exclusive) says "Ǎn" neutrally!
+淹	Yan	1	inundate	inundate sings "Yan!" cheerfully!
+掩	Yan	3	conceal	conceal bends down drooping saying "Yan"!
+催	Cui	1	prod	prod sings "Cui!" cheerfully!
+摧	Cui	1	wreck	wreck sings "Cui!" cheerfully!
+攜	Xie	2	take along	take along questions "Xie? Why?" curiously!
+符	Fu	2	symbol	symbol questions "Fu? Why?" curiously!
+貸	Dai	4	loan	loan commands "Dai!" yells!
+荷	He	2	Holland	Holland questions "He? Why?" curiously!
+仗	Zhang	4	battle	battle commands "Zhang!" yells!
+杖	Zhang	4	cane	cane commands "Zhang!" yells!
+夾	Jia	1	press from both sides	press from both sides sings "Jia!" cheerfully!
+俠	Xia	2	chivalrous person	chivalrous person questions "Xia? Why?" curiously!
+頰	Jia	2	cheek	cheek questions "Jia? Why?" curiously!
+狹	Xia	2	narrow	narrow questions "Xia? Why?" curiously!
+挾	Xie	2	coerce	coerce questions "Xie? Why?" curiously!
+峽	Xia	2	gorge	gorge questions "Xia? Why?" curiously!
+傘	San	3	umbrella	umbrella bends down drooping saying "San"!
+聚	Ju	4	assemble (like superheroes--not ikea)	assemble (like superheroes--not ikea) commands "Ju!" yells!
+挫	Cuo	4	frustrate	frustrate commands "Cuo!" yells!
+劍	Jian	4	saber	saber commands "Jian!" yells!
+斂	Lian (tone 3 for keyword)	3	restrain	restrain bends down drooping saying "Lian (tone 3 for keyword)"!
+撿	Jian	3	pick up	pick up bends down drooping saying "Jian"!
+簽	Qian	1	sign	sign sings "Qian!" cheerfully!
+儉	Jian	3	thrifty	thrifty bends down drooping saying "Jian"!
+萊	Lai	2	lambsquarters	lambsquarters questions "Lai? Why?" curiously!
+葛	Ge	2	kudzu	kudzu questions "Ge? Why?" curiously!
+褐	He	4	brown	brown commands "He!" yells!
+竭	Jie	2	use up	use up questions "Jie? Why?" curiously!
+歇	Xie	1	take a rest	take a rest sings "Xie!" cheerfully!
+揭	Jie	1	reveal	reveal sings "Jie!" cheerfully!
+淫	Yin	2	promiscuous	promiscuous questions "Yin? Why?" curiously!
+挺	Ting	3	erect	erect bends down drooping saying "Ting"!
+瓦	Wa	3	tile	tile bends down drooping saying "Wa"!
+瓷	Ci	2	porcelain	porcelain questions "Ci? Why?" curiously!
+瓶	Ping	2	bottle	bottle questions "Ping? Why?" curiously!
+鋁	Lu	3	aluminum	aluminum bends down drooping saying "Lu"!
+宮	Gong	1	palace	palace sings "Gong!" cheerfully!
+瑩	Ying	2	lustrous	lustrous questions "Ying? Why?" curiously!
+螢	Ying	2	firefly	firefly questions "Ying? Why?" curiously!
+撈	Lao	1	scoop up	scoop up sings "Lao!" cheerfully!
+煥	Huan	4	glowing	glowing commands "Huan!" yells!
+旋	Xuan	2	whirl	whirl questions "Xuan? Why?" curiously!
+吻	Wen	3	kiss	kiss bends down drooping saying "Wen"!
+匆	Cong	1	hurriedly	hurriedly sings "Cong!" cheerfully!
+錫	Xi	1	tin	tin sings "Xi!" cheerfully!
+惕	Ti	4	watchful	watchful commands "Ti!" yells!
+屑	Xie	4	bits	bits commands "Xie!" yells!
+尿	Niao	4	urine	urine commands "Niao!" yells!
+刷	Shua	1	brush	brush sings "Shua!" cheerfully!
+犀	Xi	1	rhinoceros	rhinoceros sings "Xi!" cheerfully!
+遲	Chi	2	tardy	tardy questions "Chi? Why?" curiously!
+漏	Lou	4	leak	leak commands "Lou!" yells!
+屁	Pi	4	fart	fart commands "Pi!" yells!
+履	Lu	3	footwear	footwear bends down drooping saying "Lu"!
+屎	Shi	3	excrement	excrement bends down drooping saying "Shi"!
+屏	Ping	2	folding screen	folding screen questions "Ping? Why?" curiously!
+屈	Qu	1	knuckle under	knuckle under sings "Qu!" cheerfully!
+掘	Jue	2	excavate	excavate questions "Jue? Why?" curiously!
+尺	Chi	3	ruler	ruler bends down drooping saying "Chi"!
+眉	Mei	2	eyebrows	eyebrows questions "Mei? Why?" curiously!
+媚	Mei	4	flatter	flatter commands "Mei!" yells!
+肩	Jian	1	shoulder	shoulder sings "Jian!" cheerfully!
+妒	Du	4	jealous of	jealous of commands "Du!" yells!
+淚	Lei	4	tears	tears commands "Lei!" yells!
+啓	Qi	3	enlighten	enlighten bends down drooping saying "Qi"!
+扇	Shan	4	fan	fan commands "Shan!" yells!
+奈	Nai	4	can't help but	can't help but commands "Nai!" yells!
+款	Kuan	3	funds	funds bends down drooping saying "Kuan"!
+祟	Sui	4	evil spirit	evil spirit commands "Sui!" yells!
+祝	Zhu	4	wish well	wish well commands "Zhu!" yells!
+祥	Xiang	2	propitious	propitious questions "Xiang? Why?" curiously!
+祕	Mi	4	confidential	confidential commands "Mi!" yells!
+慰	Wei	4	console	console commands "Wei!" yells!
+蔚	Wei	4	luxuriant	luxuriant commands "Wei!" yells!
+蒜	Suan	4	garlic	garlic commands "Suan!" yells!
+棕	Zong	1	palm tree	palm tree sings "Zong!" cheerfully!
+宙	Zhou	4	universe	universe commands "Zhou!" yells!
+軸	Zhou	2	axle	axle questions "Zhou? Why?" curiously!
+袖	Xiu	4	sleeve	sleeve commands "Xiu!" yells!
+笛	Di	2	flute	flute questions "Di? Why?" curiously!
+坤	Kun	1	female	female sings "Kun!" cheerfully!
+呻	Shen	1	groan	groan sings "Shen!" cheerfully!
+暢	Chang	4	smooth	smooth commands "Chang!" yells!
+夥	Huo	3	partnership	partnership bends down drooping saying "Huo"!
+巢	Chao	2	nest	nest questions "Chao? Why?" curiously!
+棵	Ke	1	flora	flora sings "Ke!" cheerfully!
+裸	Luo	3	naked	naked bends down drooping saying "Luo"!
+裹	Guo	3	envelop	envelop bends down drooping saying "Guo"!
+析	Xi	1	analyze	analyze sings "Xi!" cheerfully!
+晰	Xi	1	distinct	distinct sings "Xi!" cheerfully!
+芹	Qin	2	celery	celery questions "Qin? Why?" curiously!
+折	Zhe	2	discount	discount questions "Zhe? Why?" curiously!
+哲	Zhe	2	philosopher	philosopher questions "Zhe? Why?" curiously!
+逝	Shi	4	pass away	pass away commands "Shi!" yells!
+誓	Shi	4	vow	vow commands "Shi!" yells!
+欣	Xin	1	elated	elated sings "Xin!" cheerfully!
+掀	Xian	1	uncover	uncover sings "Xian!" cheerfully!
+祈	Qi	2	supplicate	supplicate questions "Qi? Why?" curiously!
+慚	Can	2	conscience-stricken	conscience-stricken questions "Can? Why?" curiously!
+嶄	Zhan (correct one)	3	towering	towering bends down drooping saying "Zhan (correct one)"!
+拆	Chai	1	take apart	take apart sings "Chai!" cheerfully!
+炸	Zha	4	blow up	blow up commands "Zha!" yells!
+詐	Zha	4	swindle	swindle commands "Zha!" yells!
+妻	Qi	1	wife	wife sings "Qi!" cheerfully!
+淒	Qi	1	miserable	miserable sings "Qi!" cheerfully!
+棲	Qi	1	perch	perch sings "Qi!" cheerfully!
+煞	Sha	1	goblin	goblin sings "Sha!" cheerfully!
+捷	Jie	2	nimble	nimble questions "Jie? Why?" curiously!
+秉	Bing	3	wield	wield bends down drooping saying "Bing"!
+剝	Bo	1	peel off	peel off sings "Bo!" cheerfully!
+彙	Hui	4	collection	collection commands "Hui!" yells!
+兼	Jian	1	double	double sings "Jian!" cheerfully!
+賺	Zhuan	4	earn	earn commands "Zhuan!" yells!
+嫌	Xian	2	dislike	dislike questions "Xian? Why?" curiously!
+謙	Qian	1	unassuming	unassuming sings "Qian!" cheerfully!
+歉	Qian	4	apology	apology commands "Qian!" yells!
+廉	Lian	2	inexpensive	inexpensive questions "Lian? Why?" curiously!
+鐮	Lian	2	sickle	sickle questions "Lian? Why?" curiously!
+簾	Lian	2	drapes	drapes questions "Lian? Why?" curiously!
+睜	Zheng	1	unshut	unshut sings "Zheng!" cheerfully!
+掙	Zheng	1	struggle	struggle sings "Zheng!" cheerfully!
+箏	Zheng	1	Chinese zither	Chinese zither sings "Zheng!" cheerfully!
+塘	Tang	2	pool	pool questions "Tang? Why?" curiously!
+逮	Dai	3	arrest	arrest bends down drooping saying "Dai"!
+隸	Li	4	bondservant	bondservant commands "Li!" yells!
+慷	Kang	1	generous	generous sings "Kang!" cheerfully!
+糠	Kang	1	chaff	chaff sings "Kang!" cheerfully!
+耍	Shua	3	mess around	mess around bends down drooping saying "Shua"!
+耐	Nai	4	-proof	-proof commands "Nai!" yells!
+喘	Chuan	3	wheeze	wheeze bends down drooping saying "Chuan"!
+揣	Chuai	1	conjecture	conjecture sings "Chuai!" cheerfully!
+糟	Zao	1	messed up	messed up sings "Zao!" cheerfully!
+遭	Zao	1	meet with	meet with sings "Zao!" cheerfully!
+槽	Cao	2	trough	trough questions "Cao? Why?" curiously!
+抖	Dou	3	quiver	quiver bends down drooping saying "Dou"!
+庸	Yong	1	mediocre	mediocre sings "Yong!" cheerfully!
+傭	Yong	1	put to work	put to work sings "Yong!" cheerfully!
+甩	Shuai	3	fling	fling bends down drooping saying "Shuai"!
+惜	Xi	1	rue	rue sings "Xi!" cheerfully!
+措	Cuo	4	arrange	arrange commands "Cuo!" yells!
+棄	Qi	4	forsake	forsake commands "Qi!" yells!
+燕	Yan	4	swallow	swallow commands "Yan!" yells!
+遮	Zhe	1	screen	screen sings "Zhe!" cheerfully!
+畔	Pan	4	littoral	littoral commands "Pan!" yells!
+拌	Ban	4	blend	blend commands "Ban!" yells!
+叛	Pan	4	betray	betray commands "Pan!" yells!
+券	Quan	4	voucher	voucher commands "Quan!" yells!
+藤	Teng	2	rattan	rattan questions "Teng? Why?" curiously!
+狀	Zhuang	4	state of affairs	state of affairs commands "Zhuang!" yells!
+牆	Qiang	2	wall	wall questions "Qiang? Why?" curiously!
+鼎	Ding	3	old cooking pot	old cooking pot bends down drooping saying "Ding"!
+寢	Qin	3	get some shuteye	get some shuteye bends down drooping saying "Qin"!
+侵	Qin	1	invade	invade sings "Qin!" cheerfully!
+浸	Jin	4	immerse	immerse commands "Jin!" yells!
+贓	Zang	1	stolen goods	stolen goods sings "Zang!" cheerfully!
+藏	Cang	2	hide	hide questions "Cang? Why?" curiously!
+臟	Zang	4	guts	guts commands "Zang!" yells!
+獎	Jiang	3	award	award bends down drooping saying "Jiang"!
+漿	Jiang (both pronunciations work)	1	thick liquid	thick liquid sings "Jiang (both pronunciations work)!" cheerfully!
+槳	Jiang	3	oar	oar bends down drooping saying "Jiang"!
+蔣	Jiang	3	Jiang	Jiang bends down drooping saying "Jiang"!
+淵	Yuan	1	abyss	abyss sings "Yuan!" cheerfully!
+肅	Su	4	solemn	solemn commands "Su!" yells!
+嘯	Xiao	4	howl	howl commands "Xiao!" yells!
+蕭	Xiao	1	desolate	desolate sings "Xiao!" cheerfully!
+鏽	Xiu	4	rust	rust commands "Xiu!" yells!
+芝	Zhi	1	sesame	sesame sings "Zhi!" cheerfully!
+貶	Bian	3	devalue	devalue bends down drooping saying "Bian"!
+泛	Fan	4	nonspecific	nonspecific commands "Fan!" yells!
+歪	Wai	1	askew	askew sings "Wai!" cheerfully!
+矯	Jiao	3	rectify	rectify bends down drooping saying "Jiao"!
+矮	Ǎi	5	short of stature	short of stature says "Ǎi" neutrally!
+唉	Āi	5	sigh--ay-ay	sigh--ay-ay says "Āi" neutrally!
+埃	Āi	5	fine dust	fine dust says "Āi" neutrally!
+挨	Āi	5	suffer	suffer says "Āi" neutrally!
+簇	Cu	4	cluster	cluster commands "Cu!" yells!
+茅	Mao	2	thatch	thatch questions "Mao? Why?" curiously!
+橘	Ju	2	tangerine	tangerine questions "Ju? Why?" curiously!
+舒	Shu	1	relax	relax sings "Shu!" cheerfully!
+弘	Hong	2	noble	noble questions "Hong? Why?" curiously!
+夷	Yi	2	barbarian	barbarian questions "Yi? Why?" curiously!
+姨	Yi	2	maternal aunt	maternal aunt questions "Yi? Why?" curiously!
+疆	Jiang	1	dividing line	dividing line sings "Jiang!" cheerfully!
+僵	Jiang	1	stiff	stiff sings "Jiang!" cheerfully!
+薑	Jiang	1	ginger	ginger sings "Jiang!" cheerfully!
+粥	Zhou	1	porridge	porridge sings "Zhou!" cheerfully!
+沸	Fei	4	bring to a boil	bring to a boil commands "Fei!" yells!
+拂	Fu	2	caress	caress questions "Fu? Why?" curiously!
+剃	Ti	4	shave	shave commands "Ti!" yells!
+涕	Ti	4	snot	snot commands "Ti!" yells!
+梯	Ti	1	ladder	ladder sings "Ti!" cheerfully!
+朽	Xiu	3	decayed	decayed bends down drooping saying "Xiu"!
+聘	Pin	4	employ	employ commands "Pin!" yells!
+犧	Xi	1	sacrifice	sacrifice sings "Xi!" cheerfully!
+姊	Zi	3	elder sister	elder sister bends down drooping saying "Zi"!
+躺	Tang	3	lie down	lie down bends down drooping saying "Tang"!
+躲	Duo	3	dodge	dodge bends down drooping saying "Duo"!
+躬	Gong	1	stoop	stoop sings "Gong!" cheerfully!
+嗜	Shi	4	hanker	hanker commands "Shi!" yells!
+拷	Kao	3	flog	flog bends down drooping saying "Kao"!
+暑	Shu	3	summer heat	summer heat bends down drooping saying "Shu"!
+睹	Du	3	behold	behold bends down drooping saying "Du"!
+賭	Du	3	gamble	gamble bends down drooping saying "Du"!
+奢	She	1	extravagant	extravagant sings "She!" cheerfully!
+堵	Du	3	stop up	stop up bends down drooping saying "Du"!
+煮	Zhu	3	boil	boil bends down drooping saying "Zhu"!
+諸	Zhu	1	various	various sings "Zhu!" cheerfully!
+儲	Chu	3	put in storage	put in storage bends down drooping saying "Chu"!
+屠	Tu	2	slaughter	slaughter questions "Tu? Why?" curiously!
+署	Shu	3	add your John Hancock	add your John Hancock bends down drooping saying "Shu"!
+薯	Shu	3	yam	yam bends down drooping saying "Shu"!
+歸	Gui	1	come back	come back sings "Gui!" cheerfully!
+篩	Shai	1	sift	sift sings "Shai!" cheerfully!
+棺	Guan	1	coffin	coffin sings "Guan!" cheerfully!
+爹	Die	1	dad	dad sings "Die!" cheerfully!
+斧	Fu	3	axe	axe bends down drooping saying "Fu"!
+咬	Yao	3	bite	bite bends down drooping saying "Yao"!
+狡	Jiao	3	sly	sly bends down drooping saying "Jiao"!
+趴	Pa	1	prostrate oneself	prostrate oneself sings "Pa!" cheerfully!
+踏	Ta	4	trample	trample commands "Ta!" yells!
+蹄	Ti	2	hoof	hoof questions "Ti? Why?" curiously!
+捉	Zhuo	1	catch	catch sings "Zhuo!" cheerfully!
+踩	Cai	3	step on	step on bends down drooping saying "Cai"!
+蹦	Beng	4	hop	hop commands "Beng!" yells!
+跌	Die	1	slump	slump sings "Die!" cheerfully!
+促	Cu	4	urge	urge commands "Cu!" yells!
+踢	Ti	1	kick	kick sings "Ti!" cheerfully!
+躁	Zao	4	impetuous	impetuous commands "Zao!" yells!
+噪	Zao	4	chirping	chirping commands "Zao!" yells!
+澡	Zao	3	bath	bath bends down drooping saying "Zao"!
+藻	Zao	3	algae	algae bends down drooping saying "Zao"!
+操	Cao	1	exercise	exercise sings "Cao!" cheerfully!
+燥	Zao	4	parched	parched commands "Zao!" yells!
+躍	Yue	4	leap	leap commands "Yue!" yells!
+戳	Chuo	1	jab	jab sings "Chuo!" cheerfully!
+耀	Yao	4	show off	show off commands "Yao!" yells!
+猾	Hua	2	cunning	cunning questions "Hua? Why?" curiously!
+髓	Sui	3	marrow	marrow bends down drooping saying "Sui"!
+髒	Zang	1	dirty	dirty sings "Zang!" cheerfully!
+渦	Wo	1	whirlpool	whirlpool sings "Wo!" cheerfully!
+鍋	Guo	1	pot	pot sings "Guo!" cheerfully!
+蝸	Wo	1	snail	snail sings "Wo!" cheerfully!
+禍	Huo	4	misfortune	misfortune commands "Huo!" yells!
+陌	Mo	4	footpath	footpath commands "Mo!" yells!
+隙	Xi	4	rift	rift commands "Xi!" yells!
+陡	Dou	3	steep	steep bends down drooping saying "Dou"!
+障	Zhang	4	barrier	barrier commands "Zhang!" yells!
+陪	Pei	2	accompany	accompany questions "Pei? Why?" curiously!
+隧	Sui	4	tunnel	tunnel commands "Sui!" yells!
+墜	Zhui	4	plunge	plunge commands "Zhui!" yells!
+陋	Lou	4	undesirable	undesirable commands "Lou!" yells!
+挖	Wa	1	dig	dig sings "Wa!" cheerfully!
+窯	Yao	2	kiln	kiln questions "Yao? Why?" curiously!
+窺	Kui	1	peep	peep sings "Kui!" cheerfully!
+窟	Ku	1	den	den sings "Ku!" cheerfully!
+窄	Zhai	3	strait	strait bends down drooping saying "Zhai"!
+榨	Zha	4	extract	extract commands "Zha!" yells!
+窘	Jiong	3	poverty-stricken	poverty-stricken bends down drooping saying "Jiong"!
+窮	Qiong	3	poor	poor bends down drooping saying "Qiong"!
+窩	Wo	1	hollow	hollow sings "Wo!" cheerfully!
+腔	Qiang	1	body cavity	body cavity sings "Qiang!" cheerfully!
+累	Lei	4	tired	tired commands "Lei!" yells!
+螺	Luo	2	spiral shell	spiral shell questions "Luo? Why?" curiously!
+紗	Sha	1	yarn	yarn sings "Sha!" cheerfully!
+綽	Chuo	4	ample	ample commands "Chuo!" yells!
+紹	Shao	4	acquaint	acquaint commands "Shao!" yells!
+絮	Xu	4	long-winded	long-winded commands "Xu!" yells!
+繞	Rao	4	go around	go around commands "Rao!" yells!
+紮	Za	1	bind	bind sings "Za!" cheerfully!
+綿	Mian	2	continuous	continuous questions "Mian? Why?" curiously!
+繪	Hui	4	paint	paint commands "Hui!" yells!
+絡	Luo	4	web	web commands "Luo!" yells!
+綢	Chou	2	silk fabric	silk fabric questions "Chou? Why?" curiously!
+絨	Rong	2	down	down questions "Rong? Why?" curiously!
+締	Di	4	conclude	conclude commands "Di!" yells!
+紫	Zi	3	purple	purple bends down drooping saying "Zi"!
+繁	Fan	2	numerous	numerous questions "Fan? Why?" curiously!
+紡	Fang	3	spin	spin bends down drooping saying "Fang"!
+繭	Jian	3	cocoon	cocoon bends down drooping saying "Jian"!
+纏	Chan	2	wind around	wind around questions "Chan? Why?" curiously!
+緻	Zhi	4	delicate	delicate commands "Zhi!" yells!
+繫	Ji	4	fasten	fasten commands "Ji!" yells!
+納	Na	4	let in	let in commands "Na!" yells!
+紛	Fen	1	disorderly	disorderly sings "Fen!" cheerfully!
+縮	Suo	1	shrink	shrink sings "Suo!" cheerfully!
+綜	Zong	1	sum up	sum up sings "Zong!" cheerfully!
+紳	Shen	1	gentry	gentry sings "Shen!" cheerfully!
+緣	Yuan	2	reason	reason questions "Yuan? Why?" curiously!
+緒	Xu	4	inception	inception commands "Xu!" yells!
+絞	Jiao	3	wring	wring bends down drooping saying "Jiao"!
+緩	Huan	3	unhurried	unhurried bends down drooping saying "Huan"!
+暖	Nuan	3	warm	warm bends down drooping saying "Nuan"!
+援	Yuan	2	provide assistance	provide assistance questions "Yuan? Why?" curiously!
+索	Suo	3	large rope	large rope bends down drooping saying "Suo"!
+勃	Bo	2	vibrant	vibrant questions "Bo? Why?" curiously!
+脖	Bo	2	head-hinge	head-hinge questions "Bo? Why?" curiously!
+繳	Jiao	3	shell out	shell out bends down drooping saying "Jiao"!
+邀	Yao	1	request the presence of	request the presence of sings "Yao!" cheerfully!
+繡	Xiu	4	embroidery	embroidery commands "Xiu!" yells!
+蘿	Luo	2	edible root	edible root questions "Luo? Why?" curiously!
+鑼	Luo	2	gong	gong questions "Luo? Why?" curiously!
+邏	Luo	2	make the rounds	make the rounds questions "Luo? Why?" curiously!
+籮	Luo	2	bamboo basket	bamboo basket questions "Luo? Why?" curiously!
+蠻	Man	2	barbaric	barbaric questions "Man? Why?" curiously!
+頸	Jing	3	neck	neck bends down drooping saying "Jing"!
+莖	Jing	1	plant stem	plant stem sings "Jing!" cheerfully!
+勁	Jing	4	powerful	powerful commands "Jing!" yells!
+徑	Jing	4	trail	trail commands "Jing!" yells!
+溪	Xi	1	creek	creek sings "Xi!" cheerfully!
+幼	You	4	young	young commands "You!" yells!
+幽	You	1	secluded	secluded sings "You!" cheerfully!
+濕	Shi	1	wet	wet sings "Shi!" cheerfully!
+玄	Xuan	2	mysterious	mysterious questions "Xuan? Why?" curiously!
+畜	Chu	4	livestock	livestock commands "Chu!" yells!
+蓄	Xu	4	save up	save up commands "Xu!" yells!
+牽	Qian	1	lead along	lead along sings "Qian!" cheerfully!
+弦	Xian	2	bowstring	bowstring questions "Xian? Why?" curiously!
+磁	Ci	2	magnetism	magnetism questions "Ci? Why?" curiously!
+滋	Zi	1	nourish	nourish sings "Zi!" cheerfully!
+慈	Ci	2	kindhearted	kindhearted questions "Ci? Why?" curiously!
+譏	Ji	1	deride	deride sings "Ji!" cheerfully!
+爍	Shuo	4	luminous	luminous commands "Shuo!" yells!
+遜	Xun	4	modest	modest commands "Xun!" yells!
+卸	Xie	4	unload	unload commands "Xie!" yells!
+御	Yu	4	imperial	imperial commands "Yu!" yells!
+禦	Yu	4	withstand	withstand commands "Yu!" yells!
+卵	Luan	3	nest eggs	nest eggs bends down drooping saying "Luan"!
+孵	Fu	1	hatch	hatch sings "Fu!" cheerfully!
+乳	Ru	3	breast	breast bends down drooping saying "Ru"!
+浮	Fu	2	float	float questions "Fu? Why?" curiously!
+俘	Fu	2	captive	captive questions "Fu? Why?" curiously!
+卿	Qing	1	minister	minister sings "Qing!" cheerfully!
+貿	Mao	4	trade	trade commands "Mao!" yells!
+榴	Liu	2	pomegranate	pomegranate questions "Liu? Why?" curiously!
+疑	Yi	2	doubt	doubt questions "Yi? Why?" curiously!
+礙	Ài	5	obstruct	obstruct says "Ài" neutrally!
+凝	Ning	2	congeal	congeal questions "Ning? Why?" curiously!
+擬	Ni	3	simulate	simulate bends down drooping saying "Ni"!
+玲	Ling	2	exquisite	exquisite questions "Ling? Why?" curiously!
+鈴	Ling	2	small bell	small bell questions "Ling? Why?" curiously!
+伶	Ling	2	actor	actor questions "Ling? Why?" curiously!
+嶺	Ling	3	mountain range	mountain range bends down drooping saying "Ling"!
+桶	Tong	3	bucket	bucket bends down drooping saying "Tong"!
+誦	Song	4	read aloud	read aloud commands "Song!" yells!
+湧	Yong	3	gush	gush bends down drooping saying "Yong"!
+踴	Yong	3	eagerly	eagerly bends down drooping saying "Yong"!
+卷	Juan	4	exam paper	exam paper commands "Juan!" yells!
+圈	Quan	1	circle	circle sings "Quan!" cheerfully!
+捲	Juan	3	roll up	roll up bends down drooping saying "Juan"!
+倦	Juan	4	worn out	worn out commands "Juan!" yells!
+範	Fan	4	model	model commands "Fan!" yells!
+怨	Yuan	4	resentment	resentment commands "Yuan!" yells!
+宛	Wan	3	winding	winding bends down drooping saying "Wan"!
+腕	Wan	4	wrist	wrist commands "Wan!" yells!
+婉	Wan	3	tactful	tactful bends down drooping saying "Wan"!
+碗	Wan	3	bowl	bowl bends down drooping saying "Wan"!
+詭	Gui	3	deceitful	deceitful bends down drooping saying "Gui"!
+跪	Gui	4	kneel	kneel commands "Gui!" yells!
+輿	Yu	2	popular	popular questions "Yu? Why?" curiously!
+酬	Chou	2	reward	reward questions "Chou? Why?" curiously!
+酌	Zhuo	2	pour wine	pour wine questions "Zhuo? Why?" curiously!
+酷	Ku	4	brutal	brutal commands "Ku!" yells!
+醇	Chun	2	mellow wine	mellow wine questions "Chun? Why?" curiously!
+醋	Cu	4	vinegar	vinegar commands "Cu!" yells!
+醉	Zui	4	drunk	drunk commands "Zui!" yells!
+粹	Cui	4	unmixed	unmixed commands "Cui!" yells!
+翠	Cui	4	emerald green	emerald green commands "Cui!" yells!
+碎	Sui	4	shattered	shattered commands "Sui!" yells!
+酸	Suan	1	sour	sour sings "Suan!" cheerfully!
+梭	Suo	1	shuttle	shuttle sings "Suo!" cheerfully!
+峻	Jun	4	lofty	lofty commands "Jun!" yells!
+俊	Jun	4	pretty	pretty commands "Jun!" yells!
+釁	Xin	4	quarrel	quarrel commands "Xin!" yells!
+醬	Jiang	4	thick sauce	thick sauce commands "Jiang!" yells!
+猶	You	2	just like	just like questions "You? Why?" curiously!
+奠	Dian	4	found	found commands "Dian!" yells!
+蹲	Dun	1	squat	squat sings "Dun!" cheerfully!
+逗	Dou	4	tease	tease commands "Dou!" yells!
+豈	Qi	3	(rhetorical question)	(rhetorical question) bends down drooping saying "Qi"!
+凱	Kai	3	triumphant	triumphant bends down drooping saying "Kai"!
+豎	Shu	4	perpendicular	perpendicular commands "Shu!" yells!
+嘉	Jia	1	commend	commend sings "Jia!" cheerfully!
+嘻	Xi	1	giggling	giggling sings "Xi!" cheerfully!
+盟	Meng	2	alliance	alliance questions "Meng? Why?" curiously!
+孟	Meng	4	Mencius	Mencius commands "Meng!" yells!
+猛	Meng	3	fierce	fierce bends down drooping saying "Meng"!
+盛	Sheng	4	flourishing	flourishing commands "Sheng!" yells!
+盞	Zhan	3	small cup	small cup bends down drooping saying "Zhan"!
+盒	He	2	small box	small box questions "He? Why?" curiously!
+盜	Dao	4	master thief	master thief commands "Dao!" yells!
+盪	Dang	4	swing	swing commands "Dang!" yells!
+寧	Ning	2	calm	calm questions "Ning? Why?" curiously!
+盈	Ying	2	replete	replete questions "Ying? Why?" curiously!
+盆	Pen	2	basin	basin questions "Pen? Why?" curiously!
+盃	Bei	1	trophy	trophy sings "Bei!" cheerfully!
+蘊	Yun	4	amass	amass commands "Yun!" yells!
+濫	Lan	4	indiscriminate	indiscriminate commands "Lan!" yells!
+鑑	Jian	4	probe	probe commands "Jian!" yells!
+尷	Gan	1	abashed	abashed sings "Gan!" cheerfully!
+尬	Ga	4	embarrassed	embarrassed commands "Ga!" yells!
+拋	Pao	1	toss	toss sings "Pao!" cheerfully!
+耽	Dan	1	indulge in	indulge in sings "Dan!" cheerfully!
+枕	Zhen	3	pillow	pillow bends down drooping saying "Zhen"!
+覽	Lan	3	view	view bends down drooping saying "Lan"!
+攬	Lan	3	take on	take on bends down drooping saying "Lan"!
+纜	Lan	3	cable	cable bends down drooping saying "Lan"!
+狠	Hen	3	ruthless	ruthless bends down drooping saying "Hen"!
+恨	Hen	4	hate	hate commands "Hen!" yells!
+爵	Jue	2	upper crust	upper crust questions "Jue? Why?" curiously!
+嚼	Jiao	2	chew	chew questions "Jiao? Why?" curiously!
+懇	Ken	3	wholeheartedly	wholeheartedly bends down drooping saying "Ken"!
+墾	Ken	3	reclaim	reclaim bends down drooping saying "Ken"!
+豹	Bao	4	leopard	leopard commands "Bao!" yells!
+貓	Mao	1	cat	cat sings "Mao!" cheerfully!
+貌	Mao	4	mien	mien commands "Mao!" yells!
+朗	Lang	3	lucent	lucent bends down drooping saying "Lang"!
+狼	Lang	2	wolf	wolf questions "Lang? Why?" curiously!
+飢	Ji	1	starving	starving sings "Ji!" cheerfully!
+饒	Rao	2	spare	spare questions "Rao? Why?" curiously!
+飾	Shi	4	ornaments	ornaments commands "Shi!" yells!
+飲	Yin	3	beverage	beverage bends down drooping saying "Yin"!
+蝕	Shi	2	eat away	eat away questions "Shi? Why?" curiously!
+飽	Bao	3	sated	sated bends down drooping saying "Bao"!
+饅	Man	2	bread	bread questions "Man? Why?" curiously!
+餅	Bing	3	cookie	cookie bends down drooping saying "Bing"!
+餃	Jiao	3	dumpling	dumpling bends down drooping saying "Jiao"!
+餓	È	5	hungry	hungry says "È" neutrally!
+潛	Qian	2	submerge	submerge questions "Qian? Why?" curiously!
+蠶	Can	2	silkworm	silkworm questions "Can? Why?" curiously!
+溉	Gai	4	irrigate	irrigate commands "Gai!" yells!
+慨	Kai	3	incensed	incensed bends down drooping saying "Kai"!
+萍	Ping	2	duckweed	duckweed questions "Ping? Why?" curiously!
+秤	Cheng	4	scale	scale commands "Cheng!" yells!
+淆	Yao	2	confuse	confuse questions "Yao? Why?" curiously!
+艾	Ài	5	Chinese mugwort	Chinese mugwort says "Ài" neutrally!
+哎	Āi	5	Good grief!	Good grief! says "Āi" neutrally!
+拔	Ba	2	pull out	pull out questions "Ba? Why?" curiously!
+攀	Pan	1	climb	climb sings "Pan!" cheerfully!
+屯	Tun	2	stockpile	stockpile questions "Tun? Why?" curiously!
+頓	Dun	4	pause	pause commands "Dun!" yells!
+噸	Dun (both work)	1	ton	ton sings "Dun (both work)!" cheerfully!
+純	Chun	2	unadulterated	unadulterated questions "Chun? Why?" curiously!
+屆	Jie	4	fall due	fall due commands "Jie!" yells!
+齒	Chi	3	teeth	teeth bends down drooping saying "Chi"!
+齣	Chu	1	shows	shows sings "Chu!" cheerfully!
+齡	Ling	2	length of service	length of service questions "Ling? Why?" curiously!
+洶	Xiong	1	turbulent	turbulent sings "Xiong!" cheerfully!
+籬	Li	2	fence	fence questions "Li? Why?" curiously!
+辜	Gu	1	crime	crime sings "Gu!" cheerfully!
+宰	Zai	3	butcher	butcher bends down drooping saying "Zai"!
+辨	Bian	4	differentiate	differentiate commands "Bian!" yells!
+辮	Bian	4	braid	braid commands "Bian!" yells!
+臂	Bi	4	arm	arm commands "Bi!" yells!
+劈	Pi	1	split	split sings "Pi!" cheerfully!
+譬	Pi	4	analogy	analogy commands "Pi!" yells!
+僻	Pi	4	out-of-the-way	out-of-the-way commands "Pi!" yells!
+譯	Yi	4	translate	translate commands "Yi!" yells!
+擇	Ze	2	select	select questions "Ze? Why?" curiously!
+澤	Ze	2	swamp	swamp questions "Ze? Why?" curiously!
+墊	Dian	4	pad	pad commands "Dian!" yells!
+摯	Zhi	4	earnest	earnest commands "Zhi!" yells!
+糾	Jiu	1	entangle	entangle sings "Jiu!" cheerfully!
+凌	Ling	2	bully	bully questions "Ling? Why?" curiously!
+菱	Ling	2	water caltrop	water caltrop questions "Ling? Why?" curiously!
+陵	Ling	2	mausoleum	mausoleum questions "Ling? Why?" curiously!
+咳	Ke	2	cough	cough questions "Ke? Why?" curiously!
+剎	Sha	1	brake	brake sings "Sha!" cheerfully!
+嚷	Rang	3	cry out	cry out bends down drooping saying "Rang"!
+釀	Niang	4	brew	brew commands "Niang!" yells!
+塞	Sai	4	stronghold	stronghold commands "Sai!" yells!
+寨	Zhai	4	stockade	stockade commands "Zhai!" yells!
+憲	Xian	4	constitution	constitution commands "Xian!" yells!
+晴	Qing	2	sunny	sunny questions "Qing? Why?" curiously!
+猜	Cai	1	guess	guess sings "Cai!" cheerfully!
+靖	Jing	4	pacify	pacify commands "Jing!" yells!
+債	Zhai	4	debt	debt commands "Zhai!" yells!
+蹟	Ji	1	remains	remains sings "Ji!" cheerfully!
+牲	Sheng	1	domestic animal	domestic animal sings "Sheng!" cheerfully!
+隆	Long	2	impressive	impressive questions "Long? Why?" curiously!
+腥	Xing	1	fishy smell	fishy smell sings "Xing!" cheerfully!
+猩	Xing	1	orangutan	orangutan sings "Xing!" cheerfully!
+醒	Xing	3	awaken	awaken bends down drooping saying "Xing"!
+瞎	Xia	1	visionless	visionless sings "Xia!" cheerfully!
+轄	Xia	2	administer	administer questions "Xia? Why?" curiously!
+契	Qi	4	contract	contract commands "Qi!" yells!
+拜	Bai	4	adore	adore commands "Bai!" yells!
+潔	Jie	2	spotless	spotless questions "Jie? Why?" curiously!
+蜂	Feng	1	bee	bee sings "Feng!" cheerfully!
+峰	Feng	1	peak	peak sings "Feng!" cheerfully!
+鋒	Feng	1	cutting edge	cutting edge sings "Feng!" cheerfully!
+逢	Feng	2	chance upon	chance upon questions "Feng? Why?" curiously!
+蓬	Peng	2	disheveled	disheveled questions "Peng? Why?" curiously!
+縫	Feng	2	sew	sew questions "Feng? Why?" curiously!
+奏	Zou	4	play an instrument	play an instrument commands "Zou!" yells!
+湊	Cou	4	gather together	gather together commands "Cou!" yells!
+秦	Qin	2	Qin	Qin questions "Qin? Why?" curiously!
+蠢	Chun	3	foolish	foolish bends down drooping saying "Chun"!
+捧	Peng	3	carry in both hands	carry in both hands bends down drooping saying "Peng"!
+嘆	Tan	4	sigh	sigh commands "Tan!" yells!
+艱	Jian	1	arduous	arduous sings "Jian!" cheerfully!
+灘	Tan	1	beach	beach sings "Tan!" cheerfully!
+畢	Bi	4	complete	complete commands "Bi!" yells!
+唾	Tuo	4	saliva	saliva commands "Tuo!" yells!
+吟	Yin	2	recite	recite questions "Yin? Why?" curiously!
+貪	Tan	1	greedy	greedy sings "Tan!" cheerfully!
+琴	Qin	2	stringed instrument	stringed instrument questions "Qin? Why?" curiously!
+栗	Li	4	chestnut	chestnut commands "Li!" yells!
+潭	Tan	2	deep pool	deep pool questions "Tan? Why?" curiously!
+遷	Qian	1	resituate	resituate sings "Qian!" cheerfully!
+覆	Fu	4	overturn	overturn commands "Fu!" yells!
+飄	Piao	1	flutter	flutter sings "Piao!" cheerfully!
+闆	Ban	3	boss	boss bends down drooping saying "Ban"!
+闊	Kuo	4	broad	broad commands "Kuo!" yells!
+閉	Bi	4	close	close commands "Bi!" yells!
+潤	Run	4	moisten	moisten commands "Run!" yells!
+閣	Ge	2	cabinet	cabinet questions "Ge? Why?" curiously!
+擱	Ge	1	put aside	put aside sings "Ge!" cheerfully!
+闡	Chan	3	explicate	explicate bends down drooping saying "Chan"!
+閱	Yue	4	peruse	peruse commands "Yue!" yells!
+悶	Men	1	stuffy	stuffy sings "Men!" cheerfully!
+閃	Shan	3	flash	flash bends down drooping saying "Shan"!
+閥	Fa	2	valve	valve questions "Fa? Why?" curiously!
+閘	Zha	2	floodgate	floodgate questions "Zha? Why?" curiously!
+闢	Pi	4	repudiate	repudiate commands "Pi!" yells!
+蒼	Cang	1	ash-colored	ash-colored sings "Cang!" cheerfully!
+搶	Qiang	3	rob	rob bends down drooping saying "Qiang"!
+菲	Fei	3	humble	humble bends down drooping saying "Fei"!
+輩	Bei	4	lifetime	lifetime commands "Bei!" yells!
+悲	Bei	1	sad	sad sings "Bei!" cheerfully!
+徘	Pai	2	irresolute	irresolute questions "Pai? Why?" curiously!
+殲	Jian	1	annihilate	annihilate sings "Jian!" cheerfully!
+籤	Qian	1	bamboo slip	bamboo slip sings "Qian!" cheerfully!
+纖	Xian	1	fiber	fiber sings "Xian!" cheerfully!
+喉	Hou	2	gullet	gullet questions "Hou? Why?" curiously!
+猴	Hou	2	monkey	monkey questions "Hou? Why?" curiously!
+韓	Han	2	Korea	Korea questions "Han? Why?" curiously!
+違	Wei	2	disobey	disobey questions "Wei? Why?" curiously!
+緯	Wei	3	latitude	latitude bends down drooping saying "Wei"!
+竿	Gan	1	pole	pole sings "Gan!" cheerfully!
+罕	Han	3	rarely	rarely bends down drooping saying "Han"!
+軒	Xuan	1	veranda	veranda sings "Xuan!" cheerfully!
+肝	Gan	1	liver	liver sings "Gan!" cheerfully!
+刊	Kan	1	publication	publication sings "Kan!" cheerfully!
+汗	Han	4	sweat	sweat commands "Han!" yells!
+桿	Gan	3	shaft	shaft bends down drooping saying "Gan"!
+悍	Han	4	bold	bold commands "Han!" yells!
+徐	Xu	2	slowly	slowly questions "Xu? Why?" curiously!
+敘	Xu	4	recount	recount commands "Xu!" yells!
+塗	Tu	2	smear	smear questions "Tu? Why?" curiously!
+斜	Xie	2	slanting	slanting questions "Xie? Why?" curiously!
+喇	La	3	flared horn	flared horn bends down drooping saying "La"!
+嗽	Sou	4	hack	hack commands "Sou!" yells!
+賴	Lai	4	rely on	rely on commands "Lai!" yells!
+懶	Lan	3	lazy	lazy bends down drooping saying "Lan"!
+嫩	Nen	4	tender	tender commands "Nen!" yells!
+煉	Lian	4	refine	refine commands "Lian!" yells!
+鍊	Lian	4	chain	chain commands "Lian!" yells!
+腫	Zhong	3	swollen	swollen bends down drooping saying "Zhong"!
+董	Dong	3	director	director bends down drooping saying "Dong"!
+鍾	Zhong	1	draw together	draw together sings "Zhong!" cheerfully!
+痰	Tan	2	phlegm	phlegm questions "Tan? Why?" curiously!
+症	Zheng	4	disease	disease commands "Zheng!" yells!
+疼	Teng	2	hurt	hurt questions "Teng? Why?" curiously!
+癒	Yu	4	get well	get well commands "Yu!" yells!
+疫	Yi	4	epidemic	epidemic commands "Yi!" yells!
+癌	Ái	5	cancer	cancer says "Ái" neutrally!
+疲	Pi	2	fatigued	fatigued questions "Pi? Why?" curiously!
+疾	Ji	2	rapid	rapid questions "Ji? Why?" curiously!
+痴	Chi	1	idiotic	idiotic sings "Chi!" cheerfully!
+瘤	Liu	2	tumor	tumor questions "Liu? Why?" curiously!
+痕	Hen	2	trace	trace questions "Hen? Why?" curiously!
+癢	Yang	3	itch	itch bends down drooping saying "Yang"!
+癱	Tan	1	paralysis	paralysis sings "Tan!" cheerfully!
+瘡	Chuang	1	sore	sore sings "Chuang!" cheerfully!
+穩	Wen	3	stable	stable bends down drooping saying "Wen"!
+隱	Yin	3	hidden	hidden bends down drooping saying "Yin"!
+癮	Yin	3	addiction	addiction bends down drooping saying "Yin"!
+巨	Ju	4	gigantic	gigantic commands "Ju!" yells!
+渠	Qu	2	canal	canal questions "Qu? Why?" curiously!
+拒	Ju	4	refuse	refuse commands "Ju!" yells!
+矩	Ju	3	square	square bends down drooping saying "Ju"!
+距	Ju	4	distance	distance commands "Ju!" yells!
+框	Kuang	4	rectangular frame	rectangular frame commands "Kuang!" yells!
+筐	Kuang	1	rectangular basket	rectangular basket sings "Kuang!" cheerfully!
+砸	Za	2	smash	smash questions "Za? Why?" curiously!
+匯	Hui	4	converge	converge commands "Hui!" yells!
+匠	Jiang	4	artisan	artisan commands "Jiang!" yells!
+匪	Fei	3	bandit	bandit bends down drooping saying "Fei"!
+匿	Ni	4	keep out of sight	keep out of sight commands "Ni!" yells!
+兜	Dou	1	pocket	pocket sings "Dou!" cheerfully!
+嘔	Ǒu	5	vomit	vomit says "Ǒu" neutrally!
+毆	Ōu	5	hit	hit says "Ōu" neutrally!
+軀	Qu	1	human body	human body sings "Qu!" cheerfully!
+昂	Áng	5	hold one's head high	hold one's head high says "Áng" neutrally!
+抑	Yi	4	curb	curb commands "Yi!" yells!
+葵	Kui	2	large-flowered plants	large-flowered plants questions "Kui? Why?" curiously!
+僚	Liao	2	coworker	coworker questions "Liao? Why?" curiously!
+遼	Liao	2	far away	far away questions "Liao? Why?" curiously!
+瞭	Liao3	5	comprehend	comprehend says "Liao3" neutrally!
+療	Liao	2	cure	cure questions "Liao? Why?" curiously!
+瞪	Deng	4	glare	glare commands "Deng!" yells!
+凳	Deng	4	bench	bench commands "Deng!" yells!
+澄	Cheng	2	transparent	transparent questions "Cheng? Why?" curiously!
+潑	Po	1	splash	splash sings "Po!" cheerfully!
+撥	Bo	1	allocate	allocate sings "Bo!" cheerfully!
+杉	Chan	1	fir tree	fir tree sings "Chan!" cheerfully!
+彬	Bin	1	well-mannered	well-mannered sings "Bin!" cheerfully!
+衫	Shan	1	shirt	shirt sings "Shan!" cheerfully!
+彰	Zhang	1	manifest	manifest sings "Zhang!" cheerfully!
+膨	Peng	2	puffy	puffy questions "Peng? Why?" curiously!
+趁	Chen	4	take advantage of	take advantage of commands "Chen!" yells!
+診	Zhen	3	diagnose	diagnose bends down drooping saying "Zhen"!
+滲	Shen	4	seep	seep commands "Shen!" yells!
+膠	Jiao	1	gum	gum sings "Jiao!" cheerfully!
+謬	Miu	4	wrong	wrong commands "Miu!" yells!
+寥	Liao	2	deserted	deserted questions "Liao? Why?" curiously!
+斑	Ban	1	speck	speck sings "Ban!" cheerfully!
+紋	Wen	2	design	design questions "Wen? Why?" curiously!
+鏟	Chan	3	small shovel	small shovel bends down drooping saying "Chan"!
+薩	Sa	4	Samoa	Samoa commands "Sa!" yells!
+脊	Ji	3	backbone	backbone bends down drooping saying "Ji"!
+函	Han	2	letter	letter questions "Han? Why?" curiously!
+涵	Han	2	culvert	culvert questions "Han? Why?" curiously!
+映	Ying	4	reflect	reflect commands "Ying!" yells!
+殃	Yang	1	calamity	calamity sings "Yang!" cheerfully!
+肥	Fei	2	plump	plump questions "Fei? Why?" curiously!
+爬	Pa	2	crawl	crawl questions "Pa? Why?" curiously!
+疤	Ba	1	scar	scar sings "Ba!" cheerfully!
+艷	Yan	4	gorgeous	gorgeous commands "Yan!" yells!
+甜	Tian	2	sugary	sugary questions "Tian? Why?" curiously!
+鉗	Qian	2	pliers	pliers questions "Qian? Why?" curiously!
+媒	Mei	2	matchmaker	matchmaker questions "Mei? Why?" curiously!
+煤	Mei	2	coal	coal questions "Mei? Why?" curiously!
+謀	Mou	2	scheme	scheme questions "Mou? Why?" curiously!
+棋	Qi	2	chess	chess questions "Qi? Why?" curiously!
+欺	Qi	1	dupe	dupe sings "Qi!" cheerfully!
+旗	Qi	2	flag	flag questions "Qi? Why?" curiously!
+嘶	Si	1	hoarse	hoarse sings "Si!" cheerfully!
+撕	Si	1	rip	rip sings "Si!" cheerfully!
+堪	Kan	1	tolerate	tolerate sings "Kan!" cheerfully!
+勘	Kan	1	survey	survey sings "Kan!" cheerfully!
+遣	Qian	3	dispatch	dispatch bends down drooping saying "Qian"!
+譴	Qian	3	censure	censure bends down drooping saying "Qian"!
+囊	Nang	2	sack	sack questions "Nang? Why?" curiously!
+潰	Kui	4	burst	burst commands "Kui!" yells!
+櫃	Gui	4	cupboard	cupboard commands "Gui!" yells!
+宜	Yi	5	fitting	fitting says "Yi" neutrally!
+誼	Yi	4	friendship	friendship commands "Yi!" yells!
+租	Zu	1	rent	rent sings "Zu!" cheerfully!
+粗	Cu	1	coarse	coarse sings "Cu!" cheerfully!
+阻	Zu	3	block	block bends down drooping saying "Zu"!
+疊	Die	2	heap	heap questions "Die? Why?" curiously!
+壘	Lei	3	baseball base	baseball base bends down drooping saying "Lei"!
+鋤	Chu	2	hoe	hoe questions "Chu? Why?" curiously!
+叢	Cong	2	thicket	thicket questions "Cong? Why?" curiously!
+樸	Pu	3	plain	plain bends down drooping saying "Pu"!
+撲	Pu	1	pounce on	pounce on sings "Pu!" cheerfully!
+僕	Pu	2	servant	servant questions "Pu? Why?" curiously!
+譜	Pu	3	musical score	musical score bends down drooping saying "Pu"!
+哄	Hong	1	fool	fool sings "Hong!" cheerfully!
+洪	Hong	2	deluge	deluge questions "Hong? Why?" curiously!
+烘	Hong	1	warm by a fire	warm by a fire sings "Hong!" cheerfully!
+恭	Gong	1	respectful	respectful sings "Gong!" cheerfully!
+拱	Gong	3	arch	arch bends down drooping saying "Gong"!
+暴	Bao	4	violent	violent commands "Bao!" yells!
+瀑	Pu	4	waterfall	waterfall commands "Pu!" yells!
+爆	Bao	4	explode	explode commands "Bao!" yells!
+殿	Dian	4	ceremonial hall	ceremonial hall commands "Dian!" yells!
+戴	Dai	4	have on	have on commands "Dai!" yells!
+翼	Yi	4	wings	wings commands "Yi!" yells!
+糞	Fen	4	dung	dung commands "Fen!" yells!
+撰	Zhuan	4	compose	compose commands "Zhuan!" yells!
+啞	Ya	3	mute	mute bends down drooping saying "Ya"!
+壺	Hu	2	kettle	kettle questions "Hu? Why?" curiously!
+蟹	Xie	4	crab	crab commands "Xie!" yells!
+懈	Xie	4	lax	lax commands "Xie!" yells!
+購	Gou	4	purchase	purchase commands "Gou!" yells!
+溝	Gou	1	ditch	ditch sings "Gou!" cheerfully!
+鑰	Yao/yue (literary)	4	key	key commands "Yao/yue (literary)!" yells!
+籲	Yu	4	plead	plead commands "Yu!" yells!
+冊	Ce	4	Vol.	Vol. commands "Ce!" yells!
+刪	Shan	1	delete	delete sings "Shan!" cheerfully!
+柵	Zha (correct despite tts)	4	palisade	palisade commands "Zha (correct despite tts)!" yells!
+珊	Shan	1	coral	coral sings "Shan!" cheerfully!
+遍	Bian	4	everywhere	everywhere commands "Bian!" yells!
+偏	Pian	1	partial	partial sings "Pian!" cheerfully!
+淪	Lun	2	sink	sink questions "Lun? Why?" curiously!
+倫	Lun	2	human relationships	human relationships questions "Lun? Why?" curiously!
+抵	Di	3	resist	resist bends down drooping saying "Di"!
+氓	Mang	2	hoodlum	hoodlum questions "Mang? Why?" curiously!
+哺	Bu	3	breastfeed	breastfeed bends down drooping saying "Bu"!
+鋪	Pu	4	shop	shop commands "Pu!" yells!
+輔	Fu	3	supplement	supplement bends down drooping saying "Fu"!
+捕	Bu	3	capture	capture bends down drooping saying "Bu"!
+敷	Fu	1	apply	apply sings "Fu!" cheerfully!
+浦	Pu	3	river mouth	river mouth bends down drooping saying "Pu"!
+蒲	Pu	2	cattail	cattail questions "Pu? Why?" curiously!
+薄	Bo	2	slight	slight questions "Bo? Why?" curiously!
+簿	Bu	4	register	register commands "Bu!" yells!
+傅	Fu	4	mentor	mentor commands "Fu!" yells!
+縛	Fu	4	bind fast	bind fast commands "Fu!" yells!
+郭	Guo	1	outer walls	outer walls sings "Guo!" cheerfully!
+廓	Kuo	4	limitless	limitless commands "Kuo!" yells!
+鄙	Bi	3	despicable	despicable bends down drooping saying "Bi"!
+耶	Ye	1	Jerusalem	Jerusalem sings "Ye!" cheerfully!
+爺	Ye	2	grandfather	grandfather questions "Ye? Why?" curiously!
+郊	Jiao	1	outskirts	outskirts sings "Jiao!" cheerfully!
+邦	Bang	1	nation	nation sings "Bang!" cheerfully!
+綁	Bang	3	truss	truss bends down drooping saying "Bang"!
+郵	You	2	post	post questions "You? Why?" curiously!
+鄧	Deng	4	Deng	Deng commands "Deng!" yells!
+擲	Zhi	4	hurl	hurl commands "Zhi!" yells!
+廊	Lang	2	hallway	hallway questions "Lang? Why?" curiously!
+擁	Yong	1	hug	hug sings "Yong!" cheerfully!
+緞	Duan	4	satin	satin commands "Duan!" yells!
+刁	Diao	1	wily	wily sings "Diao!" cheerfully!
+叼	Diao	1	hold in the mouth	hold in the mouth sings "Diao!" cheerfully!
+殷	Yin1	5	ardent	ardent says "Yin1" neutrally!
+壽	Shou	4	longevity	longevity commands "Shou!" yells!
+濤	Tao (tone one meaning wave)	1	large waves	large waves sings "Tao (tone one meaning wave)!" cheerfully!
+鑄	Zhu	4	cast	cast commands "Zhu!" yells!
+禱	Dao	3	pray	pray bends down drooping saying "Dao"!
+籌	Chou	2	make arrangements	make arrangements questions "Chou? Why?" curiously!
+伺	Ci	4	attend to	attend to commands "Ci!" yells!
+飼	Si	4	rear	rear commands "Si!" yells!
+舶	Bo	2	liner	liner questions "Bo? Why?" curiously!
+航	Hang	2	navigate	navigate questions "Hang? Why?" curiously!
+艇	Ting	3	light boat	light boat bends down drooping saying "Ting"!
+艦	Jian	4	warship	warship commands "Jian!" yells!
+艙	Cang	1	ship's cabin	ship's cabin sings "Cang!" cheerfully!
+沿	Yan	2	along	along questions "Yan? Why?" curiously!
+鉛	Qian	1	lead	lead sings "Qian!" cheerfully!
+狐	Hu	2	fox	fox questions "Hu? Why?" curiously!
+瓣	Ban	4	petal	petal commands "Ban!" yells!
+溢	Yi	4	brim over	brim over commands "Yi!" yells!
+暇	Xia	2	spare time	spare time questions "Xia? Why?" curiously!
+霞	Xia	2	red sky	red sky questions "Xia? Why?" curiously!
+氧	Yang	3	oxygen	oxygen bends down drooping saying "Yang"!
+氛	Fen	1	atmosphere	atmosphere sings "Fen!" cheerfully!
+氯	Lu	4	chlorine	chlorine commands "Lu!" yells!
+氫	Qing	1	hydrogen	hydrogen sings "Qing!" cheerfully!
+鞏	Gong	3	strengthen	strengthen bends down drooping saying "Gong"!
+霸	Ba	4	tyrant	tyrant commands "Ba!" yells!
+壩	Ba	4	dam	dam commands "Ba!" yells!
+勒	Le	4	tighten	tighten commands "Le!" yells!
+鞠	Ju	1	bow respectfully	bow respectfully sings "Ju!" cheerfully!
+靴	Xue	1	boots	boots sings "Xue!" cheerfully!
+鞭	Bian	1	whip	whip sings "Bian!" cheerfully!
+芽	Ya	2	sprout	sprout questions "Ya? Why?" curiously!
+訝	Ya	4	suprised	suprised commands "Ya!" yells!
+撐	Cheng	1	prop up	prop up sings "Cheng!" cheerfully!
+雅	Ya	3	polished	polished bends down drooping saying "Ya"!
+邪	Xie	2	wicked	wicked questions "Xie? Why?" curiously!
+奧	Ào	5	of great depth	of great depth says "Ào" neutrally!
+澳	Ào	5	deep inlet	deep inlet says "Ào" neutrally!
+懊	Ào	5	remorseful	remorseful says "Ào" neutrally!
+悉	Xi	1	be informed	be informed sings "Xi!" cheerfully!
+竊	Qie	4	pilfer	pilfer commands "Qie!" yells!
+審	Shen	3	painstaking	painstaking bends down drooping saying "Shen"!
+嬸	Shen	3	auntie	auntie bends down drooping saying "Shen"!
+毯	Tan	3	blanket	blanket bends down drooping saying "Tan"!
+毫	Hao	2	milli-	milli- questions "Hao? Why?" curiously!
+耗	Hao	4	consume	consume commands "Hao!" yells!
+耕	Geng	1	till	till sings "Geng!" cheerfully!
+籍	Ji	2	records	records questions "Ji? Why?" curiously!
+藉	Jie	4	excuse	excuse commands "Jie!" yells!
+托	Tuo	1	hold up	hold up sings "Tuo!" cheerfully!
+畏	Wei	4	be afraid of	be afraid of commands "Wei!" yells!
+喂	Wei	4	Hello...	Hello... commands "Wei!" yells!
+脹	Zhang	4	bloated	bloated commands "Zhang!" yells!
+帳	Zhang	4	tent	tent commands "Zhang!" yells!
+肆	Si	4	IV	IV commands "Si!" yells!
+鬍	Hu	2	beard	beard questions "Hu? Why?" curiously!
+鬆	Song	1	loose	loose sings "Song!" cheerfully!
+鵬	Peng	2	roc	roc questions "Peng? Why?" curiously!
+鳴	Ming	2	twitter	twitter questions "Ming? Why?" curiously!
+鴻	Hong	2	swan	swan questions "Hong? Why?" curiously!
+鴿	Ge	1	pigeon	pigeon sings "Ge!" cheerfully!
+鶴	He	4	crane	crane commands "He!" yells!
+鶯	Ying	1	oriole	oriole sings "Ying!" cheerfully!
+鵲	Que	4	magpie	magpie commands "Que!" yells!
+鷗	Ōu	5	gull	gull says "Ōu" neutrally!
+鴉	Ya	1	raven	raven sings "Ya!" cheerfully!
+鵝	É	5	goose	goose says "É" neutrally!
+烏	Wu	1	crow	crow sings "Wu!" cheerfully!
+嗚	Wu	1	zoom-zoom	zoom-zoom sings "Wu!" cheerfully!
+搗	Dao	3	pound with a pestle	pound with a pestle bends down drooping saying "Dao"!
+寓	Yu	4	residence	residence commands "Yu!" yells!
+愚	Yu	2	pea-brained	pea-brained questions "Yu? Why?" curiously!
+偶	Ǒu	5	by chance	by chance says "Ǒu" neutrally!
+厲	Li	4	stern	stern commands "Li!" yells!
+勵	Li	4	encourage	encourage commands "Li!" yells!
+鋼	Gang	1	steel	steel sings "Gang!" cheerfully!
+崗	Gang	1	hillock	hillock sings "Gang!" cheerfully!
+綱	Gang	1	guidelines	guidelines sings "Gang!" cheerfully!
+逆	Ni	4	go against	go against commands "Ni!" yells!
+溯	Su	4	go upstream	go upstream commands "Su!" yells!
+塑	Su	4	plastic	plastic commands "Su!" yells!
+缸	Gang	1	vat	vat sings "Gang!" cheerfully!
+罐	Guan	4	jar	jar commands "Guan!" yells!
+鬱	Yu	4	depressed	depressed commands "Yu!" yells!
+鹽	Yan	2	salt	salt questions "Yan? Why?" curiously!
+鹹	Xian	2	salty	salty questions "Xian? Why?" curiously!
+掏	Tao	1	draw out	draw out sings "Tao!" cheerfully!
+淘	Tao	2	wash in a container	wash in a container questions "Tao? Why?" curiously!
+陶	Tao	2	pottery	pottery questions "Tao? Why?" curiously!
+謠	Yao	2	rumor	rumor questions "Yao? Why?" curiously!
+冤	Yuan	1	injustice	injustice sings "Yuan!" cheerfully!
+饞	Chan	2	gluttonous	gluttonous questions "Chan? Why?" curiously!
+挽	Wan	3	tow	tow bends down drooping saying "Wan"!
+勉	Mian	3	strive	strive bends down drooping saying "Mian"!
+橡	Xiang	4	rubber tree	rubber tree commands "Xiang!" yells!
+豫	Yu	4	pleased	pleased commands "Yu!" yells!
+騰	Teng	2	take flight	take flight questions "Teng? Why?" curiously!
+碼	Ma	3	numeral	numeral bends down drooping saying "Ma"!
+馴	Xun	2	tame	tame questions "Xun? Why?" curiously!
+瑪	Ma	3	Mary	Mary bends down drooping saying "Ma"!
+駐	Zhu	4	be stationed	be stationed commands "Zhu!" yells!
+驕	Jiao	1	arrogant	arrogant sings "Jiao!" cheerfully!
+馳	Chi	2	gallop	gallop questions "Chi? Why?" curiously!
+螞	Ma	3	leech-hopper	leech-hopper bends down drooping saying "Ma"!
+憑	Ping	2	proof	proof questions "Ping? Why?" curiously!
+駛	Shi	3	maneuver	maneuver bends down drooping saying "Shi"!
+騷	Sao	1	disturb	disturb sings "Sao!" cheerfully!
+駕	Jia	4	drive	drive commands "Jia!" yells!
+騾	Luo	2	mule	mule questions "Luo? Why?" curiously!
+駁	Bo	2	refute	refute questions "Bo? Why?" curiously!
+闖	Chuang	3	rush	rush bends down drooping saying "Chuang"!
+驅	Qu	1	drive away	drive away sings "Qu!" cheerfully!
+騙	Pian	4	cheat	cheat commands "Pian!" yells!
+驟	Zhou	4	trot	trot commands "Zhou!" yells!
+遞	Di	4	hand over	hand over commands "Di!" yells!
+虜	Lu	3	take captive	take captive bends down drooping saying "Lu"!
+虐	Nüe	4	despotic	despotic commands "Nüe!" yells!
+膚	Fu	1	skin	skin sings "Fu!" cheerfully!
+盧	Lu	2	Louvre	Louvre questions "Lu? Why?" curiously!
+爐	Lu	2	stove	stove questions "Lu? Why?" curiously!
+蘆	Lu	2	reeds	reeds questions "Lu? Why?" curiously!
+驢	Lu	2	donkey	donkey questions "Lu? Why?" curiously!
+虧	Kui	1	loss	loss sings "Kui!" cheerfully!
+污	Wu	1	filthy	filthy sings "Wu!" cheerfully!
+愕	È	5	stunned	stunned says "È" neutrally!
+誇	Kua	1	brag	brag sings "Kua!" cheerfully!
+垮	Kua	3	collapse	collapse bends down drooping saying "Kua"!
+跨	Kua	4	straddle	straddle commands "Kua!" yells!
+獻	Xian	4	donate	donate commands "Xian!" yells!
+融	Rong	2	melt	melt questions "Rong? Why?" curiously!
+隔	Ge	2	separate	separate questions "Ge? Why?" curiously!
+濾	Lu	4	filter	filter commands "Lu!" yells!
+慶	Qing	4	celebrate	celebrate commands "Qing!" yells!
+薦	Jian	4	recommend	recommend commands "Jian!" yells!
+傑	Jie	2	outstanding	outstanding questions "Jie? Why?" curiously!
+瞬	Shun	4	instant	instant commands "Shun!" yells!
+麟	Lin	2	Chinese unicorn	Chinese unicorn questions "Lin? Why?" curiously!
+憐	Lian	2	pity	pity questions "Lian? Why?" curiously!
+鄰	Lin	2	neighbor	neighbor questions "Lin? Why?" curiously!
+曬	Shai	4	bask	bask commands "Shai!" yells!
+灑	Sa	3	spill	spill bends down drooping saying "Sa"!
+罷	Ba	4	cease	cease commands "Ba!" yells!
+擺	Bai	3	put in order	put in order bends down drooping saying "Bai"!
+唇	Chun	2	lips	lips questions "Chun? Why?" curiously!
+辱	Ru	3	disgrace	disgrace bends down drooping saying "Ru"!
+震	Zhen	4	quake	quake commands "Zhen!" yells!
+振	Zhen	4	vibrate	vibrate commands "Zhen!" yells!
+魄	Po	4	vigor	vigor commands "Po!" yells!
+槐	Huai	2	scholar tree	scholar tree questions "Huai? Why?" curiously!
+魅	Mei	4	enchant	enchant commands "Mei!" yells!
+瑰	Gui	1	marvelous	marvelous sings "Gui!" cheerfully!
+魂	Hun	2	soul	soul questions "Hun? Why?" curiously!
+愧	Kui	4	ashamed	ashamed commands "Kui!" yells!
+魁	Kui	2	leader	leader questions "Kui? Why?" curiously!
+醜	Chou	3	ugly	ugly bends down drooping saying "Chou"!
+壟	Long	3	raised path between fields	raised path between fields bends down drooping saying "Long"!
+寵	Chong	3	dote on	dote on bends down drooping saying "Chong"!
+龐	Pang	2	huge	huge questions "Pang? Why?" curiously!
+攏	Long	3	draw near	draw near bends down drooping saying "Long"!
+聾	Long	2	deaf	deaf questions "Long? Why?" curiously!
+籠	Long	2	cage	cage questions "Long? Why?" curiously!
+插	Cha	1	insert	insert sings "Cha!" cheerfully!
+毀	Hui	3	ruin	ruin bends down drooping saying "Hui"!
+舅	Jiu	4	mother's brother	mother's brother commands "Jiu!" yells!
+樁	Zhuang	1	stake	stake sings "Zhuang!" cheerfully!
+鑿	Zao	2	bore a hole	bore a hole questions "Zao? Why?" curiously!
+鼠	Shu	3	mouse	mouse bends down drooping saying "Shu"!
+竄	Cuan	4	scurry	scurry commands "Cuan!" yells!
+臘	La	4	dried meat	dried meat commands "La!" yells!
+蠟	La	4	wax	wax commands "La!" yells!
+獵	Lie	4	hunt	hunt commands "Lie!" yells!
+艘	Sou	1	vessels	vessels sings "Sou!" cheerfully!
+嫂	Sao	3	elder brother's wife	elder brother's wife bends down drooping saying "Sao"!
+瘦	Shou	4	emaciated	emaciated commands "Shou!" yells!
+搜	Sou	1	search	search sings "Sou!" cheerfully!
+稻	Dao	4	unhulled rice	unhulled rice commands "Dao!" yells!
+蹈	Dao	3	tread	tread bends down drooping saying "Dao"!
+滔	Tao	1	surging	surging sings "Tao!" cheerfully!
+陷	Xian	4	get stuck	get stuck commands "Xian!" yells!
+焰	Yan	4	flame	flame commands "Yan!" yells!
+餡	Xian	4	flilling	flilling commands "Xian!" yells!
+輛	Liang	4	vehicles	vehicles commands "Liang!" yells!
+瞞	Man	2	dissemble	dissemble questions "Man? Why?" curiously!
+爽	Shuang	3	frank	frank bends down drooping saying "Shuang"!
+綴	Zhui	4	embellish	embellish commands "Zhui!" yells!
+碰	Peng	4	bump	bump commands "Peng!" yells!
+挪	Nuo	2	transfer	transfer questions "Nuo? Why?" curiously!
+誣	Wu	1	charge falsely	charge falsely sings "Wu!" cheerfully!
+譽	Yu	4	reputation	reputation commands "Yu!" yells!
+嶼	Yu	3	islet	islet bends down drooping saying "Yu"!
+傻	Sha	3	thick-headed	thick-headed bends down drooping saying "Sha"!
+磚	Zhuan	1	brick	brick sings "Zhuan!" cheerfully!
+惠	Hui	4	favor	favor commands "Hui!" yells!
+穗	Sui	4	ear of grain	ear of grain commands "Sui!" yells!
+曠	Kuang	4	expansive	expansive commands "Kuang!" yells!
+礦	Kuang	4	mine	mine commands "Kuang!" yells!
+擴	Kuo	4	enlarge	enlarge commands "Kuo!" yells!
+聰	Cong	1	smart	smart sings "Cong!" cheerfully!
+蔥	Cong	1	onion	onion sings "Cong!" cheerfully!
+膽	Dan	3	gall bladder	gall bladder bends down drooping saying "Dan"!
+瞻	Zhan	1	look upward	look upward sings "Zhan!" cheerfully!
+摟	Lou	3	cuddle	cuddle bends down drooping saying "Lou"!
+屢	Lu	3	time and again	time and again bends down drooping saying "Lu"!
+濁	Zhuo	2	turbid	turbid questions "Zhuo? Why?" curiously!
+燭	Zhu	2	candle	candle questions "Zhu? Why?" curiously!
+觸	Chu	4	touch	touch commands "Chu!" yells!
+囑	Zhu	3	admonish	admonish bends down drooping saying "Zhu"!
+欄	Lan	2	railing	railing questions "Lan? Why?" curiously!
+攔	Lan	2	impede	impede questions "Lan? Why?" curiously!
+蹤	Zong	1	tracks	tracks sings "Zong!" cheerfully!
+聳	Song	3	shrug	shrug bends down drooping saying "Song"!
+劑	Ji	4	pharmaceutical	pharmaceutical commands "Ji!" yells!
+齋	Zhai	1	abstain from food	abstain from food sings "Zhai!" cheerfully!
+擠	Ji	3	squeeze	squeeze bends down drooping saying "Ji"!
+鈕	Niu	3	push button	push button bends down drooping saying "Niu"!
+羞	Xiu	1	shy	shy sings "Xiu!" cheerfully!
+紐	Niu	3	New York	New York bends down drooping saying "Niu"!
+脾	Pi	2	spleen	spleen questions "Pi? Why?" curiously!
+啤	Pi	2	beer	beer questions "Pi? Why?" curiously!
+碑	Bei	1	stele	stele sings "Bei!" cheerfully!
+赫	He	4	illustrious	illustrious commands "He!" yells!
+嚇	Xia	4	terrify	terrify commands "Xia!" yells!
+奕	Yi	4	radiating vitality	radiating vitality commands "Yi!" yells!
+跡	Ji	4	indication	indication commands "Ji!" yells!
+辭	Ci	2	phraseology	phraseology questions "Ci? Why?" curiously!
+龜	Gui	1	tortoise	tortoise sings "Gui!" cheerfully!
+繩	Sheng	2	rope	rope questions "Sheng? Why?" curiously!
+蠅	Ying	2	flies	flies questions "Ying? Why?" curiously!
+蝴	Hu	2	butterfly (front end)	butterfly (front end) questions "Hu? Why?" curiously!
+蝶	Die	2	butterfly (back end)	butterfly (back end) questions "Die? Why?" curiously!
+蜘	Zhi	1	spider (front end)	spider (front end) sings "Zhi!" cheerfully!
+蛛	Zhu	1	spider (back end)	spider (back end) sings "Zhu!" cheerfully!
+駱	Luo	4	camel (front end)	camel (front end) commands "Luo!" yells!
+駝	Tuo	2	camel (back end)	camel (back end) questions "Tuo? Why?" curiously!
+蜻	Qing	1	dragonfly (front end)	dragonfly (front end) sings "Qing!" cheerfully!
+蜓	Ting	2	dragonfly (back end)	dragonfly (back end) questions "Ting? Why?" curiously!
+鳳	Feng	4	male phoenix	male phoenix commands "Feng!" yells!
+凰	Huang	2	female phoenix	female phoenix questions "Huang? Why?" curiously!
+橄	Gan	3	olive (A)	olive (A) bends down drooping saying "Gan"!
+欖	Lan	3	olive (B)	olive (B) bends down drooping saying "Lan"!
+玻	Bo	1	glass (front side)	glass (front side) sings "Bo!" cheerfully!
+璃	Li	2	glass (back side)	glass (back side) questions "Li? Why?" curiously!
+咖	Ka	1	coffee (first drop)	coffee (first drop) sings "Ka!" cheerfully!
+啡	Fei	1	coffee (last drop)	coffee (last drop) sings "Fei!" cheerfully!
+葡	Pu	2	grapes (A)	grapes (A) questions "Pu? Why?" curiously!
+萄	Tao	2	grapes (B)	grapes (B) questions "Tao? Why?" curiously!
+吩	Fen	1	in-(struct)	in-(struct) sings "Fen!" cheerfully!
+咐	Fu	4	(in)-struct	(in)-struct commands "Fu!" yells!
+乒	Ping	1	ping	ping sings "Ping!" cheerfully!
+乓	Pang	1	pong	pong sings "Pang!" cheerfully!
+崔	Cui	1	Cui	Cui sings "Cui!" cheerfully!
+曹	Cao	2	Cao	Cao questions "Cao? Why?" curiously!
+劉	Liu	2	Liu	Liu questions "Liu? Why?" curiously!
+潘	Pan	1	Pan	Pan sings "Pan!" cheerfully!
+梁	Lian	2	Liang2	Liang2 questions "Lian? Why?" curiously!
+沈	Shen	3	Shen	Shen bends down drooping saying "Shen"!
+鄭	Zheng	4	Zheng	Zheng commands "Zheng!" yells!
+譚	Tan	2	Tam	Tam questions "Tan? Why?" curiously!
+姚	Yao	2	Yao-2	Yao-2 questions "Yao? Why?" curiously!
+魯	Lu	3	Lu3	Lu3 bends down drooping saying "Lu"!
+姜	Jiang	1	Jiang-2	Jiang-2 sings "Jiang!" cheerfully!
+范	Fan	4	Fan	Fan commands "Fan!" yells!
+薛	Xue	1	Xue	Xue sings "Xue!" cheerfully!
+涂	Tu	2	Tu	Tu questions "Tu? Why?" curiously!
+彭	Peng	2	Peng	Peng questions "Peng? Why?" curiously!
+郁	Yu	4	Yu-2	Yu-2 commands "Yu!" yells!
+馮	Feng	2	Feng	Feng questions "Feng? Why?" curiously!
+魏	Wei	4	Wei	Wei commands "Wei!" yells!
+岳	Yue	4	Yue	Yue commands "Yue!" yells!
+彿	Fu	2	as though	as though questions "Fu? Why?" curiously!
+莉	Li	4	jasmine	jasmine commands "Li!" yells!
+湘	Xiang	1	Hunan Province	Hunan Province sings "Xiang!" cheerfully!
+甸	Dian	4	outlying areas	outlying areas commands "Dian!" yells!
+滄	Cang	1	dark blue	dark blue sings "Cang!" cheerfully!
+穆	Mu	4	reverent	reverent commands "Mu!" yells!
+娜	Na	4	na	na commands "Na!" yells!
+瓊	Qiong	2	fine jade	fine jade questions "Qiong? Why?" curiously!
+琳	Lin	2	gem	gem questions "Lin? Why?" curiously!
+鈞	Jun	1	30 catties	30 catties sings "Jun!" cheerfully!
+喲	Yo	1	Oh!	Oh! sings "Yo!" cheerfully!
+砲	Pao	4	cannon	cannon commands "Pao!" yells!
+蒐	Sou	1	search for	search for sings "Sou!" cheerfully!
+芙	Fu	2	hibiscus (A)	hibiscus (A) questions "Fu? Why?" curiously!
+蓉	Rong	2	cottonrose hibiscus (B)	cottonrose hibiscus (B) questions "Rong? Why?" curiously!
+踐	Jian	4	tread on	tread on commands "Jian!" yells!
+趙	Zhao	4	Zhao	Zhao commands "Zhao!" yells!
