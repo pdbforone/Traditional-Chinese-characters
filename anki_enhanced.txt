@@ -895,6 +895,109 @@ Traditional	Study Order	Pinyin	Meaning	Story
 料	0894	liào	Material	Material rice dipper commands "Liao!" sharply stuff!
 科	0895	kē	Academic Discipline	"Kuh!" The grain in the dipper sang cheerfully - an academic discipline in the field!
 用	0896	yòng	to utilize	To utilize door commands "Yong!" sharply using!
+昔	0897	xī	former times	"Shee!" The sun spoke of former times, ancient days long ago.
+借	0898	jiè	to borrow	"Jyeh, can I borrow this?" A person questioned, asking for a loan.
+錯	0899	cuò	mistake	"Tswoh!" Metal made the wrong move - an error, a mistake!
+散	0900	sǎn	to scatter	"San!" The moon commanded to scatter and disperse cheerfully!
+撒	0901	sǎ	to sprinkle	"Sa!" The hand sprinkled and scattered things about sharply!
+備	0902	bèi	to prepare	"Bay!" A person with arrows prepared sharply, getting ready!
+廿	0903	niàn	twenty	Twenty lines stacked together sing "Nyan!" - two tens!
+席	0904	xí	mat	"Shee!" The towel mat was spread out for sitting.
+度	0905	dù	degree	"Doo!"又 and 廿 measured degrees sharply - the extent!
+渡	0906	dù	to cross	"Doo!" Water crossed the degree mark - ferrying to the other side!
+半	0907	bàn	half	"Ban!" The eight was split - only half remained!
+伴	0908	bàn	companion	"Ban!" A person stood by your half - your companion!
+胖	0909	pàng	fat	"Pahng!" Half the body was fat and plump flesh!
+判	0910	pàn	to judge	"Pan!" The knife split things in half to judge sharply!
+眷	0911	juàn	family	"Jwan!" The fist protected eyes - caring for family!
+拳	0912	quán	fist	"Chwan!" Hands formed a fist, clenched tight!
+勝	0913	shèng	victory	The moon and muscles won - victory and success!
+片	0914	piàn	slice	"Pyan!" A tree was cut into a thin slice, a piece!
+版	0915	bǎn	edition	"Ban!" Reverse slice made a printing edition, a version!
+妝	0916	zhuāng	makeup	"Jwahng!" Women put on makeup in the village - adorning themselves!
+壯	0917	zhuàng	robust	"Jwahng!" The big village士 sang cheerfully - strong and robust!
+莊	0918	zhuāng	village	"Jwahng!" Grass grew on the big village, a manor!
+裝	0919	zhuāng	clothing	"Jwahng!" Clothing covered the village - outfits and dress!
+將	0920	jiàng	general	"Jyahng!" The general commanded sharply - a military leader!
+之	0921	zhī	possessive	"Zhi!" A drop bent down, showing possession - of!
+乏	0922	fá	lacking	"Fah!" The丿 was lacking - deficient and scarce!
+眨	0923	zhǎ	to blink	"Jah!" Eyes blinked sharply with each flashing moment!
+不	0924	bù	not	"Boo!" commands sharply - not, no way!
+否	0925	fǒu	to negate	"Foh!" The mouth said not - to deny and negate!
+杯	0926	bēi	cup	"Bay!" A tree was carved into a cup for drinking!
+矢	0927	shǐ	arrow	"Shi!" An arrow flew sharply through the air - a dart!
+族	0928	zú	clan	"Dzoo!" Arrows and方 marked the clan - family tribe!
+知	0929	zhī	to know	"Zhi!" The arrow hit the mouth sharply - to know and understand!
+智	0930	zhì	wisdom	"Zhi!" The sun rose over knowledge - wisdom and intelligence!
+矛	0931	máo	spear	"Mao!" A spear with a long shaft commanded sharply!
+柔	0932	róu	soft	"Roh!" A spear bent like soft wood - gentle and flexible!
+揉	0933	róu	to knead	"Roh!" Hands worked the soft dough, kneading it gently!
+務	0934	wù	affair	"Woo!" Strength wielded the spear for affairs - duties and tasks!
+霧	0935	wù	fog	"Woo!" Rain created fog around affairs - mist and haze!
+予	0936	yǔ	to give	"Yoo!" was given sharply - to bestow!
+序	0937	xù	sequence	"Shyoo!" They questioned the order in the house - sequence!
+預	0938	yù	in advance	"Yoo!" The頁 prepared in advance - beforehand!
+野	0939	yě	wild	"Yeh!" Inside the village里 was野 countryside - wild and rustic!
+班	0940	bān	class	"Ban!" The jade王 and刀 formed a class - a group!
+弓	0941	gōng	bow	"Gong!" The bow curved cheerfully - weapon for arrows!
+引	0942	yǐn	to lead	"Yin!" The bow with vertical stroke led the way - to guide!
+強	0943	qiáng	strong	"Chyang!" The bow虫 commanded sharply - strong and powerful!
+弱	0944	ruò	weak	"Rwoh!" Two bows bent down drooping - weak and feeble!
+彈	0945	dàn	bullet	"Dan!" The bow launched bullets sharply - ammunition!
+佛	0946	fó	Buddha	"Foh!" A person弓 questioned - Buddha, the enlightened one!
+費	0947	fèi	to cost	"Fay!" Money費 and shellfish cost dearly - expenses!
+弟	0948	dì	younger brother	"Dee!" The bound younger brother questioned curiously!
+第	0949	dì	sequence	"Dee!" Bamboo bound in sequence - ordinal numbers!
+巧	0950	qiǎo	skillful	"Chyao!" Work done skillfully questioned curiously!
+身	0951	shēn	body	"Shen!" The身 body stood tall - physical form!
+射	0952	shè	to shoot	"Shuh!" The body身 shot arrows from the inch寸 sharply!
+謝	0953	xiè	to thank	"Shyeh!" Words身 expressed thanks for shooting - gratitude!
+老	0954	lǎo	old	"Lao!" The老 aged one bent down drooping - elderly!
+考	0955	kǎo	to test	"Kao!" The old one老 tested sharply - examination!
+烤	0956	kǎo	to roast	"Kao!" Fire老 roasted food cheerfully - to bake!
+孝	0957	xiào	filial piety	"Shyao!" The old parent老 and child子 showed respect - filial devotion!
+教	0958	jiāo	to teach	"Jyao!" Filial孝 wisdom was taught sharply - to instruct!
+者	0959	zhě	one who	"Juh!" The old者 one questioned - one who does!
+著	0960	zhe	particle	"Juh" - a particle marking the manifest eye目!
+豬	0961	zhū	pig	"Joo!" The animal犬 manifested者 as a pig - swine!
+追	0962	zhuī	to chase	"Jway!" Walking道 they chased the manifest者 - to pursue!
+帥	0963	shuài	commander	"Shwigh!" The towel巾 commanded as a handsome commander!
+師	0964	shī	teacher	"Shi!" The towel巾 taught at the market - a master instructor!
+獅	0965	shī	lion	"Shi!" The animal犬 and teacher師 roared - a lion!
+官	0966	guān	official	"Gwan!" The roof宀 covered officials - government workers!
+管	0967	guǎn	to manage	"Gwan!" Bamboo竹 officials managed affairs - to control!
+父	0968	fù	father	"Foo!" The father held authority sharply - paternal parent!
+交	0969	jiāo	to intersect	"Jyao!" Lines crossed to intersect - to交 meet!
+效	0970	xiào	effect	"Shyao!" Intersection交 and力 created效 effects sharply!
+較	0971	jiào	to compare	"Jyao!" The car車 compared intersections交 - relatively!
+校	0972	xiào	school	"Shyao!" Trees木 and交 formed校 school - educational institution!
+足	0973	zú	foot	"Dzoo!" The足 foot and口 questioned - leg extremity!
+跑	0974	pǎo	to run	"Pao!" Feet足 ran with包 packages - to sprint!
+跳	0975	tiào	to jump	"Tyao!" Feet足 jumped cheerfully - to leap!
+路	0976	lù	road	"Loo!" Feet足 walked the各 road - pathway!
+露	0977	lù	dew	"Loo!" Rain雨 on the road路 formed露 dew - moisture drops!
+骨	0978	gǔ	bone	"Goo!" The skeleton骨 remained - hard bones!
+滑	0979	huá	slippery	"Hwah!" Water水 made bones骨 slippery - smooth and slick!
+過	0980	guò	to pass	"Gwoh!" Walking辵 by the骨 bones - to過 pass through!
+阿	0981	ā	prefix	"Ah!" The mound阝 questioned - a prefix for names!
+啊	0982	ā	ah	"Ah!" The mouth口 on the mound阝 exclaimed - interjection!
+際	0983	jì	border	"Jee!" The mound阝 marked borders祭 - edge and boundary!
+險	0984	xiǎn	danger	"Shyan!" The mound阝 at険 険 険 險 險 險 險 險 險 險 險 険 was dangerous - perilous!
+隨	0985	suí	to follow	"Sway!" The mound阝 followed有 along - to accompany!
+陽	0986	yáng	yang	"Yang!" The mound阝 faced the sun - bright yang energy!
+陳	0987	chén	to display	"Chun!" The mound displayed items in the east - to arrange and exhibit!
+防	0988	fáng	to prevent	"Fahng!" The mound by the direction prevented harm - to defend!
+附	0989	fù	to attach	"Foo!" The mound attached付 to things - to affix and append!
+院	0990	yuàn	courtyard	"Yuan!" The mound surrounded完 the walled院 - enclosed compound!
+陣	0991	zhèn	battle array	"Jun!" The mound車 formed battle lines - military formation!
+隊	0992	duì	team	"Dway!" The mound organized a team - coordinated group!
+降	0993	jiàng	to descend	"Jyahng!" The mound descended downward - to fall from height!
+階	0994	jiē	stairs	"Jyeh!" The mound had steps going up - staircase!
+穴	0995	xué	cave	"Shueh!" The穴 cave opening questioned curiously - hollow cavity!
+究	0996	jiū	to investigate	"Jyo!" Nine paths explored the cave - to research thoroughly!
+突	0997	tū	sudden	"Too!" Dogs burst suddenly from caves - abrupt and突!
+空	0998	kōng	empty	"Kohng!" Work in the cave left it empty - hollow void!
+控	0999	kòng	to control	"Kohng!" Hands controlled the empty space - to manage!
 邊	1000	biān	Border	Along the border road, your nose catches the scent, singing "Bian!" cheerfully as you cross the edge!
 深	1001	shēn	deep	"Shen!" she sang cheerfully as water depths grew deeper - diving down into the profound darkness!
 探	1002	tàn	a Spy	A spy with hands reaching into the cave commands "Tan!" sharply, exploring every hidden corner!
@@ -2519,6 +2622,7 @@ Traditional	Study Order	Pinyin	Meaning	Story
 匪	2621	fěi	bandit	The box and jail cell bend down drooping - a bandit, a thief and outlaw!
 匿	2622	nì	keep out of sight	"NEE!" the box and Disneyland command sharply - to keep out of sight, hide and conceal!
 兜	2623	dōu	pocket	"DOH!" he sings cheerfully about the pocket, pouch to carry!
+嘔	2624	ǒu	to vomit	"Oh!" The mouth區 expelled - to vomit and retch!
 毆	2625	ōu	hit	"OH!" the bones sing cheerfully - to hit, fight and strike in the cloud recesses!
 軀	2626	qū	human body	"CHYOO!" the car sings cheerfully - the human body, physique and torso!
 昂	2627	áng	hold one's head high	"AHNG?" the sun questions curiously - will you hold your head high, proud and lofty?
@@ -2616,6 +2720,8 @@ Traditional	Study Order	Pinyin	Meaning	Story
 偏	2719	piān	partial	"PYEN!" the person and book cover sing cheerfully - partial, biased and simplified!
 淪	2720	lún	sink	"LWUN?" the water and library question curiously - will it sink, fall and descend?
 倫	2721	lún	human relationships	"LWUN?" the person and library question curiously - human relationships, ethics and family bonds?
+抵	2722	dǐ	to resist	"Dee!" Hands扌 pushed氐 to resist - to withstand force!
+氓	2723	máng	people	"Mahng!" The deceased became common people - the masses!
 哺	2724	bǔ	breastfeed	The mother bends down drooping with her mouth near the dog tag necklace, as she breastfeeds and nurses her baby to suckle.
 鋪	2725	pù	shop	"POO!" the metal sign commands sharply outside the shop - a store spreading goods for sale!
 輔	2726	fǔ	supplement	The car bends down drooping, needing parts to supplement, assist, and support its failing engine.

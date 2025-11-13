@@ -2929,3 +2929,109 @@ Character	Pinyin	Tone	Meaning	Story
 Biang	biāng	2	Biang	Biang hole flesh 2 cocoons words 2 long braids horse saber heart road questions "Byahng?" curiously - complex noodle!
 踐	jiàn	4	tread on	Tread on wooden leg float commands sharply "Jyen!" - step fulfill promise!
 趙	zhào	4	Zhao	"JAO!" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!
+昔	xī	1	former times	"Shee!" The sun spoke of former times, ancient days long ago.
+借	jiè	4	to borrow	"Jyeh, can I borrow this?" A person questioned, asking for a loan.
+錯	cuò	4	mistake	"Tswoh!" Metal made the wrong move - an error, a mistake!
+散	sǎn	3	to scatter	"San!" The moon commanded to scatter and disperse cheerfully!
+撒	sǎ	3	to sprinkle	"Sa!" The hand sprinkled and scattered things about sharply!
+備	bèi	4	to prepare	"Bay!" A person with arrows prepared sharply, getting ready!
+廿	niàn	4	twenty	Twenty lines stacked together sing "Nyan!" - two tens!
+席	xí	2	mat	"Shee!" The towel mat was spread out for sitting.
+度	dù	4	degree	"Doo!"又 and 廿 measured degrees sharply - the extent!
+渡	dù	4	to cross	"Doo!" Water crossed the degree mark - ferrying to the other side!
+半	bàn	4	half	"Ban!" The eight was split - only half remained!
+伴	bàn	4	companion	"Ban!" A person stood by your half - your companion!
+胖	pàng	4	fat	"Pahng!" Half the body was fat and plump flesh!
+判	pàn	4	to judge	"Pan!" The knife split things in half to judge sharply!
+眷	juàn	4	family	"Jwan!" The fist protected eyes - caring for family!
+拳	quán	2	fist	"Chwan!" Hands formed a fist, clenched tight!
+勝	shèng	4	victory	The moon and muscles won - victory and success!
+片	piàn	4	slice	"Pyan!" A tree was cut into a thin slice, a piece!
+版	bǎn	3	edition	"Ban!" Reverse slice made a printing edition, a version!
+妝	zhuāng	1	makeup	"Jwahng!" Women put on makeup in the village - adorning themselves!
+壯	zhuàng	4	robust	"Jwahng!" The big village士 sang cheerfully - strong and robust!
+莊	zhuāng	1	village	"Jwahng!" Grass grew on the big village, a manor!
+裝	zhuāng	1	clothing	"Jwahng!" Clothing covered the village - outfits and dress!
+將	jiàng	4	general	"Jyahng!" The general commanded sharply - a military leader!
+之	zhī	1	possessive	"Zhi!" A drop bent down, showing possession - of!
+乏	fá	2	lacking	"Fah!" The丿 was lacking - deficient and scarce!
+眨	zhǎ	3	to blink	"Jah!" Eyes blinked sharply with each flashing moment!
+不	bù	4	not	"Boo!" commands sharply - not, no way!
+否	fǒu	3	to negate	"Foh!" The mouth said not - to deny and negate!
+杯	bēi	1	cup	"Bay!" A tree was carved into a cup for drinking!
+矢	shǐ	3	arrow	"Shi!" An arrow flew sharply through the air - a dart!
+族	zú	2	clan	"Dzoo!" Arrows and方 marked the clan - family tribe!
+知	zhī	1	to know	"Zhi!" The arrow hit the mouth sharply - to know and understand!
+智	zhì	4	wisdom	"Zhi!" The sun rose over knowledge - wisdom and intelligence!
+矛	máo	2	spear	"Mao!" A spear with a long shaft commanded sharply!
+柔	róu	2	soft	"Roh!" A spear bent like soft wood - gentle and flexible!
+揉	róu	2	to knead	"Roh!" Hands worked the soft dough, kneading it gently!
+務	wù	4	affair	"Woo!" Strength wielded the spear for affairs - duties and tasks!
+霧	wù	4	fog	"Woo!" Rain created fog around affairs - mist and haze!
+予	yǔ	3	to give	"Yoo!" was given sharply - to bestow!
+序	xù	4	sequence	"Shyoo!" They questioned the order in the house - sequence!
+預	yù	4	in advance	"Yoo!" The頁 prepared in advance - beforehand!
+野	yě	3	wild	"Yeh!" Inside the village里 was野 countryside - wild and rustic!
+班	bān	1	class	"Ban!" The jade王 and刀 formed a class - a group!
+弓	gōng	1	bow	"Gong!" The bow curved cheerfully - weapon for arrows!
+引	yǐn	3	to lead	"Yin!" The bow with vertical stroke led the way - to guide!
+強	qiáng	2	strong	"Chyang!" The bow虫 commanded sharply - strong and powerful!
+弱	ruò	4	weak	"Rwoh!" Two bows bent down drooping - weak and feeble!
+彈	dàn	4	bullet	"Dan!" The bow launched bullets sharply - ammunition!
+佛	fó	2	Buddha	"Foh!" A person弓 questioned - Buddha, the enlightened one!
+費	fèi	4	to cost	"Fay!" Money費 and shellfish cost dearly - expenses!
+弟	dì	4	younger brother	"Dee!" The bound younger brother questioned curiously!
+第	dì	4	sequence	"Dee!" Bamboo bound in sequence - ordinal numbers!
+巧	qiǎo	3	skillful	"Chyao!" Work done skillfully questioned curiously!
+身	shēn	1	body	"Shen!" The身 body stood tall - physical form!
+射	shè	4	to shoot	"Shuh!" The body身 shot arrows from the inch寸 sharply!
+謝	xiè	4	to thank	"Shyeh!" Words身 expressed thanks for shooting - gratitude!
+老	lǎo	3	old	"Lao!" The老 aged one bent down drooping - elderly!
+考	kǎo	3	to test	"Kao!" The old one老 tested sharply - examination!
+烤	kǎo	3	to roast	"Kao!" Fire老 roasted food cheerfully - to bake!
+孝	xiào	4	filial piety	"Shyao!" The old parent老 and child子 showed respect - filial devotion!
+教	jiāo	1	to teach	"Jyao!" Filial孝 wisdom was taught sharply - to instruct!
+者	zhě	3	one who	"Juh!" The old者 one questioned - one who does!
+著	zhe	1	particle	"Juh" - a particle marking the manifest eye目!
+豬	zhū	1	pig	"Joo!" The animal犬 manifested者 as a pig - swine!
+追	zhuī	1	to chase	"Jway!" Walking道 they chased the manifest者 - to pursue!
+帥	shuài	4	commander	"Shwigh!" The towel巾 commanded as a handsome commander!
+師	shī	1	teacher	"Shi!" The towel巾 taught at the market - a master instructor!
+獅	shī	1	lion	"Shi!" The animal犬 and teacher師 roared - a lion!
+官	guān	1	official	"Gwan!" The roof宀 covered officials - government workers!
+管	guǎn	3	to manage	"Gwan!" Bamboo竹 officials managed affairs - to control!
+父	fù	4	father	"Foo!" The father held authority sharply - paternal parent!
+交	jiāo	1	to intersect	"Jyao!" Lines crossed to intersect - to交 meet!
+效	xiào	4	effect	"Shyao!" Intersection交 and力 created效 effects sharply!
+較	jiào	4	to compare	"Jyao!" The car車 compared intersections交 - relatively!
+校	xiào	4	school	"Shyao!" Trees木 and交 formed校 school - educational institution!
+足	zú	2	foot	"Dzoo!" The足 foot and口 questioned - leg extremity!
+跑	pǎo	3	to run	"Pao!" Feet足 ran with包 packages - to sprint!
+跳	tiào	4	to jump	"Tyao!" Feet足 jumped cheerfully - to leap!
+路	lù	4	road	"Loo!" Feet足 walked the各 road - pathway!
+露	lù	4	dew	"Loo!" Rain雨 on the road路 formed露 dew - moisture drops!
+骨	gǔ	3	bone	"Goo!" The skeleton骨 remained - hard bones!
+滑	huá	2	slippery	"Hwah!" Water水 made bones骨 slippery - smooth and slick!
+過	guò	4	to pass	"Gwoh!" Walking辵 by the骨 bones - to過 pass through!
+阿	ā	1	prefix	"Ah!" The mound阝 questioned - a prefix for names!
+啊	ā	1	ah	"Ah!" The mouth口 on the mound阝 exclaimed - interjection!
+際	jì	4	border	"Jee!" The mound阝 marked borders祭 - edge and boundary!
+險	xiǎn	3	danger	"Shyan!" The mound阝 at険 険 険 險 險 險 險 險 險 險 險 険 was dangerous - perilous!
+隨	suí	2	to follow	"Sway!" The mound阝 followed有 along - to accompany!
+陽	yáng	2	yang	"Yang!" The mound阝 faced the sun - bright yang energy!
+陳	chén	2	to display	"Chun!" The mound displayed items in the east - to arrange and exhibit!
+防	fáng	2	to prevent	"Fahng!" The mound by the direction prevented harm - to defend!
+附	fù	4	to attach	"Foo!" The mound attached付 to things - to affix and append!
+院	yuàn	4	courtyard	"Yuan!" The mound surrounded完 the walled院 - enclosed compound!
+陣	zhèn	4	battle array	"Jun!" The mound車 formed battle lines - military formation!
+隊	duì	4	team	"Dway!" The mound organized a team - coordinated group!
+降	jiàng	4	to descend	"Jyahng!" The mound descended downward - to fall from height!
+階	jiē	1	stairs	"Jyeh!" The mound had steps going up - staircase!
+穴	xué	2	cave	"Shueh!" The穴 cave opening questioned curiously - hollow cavity!
+究	jiū	1	to investigate	"Jyo!" Nine paths explored the cave - to research thoroughly!
+突	tū	1	sudden	"Too!" Dogs burst suddenly from caves - abrupt and突!
+空	kōng	1	empty	"Kohng!" Work in the cave left it empty - hollow void!
+控	kòng	4	to control	"Kohng!" Hands controlled the empty space - to manage!
+嘔	ǒu	3	to vomit	"Oh!" The mouth區 expelled - to vomit and retch!
+抵	dǐ	3	to resist	"Dee!" Hands扌 pushed氐 to resist - to withstand force!
+氓	máng	2	people	"Mahng!" The deceased became common people - the masses!
