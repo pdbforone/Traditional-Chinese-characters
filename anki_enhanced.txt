@@ -703,11 +703,11 @@ Traditional	Study Order	Pinyin	Meaning	Story
 得	0702	dé	must	Must step hand questions "Duh? Have to?" curiously!
 待	0703	dài	to treat	"Dai!" At the temple, each step commanded how to treat guests sharply.
 往	0704	wǎng	toward	Going toward step king bends down drooping saying "Wang"!
+微	0705	wēi	tiny	Tiny step mountain questions "Way? So small?" curiously!
+街	0706	jiē	Street	Street step earth sings "Jieh!" cheerfully paved!
 德	0707	dé	Morality	"Duh, is this virtuous?" Each step questioned whether going straight showed morality.
 聽	0708	tīng	to listen	To listen ear ten eye sings "Ting!" cheerfully hearing!
 廳	0709	tīng	Hall	Hall cliff listen sings "Ting!" cheerfully grand!
-微	0705	wēi	tiny	Tiny step mountain questions "Way? So small?" curiously!
-街	0706	jiē	Street	Street step earth sings "Jieh!" cheerfully paved!
 禾	0710	hé	Standing Grain	Standing grain questions "Huh? Harvest?" curiously!
 程	0711	chéng	Journey	Journey grain king questions "Cheng? How far?" curiously!
 和	0712	hé	Harmony	Harmony grain mouth questions "Huh? Peace?" curiously!
@@ -895,110 +895,6 @@ Traditional	Study Order	Pinyin	Meaning	Story
 料	0894	liào	Material	Material rice dipper commands "Liao!" sharply stuff!
 科	0895	kē	Academic Discipline	"Kuh!" The grain in the dipper sang cheerfully - an academic discipline in the field!
 用	0896	yòng	to utilize	To utilize door commands "Yong!" sharply using!
-深	1001	Shen	deep	"Shen!" she sang cheerfully as water depths grew deeper - diving down into the profound darkness!
-探	1002	Tan	a Spy	a Spy commands "Tan!" yells!
-丘	1003	Qiu	Hill	Hill sings "Qiu!" cheerfully!
-兵	1004	Bing	Troops	Troops sings "Bing!" cheerfully!
-絲	1005	Si	Silk	Silk sings "Si!" cheerfully!
-線	1006	Xian	Line	Line commands "Xian!" yells!
-維	1007	Wei	to maintain	to maintain questions "Wei? Why?" curiously!
-羅	1008	Luo	Silk Gauze	Silk Gauze questions "Luo? Why?" curiously!
-續	1009	Xu	to continue	to continue commands "Xu!" yells!
-統	1010	Tong	continuum	continuum bends down drooping saying "Tong"!
-給	1011	Gei	to give	to give bends down drooping saying "Gei"!
-結	1012	Jie	to tie	to tie questions "Jie? Why?" curiously!
-終	1013	Zhong	end	end sings "Zhong!" cheerfully!
-級	1014	Ji	a Rank	a Rank questions "Ji? Why?" curiously!
-紀	1015	Ji	Epoch	Epoch commands "Ji!" yells!
-紅	1016	Hong	red	"Hong, why so crimson?" The silk and work questioned curiously, blushing red.
-約	1017	Yue	to make an appointment	to make an appointment sings "Yue!" cheerfully!
-細	1018	Xi	fine	"Shi!" Silk as fine as field threads commanded sharply - delicate as a hair!
-緊	1019	Jin	tight	tight bends down drooping saying "Jin"!
-織	1020	Zhi	to weave	to weave sings "Zhi!" cheerfully!
-網	1021	Wang	Net	Net bends down drooping saying "Wang"!
-綠	1022	Lu	green	green commands "Lu!" yells!
-彎	1023	Wan	curved	"Wan!" Thread and bow curved cheerfully, bending in an arc!
-灣	1024	Wan	Bay	Bay sings "Wan!" cheerfully!
-戀	1025	Lian	to be enamored of	to be enamored of commands "Lian!" yells!
-變	1026	Bian	to change	to change commands "Bian!" yells!
-經	1027	Jing	Scripture	Scripture sings "Jing!" cheerfully!
-輕	1028	Qing	lightweight	lightweight sings "Qing!" cheerfully!
-後	1029	Hou	behind	behind commands "Hou!" yells!
-幾	1030	Ji	how many?	how many? bends down drooping saying "Ji"!
-機	1031	Ji	Machine	Machine sings "Ji!" cheerfully!
-斷	1032	Duan	to sever	to sever commands "Duan!" yells!
-繼	1033	Ji	to carry on	to carry on commands "Ji!" yells!
-顯	1034	Xian	obvious	obvious bends down drooping saying "Xian"!
-樂	1035	Yue	Music	"Yueh!" The white tree commanded music sharply - melodies sang with joy!
-藥	1036	Yao	Medicine	Medicine commands "Yao!" yells!
-雞	1037	Ji	Chicken	Chicken sings "Ji!" cheerfully!
-麼	1038	Me	[interrogative suffix]; [pause marker]	[interrogative suffix]; [pause marker] says "Me" neutrally!
-系	1039	Xi	Lineage	Lineage commands "Xi!" yells!
-係	1040	Xi	related to	"Shi!" The person's lineage commanded sharply - they were related by connection!
-孫	1041	Sun	Grandchild	"Sun!" The child on the family line sang cheerfully - a grandson continuing the thread!
-卻	1042	Que	to withdraw (retreat, not banks)	"Chueh!" Divination commanded withdrawal sharply - retreat, yet stand firm!
-腳	1043	Jiao	Foot	Foot bends down drooping saying "Jiao"!
-服	1044	Fu	Apparel	"Foo, what clothing should I wear?" The moon and hand questioned apparel curiously.
-命	1045	Ming	Fate	Fate commands "Ming!" yells!
-留	1046	Liu	to stay	"Lyo, should I remain here?" The field questioned whether to stay, detained.
-溜	1047	Liu	to slide	"Lyo!" On the water they sang cheerfully, sliding away, skating and slipping!
-聊	1048	Liao	to chat	"Liao, want to talk more?" The ear questioned how to chat curiously, passing time!
-柳	1049	Liu	Willow	Willow bends down drooping saying "Liu"!
-令	1050	Ling	Orders	"Ling!" The seal stamped orders sharply - the decree was issued!
-冷	1051	Leng	cold	cold bends down drooping saying "Leng"!
-零	1052	Ling	zero	zero questions "Ling? Why?" curiously!
-領	1053	Ling	Collar	Collar bends down drooping saying "Ling"!
-通	1054	Tong	to communicate	to communicate sings "Tong!" cheerfully!
-勇	1055	Yong	courageous	courageous bends down drooping saying "Yong"!
-犯	1056	Fan	Criminal	Criminal commands "Fan!" yells!
-危	1057	Wei [普], wei [國]	Danger	Danger sings "Wei [普], wei [國]!" cheerfully!
-脆	1058	Cui	fragile	"Tsway!" Flesh in danger commanded sharply - fragile, brittle, and easily broken!
-印	1059	Yin	Print	"Yin!" The hand pressed the seal sharply to print - a stamp marking India's mark!
-興	1060	Xing	Excitement	Excitement commands "Xing!" yells!
-酒	1061	Jiu	Liquor	Liquor bends down drooping saying "Jiu"!
-配	1062	Pei	to distribute	to distribute commands "Pei!" yells!
-酋	1063	Qiu	Chieftain	Chieftain questions "Qiu? Why?" curiously!
-尊	1064	Zun	to venerate	to venerate sings "Zun!" cheerfully!
-遵	1065	Zun	to abide by	to abide by sings "Zun!" cheerfully!
-豆	1066	Dou	Beans	"Doe!" Beans in a dish commanded sharply - peas stacked high!
-頭	1067	Tou	Head	Head questions "Tou? Why?" curiously!
-短	1068	Duan	short	short bends down drooping saying "Duan"!
-禮	1069	Li	Ceremony	Ceremony bends down drooping saying "Li"!
-體	1070	Ti	Body	Body bends down drooping saying "Ti"!
-鼓	1071	Gu	a Drum	a Drum bends down drooping saying "Gu"!
-喜	1072	Xi	joyful	joyful bends down drooping saying "Xi"!
-廚	1073	Chu	Kitchen	"Choo, what's cooking?" The cliff with beans questioned the kitchen curiously!
-樹	1074	Shu	Timber	"Shoo!" Tree and drum commanded sharply - timber leaking glue when beaten!
-血	1075	Xue [普], xie [國]	Blood	Blood bends down drooping saying "Xue [普], xie [國]"!
-盡	1076	Jin	exhausted	exhausted commands "Jin!" yells!
-儘	1077	Jin	to the utmost	to the utmost bends down drooping saying "Jin"!
-蓋	1078	Gai	Lid	Lid commands "Gai!" yells!
-溫	1079	Wen	temperature	temperature sings "Wen!" cheerfully!
-監	1080	Jian	to supervise	to supervise sings "Jian!" cheerfully!
-籃	1081	Lan	Basket	Basket questions "Lan? Why?" curiously!
-藍	1082	Lan	blue	blue questions "Lan? Why?" curiously!
-銀	1083	Yin	Silver	"Yin, is this precious metal?" Gold questioned silver curiously, shining bright!
-跟	1084	Gen	Heel	Heel sings "Gen!" cheerfully!
-很	1085	Hen	very	very bends down drooping saying "Hen"!
-根	1086	Gen	Root	Root sings "Gen!" cheerfully!
-即	1087	Ji	immediately	immediately questions "Ji? Why?" curiously!
-節	1088	Jie	Holiday	Holiday questions "Jie? Why?" curiously!
-退	1089	Tui	to retreat	"Tway!" Walking backwards, they retreated sharply, withdrawing step by step!
-腿	1090	Tui	Leg	Leg bends down drooping saying "Tui"!
-限	1091	Xian	Limit	Limit commands "Xian!" yells!
-眼	1092	Yan	Eyelet	Eyelet bends down drooping saying "Yan"!
-良	1093	Liang	high-quality	high-quality questions "Liang? Why?" curiously!
-浪	1094	Lang	Breakers	Breakers commands "Lang!" yells!
-娘	1095	Niang	Mom	Mom questions "Niang? Why?" curiously!
-食	1096	Shi	Food	Food questions "Shi? Why?" curiously!
-飯	1097	Fan	Meal	Meal commands "Fan!" yells!
-餐	1098	Can	to dine	"Tsan!" They dined with food cheerfully - a repast eaten together!
-館	1099	Guan	Bldg.	Bldg. bends down drooping saying "Guan"!
-養	1100	Yang	to raise	to raise bends down drooping saying "Yang"!
-既	1101	Ji	since	since commands "Ji!" yells!
-概	1102	Gai	approximate	approximate commands "Gai!" yells!
-平	1103	Ping	even	even questions "Ping? Why?" curiously!
-評	1104	Ping	to evaluate	"Ping, is this a fair judgment?" Words questioned evenly, evaluating and criticizing curiously!
 邊	1000	biān	Border	Along the border road, your nose catches the scent, singing "Bian!" cheerfully as you cross the edge!
 深	1001	shēn	deep	"Shen!" she sang cheerfully as water depths grew deeper - diving down into the profound darkness!
 探	1002	tàn	a Spy	A spy with hands reaching into the cave commands "Tan!" sharply, exploring every hidden corner!
@@ -2252,6 +2148,7 @@ Traditional	Study Order	Pinyin	Meaning	Story
 狡	2250	jiǎo	sly	Sly pack wild dogs mix bends down drooping "Jyao" - cunning crafty!
 趴	2251	pā	prostrate oneself	"Pah!" Eight runners sang cheerfully - prostrate oneself, head down, fatso don't move!
 踏	2252	tà	trample	"Tah!" Wooden leg stomped water sharply - trample and step, stamp!
+踐	2253	jiàn	tread on	Tread on wooden leg float commands sharply "Jyen!" - step fulfill promise!
 蹄	2254	tí	hoof	"Tee, is that an animal foot?" Wooden leg questioned the sovereign curiously - hoof, horse hooves!
 捉	2255	zhuō	catch	Catch hand leg sings "Jwoh!" cheerfully - seize grab capture!
 踩	2256	cǎi	step on	Step on wooden leg pluck bends down drooping "Tsigh" - tread trample!
@@ -2421,7 +2318,6 @@ Traditional	Study Order	Pinyin	Meaning	Story
 盛	2420	shèng	flourishing	"Sheng?" she questions curiously as things turn into the dish - flourishing, vigorous and prosperous!
 盞	2421	zhǎn	small cup	The float bends in the dish - a small cup, lantern and lamp!
 盒	2422	hé	small box	"Huh?" he questions curiously about the small box dish - a container and case.
-鋪	2725	pù	shop	"POOH!" she commands sharply, setting up the metal shop to spread goods.
 盜	2423	dào	master thief	"DOW!" the dish commands sharply - the master thief will rob and steal!
 盪	2424	dàng	swing	"DONG!" the dish commands sharply, swinging and swaying with oscillation!
 寧	2425	níng	calm	"Ning?" she questions curiously in a calm, peaceful and tranquil way.
@@ -3005,6 +2901,7 @@ Traditional	Study Order	Pinyin	Meaning	Story
 沈	3006	shěn	Shen	The water bends down drooping - the silent surname Shen.
 鄭	3007	zhèng	Zheng	"JUNG!" the city walls command sharply - the surname Zheng!
 譚	3008	tán	Tam	"TAN?" the words question curiously - the surname Tam?
+趙	3009	zhào	Zhao	"JAO!" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!
 姚	3010	yáo	Yao	"YAO?" the woman questions curiously - the surname Yao?
 魯	3011	lǔ	Lu	It bends down drooping - the surname Lu.
 姜	3012	jiāng	Jiang	"JYAHNG!" the woman sings cheerfully - the surname Jiang!
@@ -3031,6 +2928,4 @@ Traditional	Study Order	Pinyin	Meaning	Story
 蒐	3033	sōu	search for	"SOH!" the flowers sing cheerfully as we search for them - to seek and find!
 芙	3034	fú	hibiscus (A)	"FOO?" the flower questions curiously - hibiscus, the first part, like a lotus flower.
 蓉	3035	róng	hibiscus (B)	"RUNG?" the flower questions curiously - hibiscus, the second part, cottonrose bloom!
-Biang	#3033	biāng	Biang	Biang hole flesh 2 cocoons words 2 long braids horse saber heart road questions "Byahng?" curiously - complex noodle!
-踐	2253	jiàn	tread on	Tread on wooden leg float commands sharply "Jyen!" - step fulfill promise!
-趙	3009	zhào	Zhao	"JAO!" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!
+Biang	50001	biāng	Biang	Biang hole flesh 2 cocoons words 2 long braids horse saber heart road questions "Byahng?" curiously - complex noodle!

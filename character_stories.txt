@@ -895,110 +895,6 @@ Character	Pinyin	Tone	Meaning	Story
 料	liào	4	Material	Material rice dipper commands "Liao!" sharply stuff!
 科	kē	1	Academic Discipline	"Kuh!" The grain in the dipper sang cheerfully - an academic discipline in the field!
 用	yòng	4	to utilize	To utilize door commands "Yong!" sharply using!
-深	Shen	1	deep	"Shen!" she sang cheerfully as water depths grew deeper - diving down into the profound darkness!
-探	Tan	4	a Spy	a Spy commands "Tan!" yells!
-丘	Qiu	1	Hill	Hill sings "Qiu!" cheerfully!
-兵	Bing	1	Troops	Troops sings "Bing!" cheerfully!
-絲	Si	1	Silk	Silk sings "Si!" cheerfully!
-線	Xian	4	Line	Line commands "Xian!" yells!
-維	Wei	2	to maintain	to maintain questions "Wei? Why?" curiously!
-羅	Luo	2	Silk Gauze	Silk Gauze questions "Luo? Why?" curiously!
-續	Xu	4	to continue	to continue commands "Xu!" yells!
-統	Tong	3	continuum	continuum bends down drooping saying "Tong"!
-給	Gei	3	to give	to give bends down drooping saying "Gei"!
-結	Jie	2	to tie	to tie questions "Jie? Why?" curiously!
-終	Zhong	1	end	end sings "Zhong!" cheerfully!
-級	Ji	2	a Rank	a Rank questions "Ji? Why?" curiously!
-紀	Ji	4	Epoch	Epoch commands "Ji!" yells!
-紅	Hong	2	red	"Hong, why so crimson?" The silk and work questioned curiously, blushing red.
-約	Yue	1	to make an appointment	to make an appointment sings "Yue!" cheerfully!
-細	Xi	4	fine	"Shi!" Silk as fine as field threads commanded sharply - delicate as a hair!
-緊	Jin	3	tight	tight bends down drooping saying "Jin"!
-織	Zhi	1	to weave	to weave sings "Zhi!" cheerfully!
-網	Wang	3	Net	Net bends down drooping saying "Wang"!
-綠	Lu	4	green	green commands "Lu!" yells!
-彎	Wan	1	curved	"Wan!" Thread and bow curved cheerfully, bending in an arc!
-灣	Wan	1	Bay	Bay sings "Wan!" cheerfully!
-戀	Lian	4	to be enamored of	to be enamored of commands "Lian!" yells!
-變	Bian	4	to change	to change commands "Bian!" yells!
-經	Jing	1	Scripture	Scripture sings "Jing!" cheerfully!
-輕	Qing	1	lightweight	lightweight sings "Qing!" cheerfully!
-後	Hou	4	behind	behind commands "Hou!" yells!
-幾	Ji	3	how many?	how many? bends down drooping saying "Ji"!
-機	Ji	1	Machine	Machine sings "Ji!" cheerfully!
-斷	Duan	4	to sever	to sever commands "Duan!" yells!
-繼	Ji	4	to carry on	to carry on commands "Ji!" yells!
-顯	Xian	3	obvious	obvious bends down drooping saying "Xian"!
-樂	Yue	4	Music	"Yueh!" The white tree commanded music sharply - melodies sang with joy!
-藥	Yao	4	Medicine	Medicine commands "Yao!" yells!
-雞	Ji	1	Chicken	Chicken sings "Ji!" cheerfully!
-麼	Me	5	[interrogative suffix]; [pause marker]	[interrogative suffix]; [pause marker] says "Me" neutrally!
-系	Xi	4	Lineage	Lineage commands "Xi!" yells!
-係	Xi	4	related to	"Shi!" The person's lineage commanded sharply - they were related by connection!
-孫	Sun	1	Grandchild	"Sun!" The child on the family line sang cheerfully - a grandson continuing the thread!
-卻	Que	4	to withdraw (retreat, not banks)	"Chueh!" Divination commanded withdrawal sharply - retreat, yet stand firm!
-腳	Jiao	3	Foot	Foot bends down drooping saying "Jiao"!
-服	Fu	2	Apparel	"Foo, what clothing should I wear?" The moon and hand questioned apparel curiously.
-命	Ming	4	Fate	Fate commands "Ming!" yells!
-留	Liu	2	to stay	"Lyo, should I remain here?" The field questioned whether to stay, detained.
-溜	Liu	1	to slide	"Lyo!" On the water they sang cheerfully, sliding away, skating and slipping!
-聊	Liao	2	to chat	"Liao, want to talk more?" The ear questioned how to chat curiously, passing time!
-柳	Liu	3	Willow	Willow bends down drooping saying "Liu"!
-令	Ling	4	Orders	"Ling!" The seal stamped orders sharply - the decree was issued!
-冷	Leng	3	cold	cold bends down drooping saying "Leng"!
-零	Ling	2	zero	zero questions "Ling? Why?" curiously!
-領	Ling	3	Collar	Collar bends down drooping saying "Ling"!
-通	Tong	1	to communicate	to communicate sings "Tong!" cheerfully!
-勇	Yong	3	courageous	courageous bends down drooping saying "Yong"!
-犯	Fan	4	Criminal	Criminal commands "Fan!" yells!
-危	Wei [普], wei [國]	1	Danger	Danger sings "Wei [普], wei [國]!" cheerfully!
-脆	Cui	4	fragile	"Tsway!" Flesh in danger commanded sharply - fragile, brittle, and easily broken!
-印	Yin	4	Print	"Yin!" The hand pressed the seal sharply to print - a stamp marking India's mark!
-興	Xing	4	Excitement	Excitement commands "Xing!" yells!
-酒	Jiu	3	Liquor	Liquor bends down drooping saying "Jiu"!
-配	Pei	4	to distribute	to distribute commands "Pei!" yells!
-酋	Qiu	2	Chieftain	Chieftain questions "Qiu? Why?" curiously!
-尊	Zun	1	to venerate	to venerate sings "Zun!" cheerfully!
-遵	Zun	1	to abide by	to abide by sings "Zun!" cheerfully!
-豆	Dou	4	Beans	"Doe!" Beans in a dish commanded sharply - peas stacked high!
-頭	Tou	2	Head	Head questions "Tou? Why?" curiously!
-短	Duan	3	short	short bends down drooping saying "Duan"!
-禮	Li	3	Ceremony	Ceremony bends down drooping saying "Li"!
-體	Ti	3	Body	Body bends down drooping saying "Ti"!
-鼓	Gu	3	a Drum	a Drum bends down drooping saying "Gu"!
-喜	Xi	3	joyful	joyful bends down drooping saying "Xi"!
-廚	Chu	2	Kitchen	"Choo, what's cooking?" The cliff with beans questioned the kitchen curiously!
-樹	Shu	4	Timber	"Shoo!" Tree and drum commanded sharply - timber leaking glue when beaten!
-血	Xue [普], xie [國]	3	Blood	Blood bends down drooping saying "Xue [普], xie [國]"!
-盡	Jin	4	exhausted	exhausted commands "Jin!" yells!
-儘	Jin	3	to the utmost	to the utmost bends down drooping saying "Jin"!
-蓋	Gai	4	Lid	Lid commands "Gai!" yells!
-溫	Wen	1	temperature	temperature sings "Wen!" cheerfully!
-監	Jian	1	to supervise	to supervise sings "Jian!" cheerfully!
-籃	Lan	2	Basket	Basket questions "Lan? Why?" curiously!
-藍	Lan	2	blue	blue questions "Lan? Why?" curiously!
-銀	Yin	2	Silver	"Yin, is this precious metal?" Gold questioned silver curiously, shining bright!
-跟	Gen	1	Heel	Heel sings "Gen!" cheerfully!
-很	Hen	3	very	very bends down drooping saying "Hen"!
-根	Gen	1	Root	Root sings "Gen!" cheerfully!
-即	Ji	2	immediately	immediately questions "Ji? Why?" curiously!
-節	Jie	2	Holiday	Holiday questions "Jie? Why?" curiously!
-退	Tui	4	to retreat	"Tway!" Walking backwards, they retreated sharply, withdrawing step by step!
-腿	Tui	3	Leg	Leg bends down drooping saying "Tui"!
-限	Xian	4	Limit	Limit commands "Xian!" yells!
-眼	Yan	3	Eyelet	Eyelet bends down drooping saying "Yan"!
-良	Liang	2	high-quality	high-quality questions "Liang? Why?" curiously!
-浪	Lang	4	Breakers	Breakers commands "Lang!" yells!
-娘	Niang	2	Mom	Mom questions "Niang? Why?" curiously!
-食	Shi	2	Food	Food questions "Shi? Why?" curiously!
-飯	Fan	4	Meal	Meal commands "Fan!" yells!
-餐	Can	1	to dine	"Tsan!" They dined with food cheerfully - a repast eaten together!
-館	Guan	3	Bldg.	Bldg. bends down drooping saying "Guan"!
-養	Yang	3	to raise	to raise bends down drooping saying "Yang"!
-既	Ji	4	since	since commands "Ji!" yells!
-概	Gai	4	approximate	approximate commands "Gai!" yells!
-平	Ping	2	even	even questions "Ping? Why?" curiously!
-評	Ping	2	to evaluate	"Ping, is this a fair judgment?" Words questioned evenly, evaluating and criticizing curiously!
 邊	biān	1	Border	Along the border road, your nose catches the scent, singing "Bian!" cheerfully as you cross the edge!
 深	shēn	1	deep	"Shen!" she sang cheerfully as water depths grew deeper - diving down into the profound darkness!
 探	tàn	4	a Spy	A spy with hands reaching into the cave commands "Tan!" sharply, exploring every hidden corner!
@@ -2421,7 +2317,6 @@ Character	Pinyin	Tone	Meaning	Story
 盛	shèng	2	flourishing	"Sheng?" she questions curiously as things turn into the dish - flourishing, vigorous and prosperous!
 盞	zhǎn	3	small cup	The float bends in the dish - a small cup, lantern and lamp!
 盒	hé	2	small box	"Huh?" he questions curiously about the small box dish - a container and case.
-鋪	pù	4	shop	"POOH!" she commands sharply, setting up the metal shop to spread goods.
 盜	dào	4	master thief	"DOW!" the dish commands sharply - the master thief will rob and steal!
 盪	dàng	4	swing	"DONG!" the dish commands sharply, swinging and swaying with oscillation!
 寧	níng	2	calm	"Ning?" she questions curiously in a calm, peaceful and tranquil way.
