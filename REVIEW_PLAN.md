@@ -11,8 +11,186 @@ Before reviewing, we need current standards on:
 - Narrative-based learning studies
 - Gamification patterns (Duolingo, Anki, Memrise)
 - Cognitive load theory in game design
+- AAA narrative game storytelling (Alan Wake, Control, Disco Elysium)
+- Chinese mythology and folklore for authentic cultural embedding
 
-**See: Gemini Deep Research Prompt below**
+---
+
+## GEMINI DEEP RESEARCH PROMPT
+
+```
+# Research Request: High-Quality Mnemonic Storytelling Standards
+
+## CONTEXT
+
+I'm developing a mnemonic learning system for 1,500 Traditional Chinese characters across 55 lesson-stories. Each story embeds 20-40 characters into a surreal, interconnected narrative universe. The stories use:
+
+- **Method of Loci**: Spatial settings where events happen
+- **Bizarre Imagery Effect**: Unusual/absurd scenarios for memorability
+- **Narrative Chaining**: Characters connected through cause-and-effect
+- **Callbacks**: Cross-references between lessons (62 total connections)
+- **Saga Groupings**: 9 thematic clusters (Genesis, Empire, Elements, Nature, Family, Craft, Journey, Spirit, Body)
+
+Current style: Absurdist dark fantasy with dream-logic (similar to Neil Gaiman meets educational content).
+
+Target quality level: **Alan Wake / Control** (Remedy Entertainment) — atmospheric, literary, emotionally resonant narratives that reward attention and create lasting mental images.
+
+---
+
+## RESEARCH QUESTIONS
+
+### 1. NARRATIVE GAME STORYTELLING STANDARDS
+
+Research the narrative design principles of high-quality story-driven games, specifically:
+
+**Alan Wake (Remedy, 2010/2023 Remastered)**
+- Episode structure and pacing
+- Use of collectible manuscript pages (parallel narrative technique)
+- How atmosphere and tension are maintained across chapters
+- The "strange but logical" internal consistency
+- Integration of environmental storytelling
+
+**Control (Remedy, 2019)**
+- The Oldest House as interconnected narrative space
+- How weird/supernatural elements are grounded
+- Document-based worldbuilding (case files, research notes)
+- The balance between confusion and clarity
+
+**Disco Elysium (ZA/UM, 2019)**
+- Literary prose quality in games
+- Internal voice as narrative device
+- How complex information is embedded in dialogue
+- Skill checks as narrative moments
+
+**What I need:**
+- Specific techniques these games use to make stories memorable
+- How they balance "strange" with "comprehensible"
+- Pacing structures that maintain engagement over 10-20 hour experiences
+- How they create "peak moments" that players remember years later
+
+---
+
+### 2. CHINESE MYTHOLOGY INTEGRATION
+
+Research Chinese mythology, folklore, and cosmology that could authentically enrich mnemonic stories for Chinese character learning:
+
+**Mythological Figures**
+- Major deities: Jade Emperor, Guanyin, Nezha, Sun Wukong, Erlang Shen
+- Creation myths: Pangu, Nüwa
+- Legendary figures: Zhuge Liang, Guan Yu, the Eight Immortals
+- Underworld: Yanluo Wang, the Ten Courts of Hell
+
+**Creatures & Beings**
+- Dragons (long 龍) — types, symbolism, powers
+- Phoenix (fenghuang 鳳凰) — attributes, cultural meaning
+- Qilin, Pixiu, Baihu, Xuanwu (Four Symbols)
+- Ghosts and spirits: Gui (鬼), Jiangshi, Fox spirits (huli jing)
+
+**Cosmological Concepts**
+- Five Elements (Wuxing): Wood, Fire, Earth, Metal, Water
+- Yin-Yang dynamics in narrative
+- Heavenly bureaucracy structure
+- The concept of fate/destiny (ming 命)
+
+**Folklore Settings**
+- Journey to the West locations and tropes
+- Romance of Three Kingdoms narrative patterns
+- Strange Tales from a Chinese Studio (Liaozhai) — short weird tales
+
+**What I need:**
+- Which mythological elements would be most recognizable to Chinese learners
+- How to use mythology without cultural appropriation concerns
+- Specific story patterns from Chinese folklore that aid memorization
+- Visual/spatial elements from Chinese cosmology (celestial hierarchy, underworld geography)
+
+---
+
+### 3. SPECIFIC OPTIMIZATION QUESTIONS
+
+Please provide evidence-based answers with citations where possible:
+
+**Q1: Optimal Story Length per Character Count**
+- If a lesson has 25 Chinese characters to embed, what's the ideal word count for the story?
+- Research on information density in mnemonic narratives
+- Diminishing returns: at what point does length hurt rather than help retention?
+- Any studies comparing short vs. long mnemonic narratives?
+
+**Q2: Callback Network Effects**
+- How many cross-references between stories create a "network effect" that strengthens memory?
+- At what point do callbacks create confusion rather than reinforcement?
+- Research on "interleaving" vs. "blocking" in spaced repetition
+- Graph theory applied to mnemonic systems — optimal node connectivity?
+
+**Q3: Bizarreness Calibration**
+- The "bizarreness effect" in memory research — what level maximizes retention?
+- Is there a point where imagery becomes TOO strange and alienates learners?
+- Research on emotional valence (humor vs. disgust vs. fear) in mnemonics
+- Cultural differences in what's considered "bizarre" (Western vs. Chinese learners)
+
+**Q4: Linear vs. Saga Reading Order**
+- Should learners read lessons 1-55 in order, or grouped by saga theme?
+- Research on thematic vs. sequential learning in narrative contexts
+- How do video games handle non-linear but coherent storytelling?
+- Any studies on "choose your own adventure" style learning paths?
+
+**Q5: Forgetting Curve for Narrative Mnemonics**
+- How does the Ebbinghaus forgetting curve apply to story-embedded information?
+- Do narrative mnemonics decay slower than isolated flashcards?
+- Research on "context-dependent memory" and its implications
+- Optimal review intervals for narrative-based learning systems
+
+---
+
+### 4. QUALITY BENCHMARKS
+
+Provide concrete, measurable standards for:
+
+**Prose Quality Metrics**
+- Flesch-Kincaid or similar readability targets
+- Sentence length variation patterns
+- Active vs. passive voice ratios
+- Imagery density per paragraph
+
+**Narrative Structure Metrics**
+- Hook effectiveness (words to engagement)
+- Scene change frequency
+- Tension arc patterns
+- Resolution satisfaction indicators
+
+**Mnemonic Effectiveness Metrics**
+- Keyword positioning in sentences (beginning vs. end)
+- Action vs. description ratios for memorability
+- Spatial language usage patterns
+- Emotional peak frequency
+
+---
+
+## OUTPUT FORMAT
+
+Please structure your research as:
+
+1. **Executive Summary** (key findings in 200 words)
+2. **Narrative Game Standards** (with specific techniques I can apply)
+3. **Chinese Mythology Guide** (organized by story utility)
+4. **Answers to 5 Questions** (with citations and confidence levels)
+5. **Quality Benchmarks** (specific, measurable targets)
+6. **Implementation Recommendations** (prioritized action items)
+
+---
+
+## ADDITIONAL CONTEXT
+
+The current story universe includes:
+- A "Genesis Saga" where reality is created through language
+- An "Empire Saga" with bureaucratic dream-politics
+- An "Elements Saga" with alchemical transformations
+- Cross-lesson characters who evolve (Eye from Lesson 1 becomes corrupted in Lesson 45)
+- A final lesson where "Chaos swallows all that Genesis created" (cosmic cycle)
+
+Target audience: Adult learners of Traditional Chinese characters, likely English-speaking, with interest in games/narrative. Tolerance for dark/surreal content: high. Cultural sensitivity: important.
+
+The goal is to create something that feels like reading a strange, beautiful novel that happens to teach you 1,500 characters — not a textbook with stories attached.
+```
 
 ---
 
