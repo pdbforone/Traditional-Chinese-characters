@@ -33,7 +33,9 @@ I'm developing a mnemonic learning system for 1,500 Traditional Chinese characte
 
 Current style: Absurdist dark fantasy with dream-logic (similar to Neil Gaiman meets educational content).
 
-Target quality level: **Alan Wake / Control** (Remedy Entertainment) — atmospheric, literary, emotionally resonant narratives that reward attention and create lasting mental images.
+Target quality level: AAA narrative games with memorable storytelling — atmospheric, literary, emotionally resonant narratives that reward attention and create lasting mental images. Examples include Alan Wake, Jade Empire, and others below.
+
+**Important**: The game format is flexible — it can morph to fit the story. We're not locked to any specific genre (action, RPG, puzzle, etc.). The narrative comes first; gameplay mechanics should serve the learning and storytelling.
 
 ---
 
@@ -43,30 +45,44 @@ Target quality level: **Alan Wake / Control** (Remedy Entertainment) — atmosph
 
 Research the narrative design principles of high-quality story-driven games, specifically:
 
-**Alan Wake (Remedy, 2010/2023 Remastered)**
+**Jade Empire (BioWare, 2005)** — PRIORITY for Chinese mythology integration
+- How it authentically incorporated Chinese mythology, martial arts philosophy, and cosmology
+- The Spirit Monk narrative and journey structure
+- Moral complexity within a mythological framework
+- World-building that feels culturally grounded yet accessible
+- How it made Chinese folklore memorable to Western audiences
+
+**Alan Wake (Remedy, 2010/2023 Remastered)** — example of atmospheric weird fiction
 - Episode structure and pacing
 - Use of collectible manuscript pages (parallel narrative technique)
 - How atmosphere and tension are maintained across chapters
 - The "strange but logical" internal consistency
 - Integration of environmental storytelling
 
-**Control (Remedy, 2019)**
+**Control (Remedy, 2019)** — example of interconnected surreal spaces
 - The Oldest House as interconnected narrative space
 - How weird/supernatural elements are grounded
 - Document-based worldbuilding (case files, research notes)
 - The balance between confusion and clarity
 
-**Disco Elysium (ZA/UM, 2019)**
+**Disco Elysium (ZA/UM, 2019)** — example of literary prose quality
 - Literary prose quality in games
 - Internal voice as narrative device
 - How complex information is embedded in dialogue
 - Skill checks as narrative moments
+
+**Other relevant examples:**
+- Okami (Japanese mythology as gameplay)
+- Genshin Impact (Chinese-inspired regions like Liyue)
+- Ni no Kuni (Studio Ghibli storytelling for all ages)
+- Professor Layton series (puzzle + narrative for broad audiences)
 
 **What I need:**
 - Specific techniques these games use to make stories memorable
 - How they balance "strange" with "comprehensible"
 - Pacing structures that maintain engagement over 10-20 hour experiences
 - How they create "peak moments" that players remember years later
+- How to make mythological/cultural content accessible without dumbing it down
 
 ---
 
@@ -187,9 +203,9 @@ The current story universe includes:
 - Cross-lesson characters who evolve (Eye from Lesson 1 becomes corrupted in Lesson 45)
 - A final lesson where "Chaos swallows all that Genesis created" (cosmic cycle)
 
-Target audience: Adult learners of Traditional Chinese characters, likely English-speaking, with interest in games/narrative. Tolerance for dark/surreal content: high. Cultural sensitivity: important.
+Target audience: Learners of Traditional Chinese characters across all ages — from younger learners (10+) to adults. Likely English-speaking, with interest in games/narrative. Cultural sensitivity: important. Content should be accessible to younger audiences while still being engaging for adults (think Ghibli/Pixar quality — works on multiple levels).
 
-The goal is to create something that feels like reading a strange, beautiful novel that happens to teach you 1,500 characters — not a textbook with stories attached.
+The goal is to create something that feels like reading a strange, beautiful novel that happens to teach you 1,500 characters — not a textbook with stories attached. The game/interactive format is flexible and should emerge from what serves the learning and story best.
 ```
 
 ---
